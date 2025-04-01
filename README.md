@@ -116,6 +116,7 @@ page or documentatation in each case.
 - [Competencies, training resources and career profiles in computational biology](https://competency.ebi.ac.uk/framework/iscb/3.0)
 - [RSE Toolkit](https://rsetoolkit.github.io/)
 - [Australian Research Data Commons (ARDC) Digital Research Capabilities and Skills Framework: The Framework and Its Components](https://zenodo.org/records/14188836)
+- [Lightcast skills taxonomy](https://lightcast.io/open-skills)
 
 ### Website
 

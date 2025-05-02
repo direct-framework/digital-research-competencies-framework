@@ -117,6 +117,7 @@ page or documentatation in each case.
 - [RSE Toolkit](https://rsetoolkit.github.io/)
 - [Australian Research Data Commons (ARDC) Digital Research Capabilities and Skills Framework: The Framework and Its Components](https://zenodo.org/records/14188836)
 - [Lightcast skills taxonomy](https://lightcast.io/open-skills)
+- [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
 ### Website
 

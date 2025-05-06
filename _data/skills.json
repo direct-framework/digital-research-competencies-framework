@@ -1,66 +1,939 @@
-{
-    "Technical skills (general)": [
-        "Collaborative software development",
-        "Version control",
-        "Continuous integration / continuous delivery",
-        "Systems design, architecture & development",
-        "Software documentation",
-        "Testing",
-        "Coding conventions",
-        "Software licensing",
-        "Software packaging & release",
-        "Programming paradigms",
-        "Programming",
-        "Environmental impact awareness"
-    ],
-    "Technical (specific)": [
-        "Visualization",
-        "High performance computing",
-        "Programming languages",
-        "Parallelization",
-        "Web development",
-        "Systems administration",
-        "Data analysis",
-        "AI/ML",
-        "User Experience",
-        "Technical translation between researchers and RSEs",
-        "Virtualization & Cloud computing",
-        "Code optimization"
-    ],
-    "Interpersonal": [
-        "Understanding of mental health, stress and burnout",
-        "Building of community of practice",
-        "Collaboration & building connections",
-        "People management",
-        "Leadership & communication skills",
-        "Mentorship skills",
-        "Stakeholder management",
-        "Diversity, Equity and Inclusion"
-    ],
-    "Leadership & management": [
-        "Project management",
-        "Planning and organising events (workshops, meet-ups, conferences etc)",
-        "Grant/proposal writing",
-        "Evaluation and assessment",
-        "Agile project management methodologies",
-        "Recruitment",
-        "Event organisation/management",
-        "Resource management (time, budget)",
-        "Strategy",
-        "Change management"
-    ],
-    "Domain expertise": [
-        "Research methodologies",
-        "Ethics",
-        "Domain-specific technical skills (AI/ML, research data and analytics, visualisation, computational science)",
-        "Legal and regulatory",
-        "Developing domain-specific training"
-    ],
-    "Communication & dissemination": [
-        "Delivering training",
-        "Writing and publication",
-        "Public science communication",
-        "Peer science communication",
-        "Content and knowledge management"
-    ]
-}
+Information and data technologies:
+  Data management:
+    Data/database management systems:
+      description: MySQL, SQLite, PostgreSQL, SQLServer, Oracle, MongoDB, Redis, DB2,
+        Toad, DBeaver, Azure Data Studio, NoSQL, RDF
+      tools_languages_methods_behaviours: Ability to effectively manage, store, retrieve,
+        and analyse information within a database system
+      training_resources: ''
+    Data/database query languages:
+      description: SQL, GraphQL, XML, XQuery, SPARQL
+      tools_languages_methods_behaviours: Proficiency in different database query
+        languages for managing and manipulating data
+      training_resources: ''
+    Data architecture/data structure format & design:
+      description: UML modeling, MySQL Workbench, Lucidchart, Draw.io, JSON
+      tools_languages_methods_behaviours: Ability to plan, model, and implement data
+        systems, ensuring they meet business needs and are scalable, secure, and efficient
+      training_resources: ''
+    Data acquisition:
+      description: OPeNDAP, GlobusData Collection Tools (Surveys & Questionnaires)
+        – Google Forms, SurveyMonkey, Qualtrics
+      tools_languages_methods_behaviours: Ability to gather, process, and utilise
+        data effectively
+      training_resources: ''
+    Data cleaning:
+      description: OpenRefine
+      tools_languages_methods_behaviours: Ability to identify, correct, and remove
+        errors, inconsistencies, and missing values from datasets
+      training_resources: Kaggle - Data Cleaning, Libracy Carpentry - Data Cleaning,
+        Data Carpentry - Data Cleaning
+    Data protection & ethics:
+      description: GDPR
+      tools_languages_methods_behaviours: Ability to understand legal frameworks like
+        GDPR, implementing robust security measures, and ensuring ethical data handling
+        practices
+      training_resources: Ethics and law - The Turing Way
+    Data management:
+      description: FAIR data, Data Management Plans, DMPonline, Metadata schema &
+        standards, Persistent identifiers (PIDs), Open formats, Data versioning, Data
+        Citation
+      tools_languages_methods_behaviours: Ability to effectively manage data throughout
+        its lifecycle, encompassing planning, organisation, storage, sharing, and
+        preservation, ensuring data quality, accessibility, and compliance
+      training_resources: Data Management Plans | DCC  Data Management Plan - The
+        Turing WayRDMKitFAIR RS CourseThe FAIR Principles - The Turing WayVersion
+        Control for Data — The Turing Way
+    Metadata standards:
+      description: JSON
+      tools_languages_methods_behaviours: Ability to manage and utilise metadata to
+        ensure data quality, consistency, and discoverability
+      training_resources: What are Metadata Standards | DCC
+  Data science:
+    Spreadsheets:
+      description: Google Sheets, Excel
+      tools_languages_methods_behaviours: Proficiency in using spreadsheet tools for
+        data manipulation, analysis, and visualisation
+      training_resources: Data Organisation in Spreadsheets - The Turing Way
+    Statistics and probability:
+      description: ''
+      tools_languages_methods_behaviours: Ability to use mathematical methods to analyse
+        data, draw inferences, and make predictions
+      training_resources: ''
+    Data mining:
+      description: ''
+      tools_languages_methods_behaviours: Ability to discovere patterns and insights
+        from large sets of data, using techniques from statistics, machine learning,
+        and database systems
+      training_resources: ''
+    'Data wrangling ':
+      description: ''
+      tools_languages_methods_behaviours: Ability to transform raw, messy data into
+        a clean, structured format that is ready for analysis. Superset of data cleaning
+        - broader process that includes cleaning but also involves reshaping, enriching,
+        transforming, and merging data from multiple sources to make it suitable for
+        analysis.
+      training_resources: 'Data Wranglers: Overview - The Turing Way'
+    Big data technologies:
+      description: Hadoop, Spark
+      tools_languages_methods_behaviours: Proficiency in using big data frameworks
+        for managing and processing large datasets
+      training_resources: ''
+    Data analysis & visualisation:
+      description: Python - Matplotlib, seaborn; R- ggplot2SPSS, Stata, SAS, Excel,
+        NVivo, ATLAS.ti, MATLAB
+      tools_languages_methods_behaviours: Ability to process, analyse, and interpret
+        data, as well as the ability to communicate findings effectively through visual
+        representations
+      training_resources: Data Visualisation - The Turing Way
+Software engineering and development:
+  Artificial Intelligence (AI):
+    AI/ML concepts and theory:
+      description: Supervised LearningUnsupervised LearningReinforcement LearningSemi-Supervised
+        Learning Self-Supervised LearningTransfer LearningGenerative ModelsNeural
+        Networks and Deep LearningModel Evaluation and ValidationNatural Language
+        Processing (NLP)Computer VisionRobotics
+      tools_languages_methods_behaviours: Ability required to develop, implement,
+        and manage AI/ML systems and applications
+      training_resources: ''
+    Machine learning technologies:
+      description: TensorFlowPyTorchscikit-learnXGBoost, LightGBMKerasFastAIMLflowApache
+        Spark (MLlib)
+      tools_languages_methods_behaviours: Ability to design, build, test, and deploy
+        machine learning models and systems as software applications
+      training_resources: Introduction to Machine Learning with Scikit Learn
+    Generative AI:
+      description: Hugging Face TransformersOpenAI DiffusersTensorFlow-GAN, PyTorch-GANLangChainGradio,
+        StreamlitGoogle Cloud AI, AWS SageMaker, Azure AIPrompt Engineering
+      tools_languages_methods_behaviours: Ability to leverage AI tools to augment
+        and enhance traditional software development processes
+      training_resources: ''
+  Web & mobile development:
+    General Web technologies & APIs:
+      description: HTTP(S), SSL/TLS, REST, HTML
+      tools_languages_methods_behaviours: Ability to understand, use, and implement
+        fundamental technologies for web development and communication
+      training_resources: ''
+    Web accessibility:
+      description: WAVE (Web Accessibility Evaluation Tool)
+      tools_languages_methods_behaviours: Ability to design and build websites and
+        web applications that are usable by everyone, including individuals with disabilities
+      training_resources: ''
+    Web frameworks for front-end development:
+      description: JavaScript, React, NodeJS, CSS, Sass, Angular, Vue, Nuxt, Svelte,
+        Bootstrap, JQuery, Tailwind, Bulma
+      tools_languages_methods_behaviours: Proficiency in using programming tools and
+        libraries to build and maintain the interactive and visual aspects of websites
+        and web applications
+      training_resources: ''
+    Web frameworks for back-end development:
+      description: Django, Flask, Dash, Shiny, Ruby on Rails, FastAPI, Dart/Flutter,
+        React Native, Node, Express, Next, Nest, PHP, Streamlit
+      tools_languages_methods_behaviours: Proficiency in server-side programming languages,
+        understanding of database systems, and knowledge of API development
+      training_resources: ''
+    Mobile app development:
+      description: React Native, Xamarin, Flutter, Swift, Dart
+      tools_languages_methods_behaviours: Ability to create, test, and deploy mobile
+        applications via use of programming languages, UI/UX design, backend development
+        and testing
+      training_resources: ''
+  Software engineering methodologies & tools:
+    Compilers:
+      description: ''
+      tools_languages_methods_behaviours: Understanding how compilers translate high-level
+        languages into machine code, including concepts like lexical analysis, parsing,
+        and code optimisation
+      training_resources: ''
+    Writing code & knowledge of programming languages:
+      description: C, C#, C++, Fortran, Java, Julia, Matlab, Python, R, Ruby, Shell/Bash
+        scripting, Makefiles, IDEs (Jupyter Notebooks), JavaScript, Pascal, Rust,
+        TypeScript, YAML, TOML
+      tools_languages_methods_behaviours: Skills in writing programming languages
+        involve understanding syntax, algorithms, data structures
+      training_resources: Home - Scientific Python Development Guide
+    Reading and understanding code/documentation:
+      description: ''
+      tools_languages_methods_behaviours: Comprehending technical documents to grasp
+        software functionality, architecture, and usage
+      training_resources: ''
+    Regular expressions:
+      description: ''
+      tools_languages_methods_behaviours: Ability to use and understand regular expressions
+        (regex), which are sequences of characters that define a search pattern in
+        a text
+      training_resources: ''
+    Computer modelling & simulation:
+      description: ''
+      tools_languages_methods_behaviours: Ability to contruct and manipulate computer-based
+        mathematical, graphical or algorithmic representations of real life systems
+        or phenomena, for the purpose of conducting computer-based simulations to
+        study, predict or optimise the behaviour of the system(s) / phenomena under
+        consideration.
+      training_resources: ''
+    Coding conventions, code formatting and linting tools:
+      description: JSLint, ESLint, Black, Ruff
+      tools_languages_methods_behaviours: Understanding and applying coding standards,
+        using tools to automatically format code, and employing linters
+      training_resources: Code Styling and Linting - The Turing Way
+    Testing methodologies & tools:
+      description: Unit testing, Integration testing, System testing, Acceptance testing,
+        Postman, Cypress, Pytest, PyUnit, Jest, Mocha, Jasmine, Karma, Junit, Mockit,
+        Test Driven Development
+      tools_languages_methods_behaviours: Ability to design, execute, and analyse
+        tests, covering both manual and automated techniques, and understanding various
+        testing types like functional, performance, and security testing
+      training_resources: Code Testing - The Turing Way
+    Debugging tools:
+      description: ''
+      tools_languages_methods_behaviours: Ability to use various techniques and tools
+        to identify, isolate, and fix errors in software code.
+      training_resources: ''
+    Code review techniques (including pair programming):
+      description: ''
+      tools_languages_methods_behaviours: Ability to effectively evaluate and improve
+        the quality of code by understanding the code structure, logic as well as
+        soft skills like clear communication and constructive feedback
+      training_resources: ''
+    Profiling & optimising code:
+      description: ''
+      tools_languages_methods_behaviours: Ability to analyse code execution, identify
+        performance bottlenecks, and implement changes to improve efficiency and responsiveness
+      training_resources: ''
+    Log analysis:
+      description: ''
+      tools_languages_methods_behaviours: Ability to understand log formats, use log
+        analysis tools, identify patterns and anomalies, and interpret log data to
+        diagnose issues and improve system performance.
+      training_resources: ''
+    Software version control:
+      description: Git, Mercurial, SVN, GitHub, GitLab, BitBucket
+      tools_languages_methods_behaviours: Ability to effectively use tools and techniques
+        to track, manage, and collaborate on changes to source code, ensuring efficient
+        development and collaboration
+      training_resources: Carpentries coursesGithub DocumentationVersion Control -
+        The Turing Way
+    Software quality practices & assurance:
+      description: Software quality metadata, checklists and tools, FAIR software,
+        CODECHECK, FAIRSoft, CITATION.cff
+      tools_languages_methods_behaviours: Expertise in developing and maintaining
+        software that adheres to the good software principles (including FAIR software)
+        and knowledge of tools that test for them. Expertise in ensuring software
+        has the correct behaviour & produces correct outputs
+      training_resources: ''
+    Documenting code & software:
+      description: Markdown, ReadtheDocs, MKDocs, Sphynx, (R)Markdown, Quarto, docstrings,
+        Javadoc, JSDoc
+      tools_languages_methods_behaviours: Ability to create clear, concise, and comprehensive
+        technical documentation that communicates the design, functionality, and usage
+        of software products
+      training_resources: Diátaxis
+    Organising and Documenting Software Projects:
+      description: README, Guidelines, Code of Conduct etc.Folder structure
+      tools_languages_methods_behaviours: Ability to create clear and concise documentation,
+        design a logical and consistent file structure that facilitates collaboration,
+        navigation, and long-term maintenance
+      training_resources: Project Documentation - The Turing WayOLS lesson
+    Software licensing:
+      description: ''
+      tools_languages_methods_behaviours: Technical expertise in license management
+        systems, understanding different license models, and the ability to implement
+        and enforce license agreements
+      training_resources: OLS LessonLicensing - The Turing WayChoose an open source
+        licenseTLDRLegal
+    Packaging & releasing code:
+      description: PyPI, conda-forge, Docker Registries (e.g, Dockerhub, GHCR), GitHub
+        releases
+      tools_languages_methods_behaviours: Expertise in preparing software for distribution,
+        including compiling, bundling dependencies, versioning, preparing release
+        notes, and creating installable or deployable artifacts (e.g., Docker images,
+        ZIP files, executables)
+      training_resources: ''
+    Deploying code:
+      description: Ansible, Jenkins, GitHub Actions, GitLab CI/CD, Travis CI, Azure
+        DevOps, AWS CodePipeline, Bitbucket Pipelines
+      tools_languages_methods_behaviours: Expertise in taking packaged software and
+        making it available in a target environment (e.g., staging, production) -
+        including provisioning infrastructure, configuring services, rolling out updates,
+        handling rollbacks, and ensuring minimal downtime.
+      training_resources: Continuous integration - The Turing Way
+    Containerisation:
+      description: Docker, Singularity, Kubernetes
+      tools_languages_methods_behaviours: Ability to package, deploy, and manage applications
+        using containers, enabling consistent and reliable execution across diverse
+        environment
+      training_resources: ''
+    Tool pipeline & automation:
+      description: Makefile, Ansible, Jenkins, GitHub Actions, GitLab CI/CD, Travis
+        CI, Azure DevOps, AWS CodePipeline, Bitbucket Pipelines
+      tools_languages_methods_behaviours: Expertise in creation and maintenance of
+        automated workflows that build, test, and deploy software
+      training_resources: ''
+    Environmental impact awareness & measurement:
+      description: ''
+      tools_languages_methods_behaviours: Ability to understand the environmental
+        consequences of software development and deployment, including energy consumption,
+        resource usage, and the overall carbon footprint of the software lifecycle
+      training_resources: ''
+  Software/computer science concepts & theory:
+    Programming paradigms:
+      description: Functional Programming, Object-Oriented Programming (OOP), Procedural
+        Programming, Logic Programming
+      tools_languages_methods_behaviours: Ability to understand and apply different
+        approaches to structuring and organising code
+      training_resources: ''
+    Threads, processes & parallelisation:
+      description: Multi-threading & Multi-processing (POSIX threads, OpenMP, Python's
+        concurrent.futures)Parallel Computing Frameworks (MPI, CUDA, OpenMP, Dask)Distributed
+        Computing (Apache Spark, Ray, Kubernetes)Synchronisation & Concurrency Control
+        (Locks, Semaphores, Atomic operations), Signals
+      tools_languages_methods_behaviours: Ability to design and optimise concurrent
+        and parallel execution using multi-threading, multi-processing, and distributed
+        computing to improve performance and efficiency in software systems.
+      training_resources: ''
+  Software design & architecture:
+    Requirements gathering:
+      description: ''
+      tools_languages_methods_behaviours: Ability to effectively elicit, analyse,
+        and document the needs and requirements of stakeholders, translating them
+        into a clear and actionable set of specifications
+      training_resources: ''
+    'Software patterns ':
+      description: ''
+      tools_languages_methods_behaviours: Ability to identify, understand, and apply
+        well-established, reusable solutions to common problems in software development
+      training_resources: ''
+    Designing APIs:
+      description: ''
+      tools_languages_methods_behaviours: Ability define and create Application Programming
+        Interfaces (APIs) that effectively facilitate communication between different
+        software systems
+      training_resources: ''
+    Software architecture:
+      description: Entity Relationship Diagrams, Microservices Design, MVC Design,
+        OO Design, UML
+      tools_languages_methods_behaviours: Ability to define, design, and implement
+        the foundational structure of a software system
+      training_resources: ''
+  User Interface/User Experience (UI/UX) design:
+    Designing user interface:
+      description: Wireframing
+      tools_languages_methods_behaviours: Proficiency in design principles, tools,
+        and an understanding of user behaviour
+      training_resources: ''
+    Designing user experience:
+      description: Wireframing
+      tools_languages_methods_behaviours: Understanding user needs through research,
+        creating intuitive interfaces via wireframing and prototyping, and ensuring
+        usability through testing
+      training_resources: ''
+    Accessibility (for disabled users):
+      description: Web Content Accessibility Guidelines; color contrast checkers
+      tools_languages_methods_behaviours: Ability to design and develop user interfaces
+        and experiences that are usable by people with a wide range of abilities and
+        disabilities
+      training_resources: ''
+ICT infrastructures:
+  HPC infrastructure:
+    HPC:
+      description: HPC Tier 1 - Tier 3, SLURM, Modules, MPI, OpenMP, CUDAOpenACC,
+        DPC++, AWS, Azure, CGroups, Snakemake, Nextflow, Cylc
+      tools_languages_methods_behaviours: Ability to leverage high-performance computing
+        systems to solve complex problems
+      training_resources: ''
+    GPU programming:
+      description: GPU HPC Tier 1 - Tier 3
+      tools_languages_methods_behaviours: Ability to write and optimize software that
+        utilizes the processing power of a Graphics Processing Unit (GPU) for parallel
+        computing tasks
+      training_resources: ''
+    Batch schedulers:
+      description: SLURM (Simple Linux Utility for Resource Management), PBS (Portable
+        Batch System), LSF (Load Sharing Facility), HTCondor, SGE (Sun Grid Engine)
+      tools_languages_methods_behaviours: Ability to undestand how to submit, manage,
+        and optimize jobs within a queuing system
+      training_resources: ''
+  Web infrastructure:
+    Web protocols:
+      description: HTTP(S), FTP, TCP/UDP, IP, WebSocket, DNS, SMTP, IMAP, POP3
+      tools_languages_methods_behaviours: Ability to understand, implement, and manage
+        the various communication standards that govern data exchange on the web
+      training_resources: ''
+    Serverless Web applications:
+      description: Netlify, Terraform
+      tools_languages_methods_behaviours: Proficiency in serverless technologies,
+        understanding of event-driven architectures, and the ability to work with
+        various programming languages and frameworks
+      training_resources: ''
+    Firewalls:
+      description: Windows Defender Firewall, iptables/nftables, pf, AWS WAF (Web
+        Application Firewall), Azure Firewall, Google Cloud Armor, Cloudflare
+      tools_languages_methods_behaviours: Ability needed to manage, configure, and
+        maintain firewalls, ensuring network security and compliance
+      training_resources: ''
+    Web security:
+      description: SSL/TLS, IPSec
+      tools_languages_methods_behaviours: Ability needed to protect websites, web
+        applications, and web infrastructure from various online threats and vulnerabilities
+      training_resources: ''
+    Web servers:
+      description: ''
+      tools_languages_methods_behaviours: Ability needed to manage and maintain the
+        infrastructure that hosts websites and applications
+      training_resources: ''
+  Cloud infrastructure:
+    Cloud computing:
+      description: ''
+      tools_languages_methods_behaviours: Ability needed to work with cloud services,
+        platforms, and technologies
+      training_resources: ''
+    Virtualisation/virtual machines & container infrastructure:
+      description: Docker, VMware, Virtualbox, Oracle VMbox, Microsoft Hyper-V, Singularity/Apptainer
+      tools_languages_methods_behaviours: Ability to create, manage, and troubleshoot
+        virtualisation technologies, including the ability to deploy, scale, and monitor
+        applications running within them
+      training_resources: ''
+  General/systems infrastructure:
+    Communication protocols:
+      description: TCP/IP
+      tools_languages_methods_behaviours: Understanding how data is transmitted, routed,
+        and received across networks, including troubleshooting network issues, configuring
+        network devices, and implementing security measures
+      training_resources: ''
+    Network security:
+      description: IPSec, SSH/TLS
+      tools_languages_methods_behaviours: Technical proficiency in areas like network
+        protocols, firewalls, and security tools, alongside analytical and problem-solving
+        abilities to identify and mitigate threats
+      training_resources: ''
+    Configuring (server) systems:
+      description: Ansible
+      tools_languages_methods_behaviours: Ability to understand and implement networking
+        fundamentals, operating systems, server hardware, and security protocols
+      training_resources: ''
+    Designing/reviewing system architecture/infrastructure:
+      description: ''
+      tools_languages_methods_behaviours: Ability to architect and design complex
+        software systems that are scalable, reliable, efficient, and maintainable
+      training_resources: ''
+    Storage infrastructure:
+      description: ''
+      tools_languages_methods_behaviours: Knowledge of hardware, software, and network
+        systems used to store, manage, and access data. See also "Data Management"
+        competency.
+      training_resources: ''
+    Systems administration:
+      description: POSIX file permissions, Unix Domain Sockets, firewalls
+      tools_languages_methods_behaviours: Abilty to maintain, troubleshoot, and manage
+        computer systems and networks
+      training_resources: ''
+    Workflow systems:
+      description: ''
+      tools_languages_methods_behaviours: Ability to effectively manage and optimize
+        the sequence of tasks and processes within a system
+      training_resources: ''
+    Embedded systems:
+      description: Medical devices? Raspberry Pi, Arduino? sensors, controlling actuators,
+        System-on-Chip (SoC)
+      tools_languages_methods_behaviours: Knowledge of specialized computer systems
+        designed to control specific functions within a larger device or machine
+      training_resources: ''
+    Hardware systems:
+      description: interconnected computing nodes (servers), fast storage, CPUs, GPUs,
+        memory hierarchies, storage devices, network architecture, high-speed networking,
+        HPC and cloud hardware infrastructures
+      tools_languages_methods_behaviours: Knowledge of the physical components (such
+        as interconnected computing nodes (servers), fast storage, CPUs, GPUs, memory
+        hierarchies, storage devices, network architecture and high-speed networking)
+        that support small and large-scale computational tasks
+      training_resources: ''
+Professional skills:
+  Personal skills:
+    Analysing / analytical skills / problem solving:
+      description: ''
+      tools_languages_methods_behaviours: Ability to break down complex problems,
+        assess data and information critically, and develop effective solutions based
+        on logical reasoning
+      training_resources: ''
+    Being inquisitive:
+      description: ''
+      tools_languages_methods_behaviours: Having natural curiosity and willingness
+        to ask questions, explore new ideas, and seek deeper understanding
+      training_resources: ''
+    Being enthusiastic:
+      description: Being positive about ideas and feedback
+      tools_languages_methods_behaviours: Demonstrating a genuine interest, energy,
+        and positive attitude toward tasks, learning, and collaboration
+      training_resources: ''
+    Adaptability:
+      description: ''
+      tools_languages_methods_behaviours: Ability to adjust to new conditions, changes
+        in the environment, or unexpected challenges with flexibility and openness
+      training_resources: ''
+    Resilience:
+      description: ''
+      tools_languages_methods_behaviours: Ability to recover from setbacks, cope with
+        stress, and maintain motivation and focus in the face of difficulties
+      training_resources: ''
+    Business acumen:
+      description: ''
+      tools_languages_methods_behaviours: Understanding and application of fundamental
+        business principles to make informed decisions that drive success
+      training_resources: ''
+    Being ethical and having integrity:
+      description: ''
+      tools_languages_methods_behaviours: Acting with honesty, fairness, and respect,
+        and upholding strong moral principles even when it's difficult or inconvenient
+      training_resources: ''
+    Goal-setting:
+      description: ''
+      tools_languages_methods_behaviours: Ability to identify, plan, and work toward
+        achievable objectives, both short- and long-term, with focus and discipline
+      training_resources: ''
+    Innovation and creativity:
+      description: ''
+      tools_languages_methods_behaviours: Ability to think outside the box, generate
+        new ideas, and find novel solutions to problems or opportunities
+      training_resources: ''
+    Time management / balancing competing project demands:
+      description: ''
+      tools_languages_methods_behaviours: Ability to effectively prioritise tasks,
+        manage deadlines, and allocate time across multiple responsibilities without
+        sacrificing quality
+      training_resources: ''
+    Switching between projects / context switching:
+      description: ''
+      tools_languages_methods_behaviours: Ability to shift focus between different
+        tasks or projects while maintaining productivity and minimising errors
+      training_resources: ''
+    Understanding of mental health, stress and burnout:
+      description: ''
+      tools_languages_methods_behaviours: Awareness of emotional well-being, recognising
+        signs of stress or burnout in yourself and others, and applying strategies
+        for maintaining mental health
+      training_resources: 'Task Management for Humans as Self Care: Summary and Setup'
+  Interpersonal skills:
+    Cultural awareness & sensitivity:
+      description: ''
+      tools_languages_methods_behaviours: Ability to recognise, respect, and appropriately
+        respond to cultural differences in beliefs, behaviors, and communication styles
+      training_resources: ''
+    Emotional intelligence & empathy:
+      description: Comforting others, respect for others, patience
+      tools_languages_methods_behaviours: Ability to understand, manage, and respond
+        to your own emotions and those of others, fostering trust and effective communication
+      training_resources: ''
+    EDIA awareness & methodologies:
+      description: Unconscious bias awareness
+      tools_languages_methods_behaviours: Understanding principles of Equity, Diversity,
+        Inclusion, and Accessibility (EDIA), and actively applying inclusive practices
+        in your work and environment
+      training_resources: Ally Skills Training
+    Conflict prevention & resolution:
+      description: ''
+      tools_languages_methods_behaviours: Ability to identify potential sources of
+        conflict and address them constructively through communication, compromise,
+        and mediation
+      training_resources: ''
+  Teamwork & collaboration:
+    Influencing, persuasion and negotiation:
+      description: ''
+      tools_languages_methods_behaviours: Communicating effectively to shape opinions,
+        reach agreements, and achieve mutually beneficial outcomes while respecting
+        others' viewpoints
+      training_resources: ''
+    Peer review:
+      description: ''
+      tools_languages_methods_behaviours: Ability to povide constructive, evidence-based
+        feedback on others’ work to improve quality, foster learning, and uphold standards
+      training_resources: ''
+    Asking for help / asking to understand / asking questions:
+      description: ''
+      tools_languages_methods_behaviours: Willingness to seek clarification, request
+        support, or ask thoughtful questions to enhance understanding and avoid mistakes
+      training_resources: ''
+    Using collaborative apps/tools for remote work/collaboration:
+      description: Slack, Microsoft Teams, Google Docs, GitHub, CodiMD, HedgeDoc
+      tools_languages_methods_behaviours: Ability to effectively use collaborative
+        platforms and tools for sharing ideas, files, and real-time collaboration
+        across distances
+      training_resources: ''
+    Understanding, extracting and documenting other people's ideas/knowledge:
+      description: ''
+      tools_languages_methods_behaviours: Ability to actively listen, ask clarifying
+        questions, and accurately capture and organise another person’s insights or
+        expertise for shared use
+      training_resources: ''
+Leadership & management:
+  People & team management:
+    Team management:
+      description: ''
+      tools_languages_methods_behaviours: Ability to lead, coordinate, and motivate
+        a group of individuals to achieve common goals
+      training_resources: ''
+    Team performance management:
+      description: ''
+      tools_languages_methods_behaviours: Ability to set goals, monitor progress,
+        provide feedback, and evaluating the performance of team members to improve
+        efficiency and effectiveness
+      training_resources: ''
+    Hiring people / writing job descriptions:
+      description: ''
+      tools_languages_methods_behaviours: Ability to recruite suitable candidates
+        for a position, including the creation of clear and effective job descriptions
+        that outline roles, responsibilities, qualifications, and expectations.
+      training_resources: ''
+    Team building:
+      description: ''
+      tools_languages_methods_behaviours: Ability to bring new people, foster a positive
+        and collaborative environment that strengthens relationships, improves communication,
+        and enhances teamwork within a group.
+      training_resources: ''
+    Team development:
+      description: ''
+      tools_languages_methods_behaviours: Ability to improve skills, knowledge, and
+        overall capabilities in a team through training, mentoring, and other developmental
+        activities
+      training_resources: ''
+    Recognising/giving credit for people's work:
+      description: ''
+      tools_languages_methods_behaviours: Acknowledging and appreciating the contributions
+        and achievements of team members, reinforcing positive behavior and boosting
+        morale
+      training_resources: ''
+    Shielding colleagues from destructive criticism:
+      description: ''
+      tools_languages_methods_behaviours: Protecting team members from unconstructive
+        or harmful feedback by offering support and ensuring criticism is delivered
+        in a constructive, respectful manner
+      training_resources: ''
+    Understanding others’ goals and motivations:
+      description: ''
+      tools_languages_methods_behaviours: Ability to empathise with and gain insight
+        into the personal and professional goals of others, allowing for better collaboration,
+        conflict resolution, and alignment within teams
+      training_resources: ''
+  Leadership:
+    Mentoring & coaching:
+      description: ''
+      tools_languages_methods_behaviours: Providing guidance, support, and advice
+        to a less experienced individual to help them grow personally and professionally
+      training_resources: Mentor training
+    Decision-making:
+      description: ''
+      tools_languages_methods_behaviours: Ability to assess information, weigh options,
+        consider potential outcomes, and choose the best course of action in a given
+        situation
+      training_resources: ''
+    Motivation and inspiration:
+      description: ''
+      tools_languages_methods_behaviours: Ability to encourage, energise, and empower
+        others to take action, pursue goals, or strive for continuous improvement
+      training_resources: ''
+    'Grant proposal/business case writing ':
+      description: ''
+      tools_languages_methods_behaviours: 'Understanding the needs and interests of
+        potential funders or decision-makers, articulating the goals and benefits
+        of the proposed project or business case in a clear and persuasive way, and
+        providing strong justification for why it should be supported.  '
+      training_resources: ''
+    Long-term strategic planning:
+      description: ''
+      tools_languages_methods_behaviours: Ability to envision, develop, and implement
+        a roadmap for an organisation or initiative's future direction, goals, and
+        objectives over an extended period (typically 3-5 years or more)
+      training_resources: ''
+    Leading change:
+      description: ''
+      tools_languages_methods_behaviours: Ability to create a shift in mindset and
+        behavior, empowering individuals, and ensuring that the change is sustainable
+        in the long run - drawing on emotional intelligence, strategic thinking, communication,
+        and organisational management.
+      training_resources: ''
+  Project management:
+    Project governance:
+      description: Decision making processes & tools, project governance dashboards
+      tools_languages_methods_behaviours: Ability to establish and manage the frameworks,
+        structures, and processes that guide and control projects throughout their
+        lifecycle
+      training_resources: ''
+    Planning and organisation skills/task management & prioritisation:
+      description: Resource allocation & management (time, money/budget/finances,
+        human resources), delegation, monitoring progressSoftware Management Plans,
+        GitHub projects, Asana, Trello, spreadsheets, Gantt charts, other project
+        management tools
+      tools_languages_methods_behaviours: Ability to effectively organise, assign,
+        and track the use of resources (such as time, money, and human resources)
+        in a project or organisation to ensure goals are achieved efficiently, within
+        scope, and on schedule
+      training_resources: ''
+    Project scoping/setting realistic goals:
+      description: ''
+      tools_languages_methods_behaviours: Ability to define and clarify the boundaries,
+        objectives, and expected outcomes of a project, ensuring that they are achievable,
+        measurable, and aligned with the available resources
+      training_resources: ''
+    Project portfolio management:
+      description: ''
+      tools_languages_methods_behaviours: Ability to oversee and manage a collection
+        of projects within an organisation to ensure that they align with the strategic
+        goals, priorities, and resource availability
+      training_resources: ''
+    Project management methodologies:
+      description: Agile, Scrum, Waterfall, PRINCE 2
+      tools_languages_methods_behaviours: Knowledge of the frameworks, processes,
+        and best practices that guide how a project is planned, executed, monitored,
+        and completed
+      training_resources: ''
+    Risk management:
+      description: Risk matrix tools
+      tools_languages_methods_behaviours: Ability to identify, assess, mitigate, and
+        monitor risks that could negatively affect a project, organisation, or process
+      training_resources: ''
+    Crisis & change management:
+      description: ''
+      tools_languages_methods_behaviours: Ability to effectively navigate and manage
+        sudden, unexpected situations (crisis) and significant transformations (change)
+        within an organisation or project
+      training_resources: ''
+    Event management:
+      description: Defining the event’s purpose and goals, creating a timeline, selecting
+        a venue, negotiating prices, budgeting, identifying target audience, sponsorship
+        and fundraising, eco-friendly practices, reducing carbon footprint, registrations,
+        programme scheduling, website, promotion on social media, attendee feedback,
+        event debrief and reporting
+      tools_languages_methods_behaviours: Ability to plan, organise, and execute events
+        efficiently, ensuring that all aspects are well-coordinated and meet the goals
+        of the event
+      training_resources: ''
+    Stakeholder management:
+      description: ''
+      tools_languages_methods_behaviours: Ability to manage expectations of different
+        stakeholders (e.g. partners and PIs), negotiation between partner needs and
+        RSE practicalities
+      training_resources: ''
+    Content and knowledge management:
+      description: SharePoint, Google Workspace (Google Drive, Docs, Sheets, etc.),
+        Dropbox, Confluence, WordPress, Trello
+      tools_languages_methods_behaviours: Ability to organise, store, share, and leverage
+        information and resources within an organisation or community effectively
+        - easily accessible, well-documented, and utilised in decision-making, problem-solving,
+        and innovation
+      training_resources: ''
+    Meeting chairing and management:
+      description: Setting agenda, guiding discussions, maintaining focus
+      tools_languages_methods_behaviours: Ability to effectively lead and facilitate
+        meetings, ensuring they are productive, well-organised, all objectives are
+        achieved and that participants engage in a respectful manner
+      training_resources: ''
+    Process documentation & improvement:
+      description: Best practices
+      tools_languages_methods_behaviours: 'Ability to analyse processes, workflows,
+        procedures, identifying areas for improvement and synthesise best practices '
+      training_resources: ''
+    Understanding bureaucracy/politics:
+      description: ''
+      tools_languages_methods_behaviours: Ability to navigate and make sense of the
+        complex structures, rules, power dynamics, and interpersonal relationships
+        within academic institutions
+      training_resources: ''
+    Gathering and understanding (user, funder, stakeholder) requirements:
+      description: ''
+      tools_languages_methods_behaviours: Ability to actively listen to and engage
+        with users, funders, or stakeholders to identify their needs, expectations,
+        and constraints - including asking the right questions, clarifying assumptions,
+        and documenting requirements in a way that can guide project planning and
+        delivery
+      training_resources: ''
+    'Converting requirements to tasks ':
+      description: ''
+      tools_languages_methods_behaviours: Ability to translate broad or high-level
+        requirements into specific, actionable tasks that can be assigned, tracked,
+        and completed, identifying dependencies, prioritising work, and ensuring each
+        task contributes to the overall goal
+      training_resources: ''
+    Breaking down problems into smaller tasks:
+      description: ''
+      tools_languages_methods_behaviours: Ability to decompose complex challenges
+        into manageable parts to make planning, development, or troubleshooting more
+        efficient and less overwhelming
+      training_resources: ''
+    Customer engagement:
+      description: ''
+      tools_languages_methods_behaviours: Building and maintaining positive relationships
+        with customers or users by communicating clearly, understanding their needs,
+        involving them in the process, gathering feedback and providing value and
+        ensuring satisfaction with the final product or service
+      training_resources: ''
+    Searching for the best solution for the job:
+      description: ''
+      tools_languages_methods_behaviours: Ability to evaluating available options
+        (tools, methods, technologies) and selecting the most effective, efficient,
+        and context-appropriate solution - using critical thinking, awareness of constraints,
+        and a good understanding of both the problem and possible solutions.
+      training_resources: ''
+Domain & research expertise:
+  Domain knowledge:
+    Domain-specific background knowledge:
+      description: ''
+      tools_languages_methods_behaviours: An understanding of concepts, theories,
+        and best practices within a particular field or discipline
+      training_resources: ''
+    Translating between software engineering language and stakeholders:
+      description: Understanding of both software engineering concepts and domain
+        problems and terminologyUnderstanding stakeholder needs and contextsSimplifying
+        technical jargonClarifying requirements
+      tools_languages_methods_behaviours: Bridging the gap between technical software
+        engineering concepts and the language of non-software-engineer stakeholders,
+        such as researchers, technicians, scientists, or other business or academic
+        teams
+      training_resources: ''
+    Application/adaptability of technical skills in the domain:
+      description: ''
+      tools_languages_methods_behaviours: Ability to effectively apply technical knowledge
+        and skills within a specific domain while being flexible and adaptable to
+        evolving needs, challenges, and technologies
+      training_resources: ''
+    Information and literature review (critical appraisal):
+      description: ''
+      tools_languages_methods_behaviours: Ability to efficiently read, analyse, and
+        synthesise information from various sources (such as academic literature,
+        reports, books, and research papers) and critically assess its relevance,
+        credibility, and quality
+      training_resources: ''
+  Research skills:
+    Research methodologies:
+      description: 'Qualitative and quantitative approaches, data collection techniques
+        (listed under "Data collection & acquisition"), experimental design, statistical
+        analysis, and critical evaluation of resources Experiments & Simulations –
+        MATLAB, LabVIEWData Analysis Tools - listed under "Data analysis and visualisation"Reference
+        Management & Literature Review Tools - Zotero, EndNote, MendeleySystematic
+        Literature Review – Rayyan, CovidenceResearch Project Management & Collaboration
+        Tools - Trello, Asana, GitHubWriting & Formatting – LaTeX, Overleaf '
+      tools_languages_methods_behaviours: Expertise in research methodology - formulating
+        testable predictions based on observations, theories, or existing knowledge
+        and systematically evaluating them through empirical methods
+      training_resources: ''
+    Reading & understanding research papers:
+      description: Finding papers on Google Scholar, ArXiV etc.
+      tools_languages_methods_behaviours: Ability to do literature review - find,
+        read and digest relevant research
+      training_resources: ''
+    Writing research papers:
+      description: LaTeX, Overleaf, bibiliography management tools (Zotero, BibTeX,
+        Mendeley, EndNote)
+      tools_languages_methods_behaviours: Ability to present research ideas and work
+        in research & scientific publications, including presenting evidence, evaluation,
+        argumentation in academic paper structure
+      training_resources: ''
+    Ethical responsibility:
+      description: GDPR, ethics approvals
+      tools_languages_methods_behaviours: Ability to identify potential ethical concerns
+        related to research subjects' welfare, data collection, storage and security
+        methods, informed consent, privacy
+      training_resources: https://www.dcc.ac.uk/sites/default/files/documents/publications/3amendedFive%20things.....%20(8-Page).pdf
+    Legal and regulatory responsibility:
+      description: Export control, intelectual property (IP), licensing, GDPR, clinical
+        trials regulations
+      tools_languages_methods_behaviours: Understanding of legislation and legal responsibilities
+        when conducting work in specific research areas
+      training_resources: https://www.uwe.ac.uk/study/library/research-support/manage-your-research-data/planning-your-project/know-your-legal-and-ethical-responsibilitieshttps://www.liverpool.ac.uk/library/research-data-management/essentials/ethical-and-legal/https://researchdata.ox.ac.uk/ethical-and-legal-issues
+Communication:
+  Verbal & written communication:
+    Public speaking and presentation:
+      description: Communication with technical audiences/peersCommunication with
+        non-technical or cross-disciplinary audiences/other scientistsCommunication
+        with general publicUnderstanding your audienceSpeaking clearly and confidently
+      tools_languages_methods_behaviours: Public speaking, presentation and communication
+        skills for engaging with a diverse audience
+      training_resources: Presenting Posters and Conference Talks - The Turing Way
+    Information synthesis/concise communication:
+      description: ''
+      tools_languages_methods_behaviours: Ability to summarise and condense information
+        efficiently
+      training_resources: ''
+    Technical writing:
+      description: Producing papers, reports, technical documentation (e.g. user and
+        developer guides for software), LaTeX, Overleaf, ReadtheDocs, MKDocs, Sphynx,
+        (R)Markdown, Quarto
+      tools_languages_methods_behaviours: Ability to create clear, concise, and structured
+        technical documentation
+      training_resources: ''
+    Multimedia & social content production:
+      description: Adobe Photoshop, Illustrator, Canva, Adobe Premiere Pro, OBS, YouTube,
+        Mastodon, X, LinkedIn, BlueSky, Podcasts (?)
+      tools_languages_methods_behaviours: Ability to create, edit, and manage various
+        forms of digital content across multiple media platforms, e.g. graphic design,
+        audio/video/animation production, social media, etc.
+      training_resources: Social Media for Research Communications — The Turing Way
+    Note taking:
+      description: Recording clear actions
+      tools_languages_methods_behaviours: Ability to document and organise meeting
+        information
+      training_resources: ''
+    Active listening:
+      description: ''
+      tools_languages_methods_behaviours: Ability to be an attentive and engaged listener
+      training_resources: ''
+    Providing positive and constructive feedback:
+      description: ''
+      tools_languages_methods_behaviours: Ability to offer supportive and insightful
+        feedback
+      training_resources: ''
+    Assertive declination:
+      description: ''
+      tools_languages_methods_behaviours: Ability to set boundaries and decline requests
+        assertively and politely
+      training_resources: ''
+  Community & outreach:
+    Peer support:
+      description: Encouraging people’s ideas
+      tools_languages_methods_behaviours: Providing emotional, social and practical
+        support to other members of a community from fostering mutual understanding,
+        encouragement, and personal growth
+      training_resources: ''
+    Networking & relationship building:
+      description: Attending and/or running events to engage with the community
+      tools_languages_methods_behaviours: Establishing connections to exhange knowledge,
+        support and opportunities for growth
+      training_resources: ''
+    Raising awareness of issues:
+      description: ''
+      tools_languages_methods_behaviours: Advocating for issues, e.g. raising awareness
+        of RSE roles
+      training_resources: ''
+    Community building & leadership:
+      description: ''
+      tools_languages_methods_behaviours: Ability to inspire, guide and mobilise people
+        toward a shared vision or a goal
+      training_resources: ''
+    Community governance & management:
+      description: Different community governance structures, organising and setting
+        agenda for meetings, chairing meetings, advertising support and training,
+        tools for engaging and communiting in a community (Slack, Mattermost)
+      tools_languages_methods_behaviours: Establishing structures, policies, and processes
+        to guide decision-making, coordination, and engagement within a community
+      training_resources: ''
+  Training:
+    Self-learning:
+      description: Learning a new programming language or a tool
+      tools_languages_methods_behaviours: Ability to learn independently and teach
+        yourself new technical and non-technical skills and tools
+      training_resources: ''
+    Knowledge exchange:
+      description: Writing onboarding documentation, onboarding new team members,
+        internal presentations, pair programming
+      tools_languages_methods_behaviours: Ability to share information, expertise
+        and best practices within a team, organisation or community
+      training_resources: ''
+    Teaching & training others:
+      description: Teaching or delivery of short training courses such as Carpentries
+        or CodeRefinery lessons
+      tools_languages_methods_behaviours: Ability to convey theoretical and practical
+        knowledge to others, address misconceptions, etc. in training events
+      training_resources: Carpentries Instructor Training
+    Training material development:
+      description: Collaborative development of open source training materials
+      tools_languages_methods_behaviours: Solo and collaborative development of various
+        short-format training materials (tutorials, courses, etc.)
+      training_resources: Carpentries Collaborative Lesson Development Training

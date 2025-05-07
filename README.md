@@ -114,7 +114,6 @@ page or documentatation in each case.
 - [JISC Digital Capability](https://digitalcapability.jisc.ac.uk/what-is-digital-capability/)
 - [Civil Service Competency Framework](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/436073/cscf_fulla4potrait_2013-2017_v2d.pdf)
 - [Competencies, training resources and career profiles in computational biology](https://competency.ebi.ac.uk/framework/iscb/3.0)
-- [RSE Toolkit](https://rsetoolkit.github.io/)
 - [Australian Research Data Commons (ARDC) Digital Research Capabilities and Skills Framework: The Framework and Its Components](https://zenodo.org/records/14188836)
 - [Lightcast skills taxonomy](https://lightcast.io/open-skills)
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)

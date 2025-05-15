@@ -1,4 +1,4 @@
-# DIRECT Framework - Skill Level Definitions
+# DIRECT Framework - Compentency Level Definitions for Skills
 
 References & inspiration from:
 
@@ -10,7 +10,7 @@ and [SFIA overview](https://sfia-online.org/en/about-sfia/sfia-overview-for-new-
 ## Introduction
 
 This document describes a competency scale as a tool to help measure/describe RSEs ability to demonstrate a particular
-skill or competency (i.e. an individual’s competency level for a particular skill). It can serve as a guide to
+skill (i.e. an individual’s competency level for a particular skill). It can serve as a guide to
 understanding the expected proficiency at each level (i.e. the expected proficiency of top performers at each level and
 what an individual is expected to be able to do/aim for at the top of a level). It can be used by an individual to
 compare, e.g., their current level of proficiency to that of individuals at the level above or top performers at the same
@@ -40,7 +40,7 @@ Mapping to Bloom’s taxonomy should be used to aid the design and development o
 at each skill/competency level as learners advance through the process of learning, from the fundamental stages of
 remembering and understanding to the more complex stages of evaluating and creating.
 
-## RSE Competency Scale
+## Competency Scale
 
 We propose the following 5-level competency scale, and the related mapping from a competency level to a category in
 Bloom’s taxonomy. Each level is described in terms of what **tasks** people at each level are already capable of

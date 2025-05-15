@@ -57,8 +57,7 @@ A mapping from competency levels to Bloom’s taxonomy
 **Level 0** - None or N/A
 
 * You do not possess this competency or are not required to apply or demonstrate this competency (this competency is not
-applicable
-* to your position).
+applicable to your position).
 
 **Level 1** - Fundamental awareness (basic knowledge)
 

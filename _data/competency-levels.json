@@ -1,0 +1,32 @@
+[
+ {
+   "Level": 0,
+   "Name": "None or N/A",
+   "Description": "    You do not possess this competency or are not required to apply or demonstrate this competency (this competency is not applicable\n    to your position)."
+ },
+ {
+   "Level": 1,
+   "Name": "Fundamental awareness (basic knowledge)",
+   "Description": "    You have a common knowledge or an understanding of basic techniques and concepts.\n    Focus is on learning and remembering."
+ },
+ {
+   "Level": 2,
+   "Name": "Novice (limited experience)",
+   "Description": "    You have the level of experience gained in a classroom or as a trainee on-the-job. You are expected to need help when performing this competency.\n    You understand and can discuss terminology, concepts, principles and issues related to this competency; you can use the full range of reference and resource materials in this skill.\n    Focus is on understanding and developing through on-the-job experience."
+ },
+ {
+   "Level": 3,
+   "Name": "Intermediate prctitioner (practical application)",
+   "Description": "    You are able to successfully complete tasks in this competency as requested. Help from an advanced practitioner/expert may be required from time to time, but you can usually perform the competency independently.\n    You have applied this competency to situations occasionally while needing minimal guidance to perform tasks successfully.\n    You understand and can discuss the application and implications of changes to processes and policies in this area.\n    Focus is on applying well-known algorithms, paradigms and solutions to the job at hand and enhancing knowledge or skill."
+ },
+ {
+   "Level": 4,
+   "Name": "Advanced practitioner (applied theory)",
+   "Description": "    You can perform the actions associated with this skill without assistance. You are certainly recognized within your immediate group/organisation as \"a person to ask\" when difficult questions arise regarding this skill.\n    You have consistently provided practical/relevant ideas and perspectives on process or practice improvements which may easily be implemented.\n    You are capable of mentoring others in the application of this competency by translating complex nuances relating to this competency into easy to understand terms.\n    You participate in the development of reference and resource materials in this competency.\n    Focus is on designing or architecting new solutions - analysing, evaluating and creating/synthesis."
+ },
+ {
+   "Level": 5,
+   "Name": "Expert (recognised authority)",
+   "Description": "    You can provide guidance, troubleshoot and answer questions related to this area of expertise and the field where the skill is used.\n    You have demonstrated consistent excellence in applying this competency across multiple projects and/or organisations.\n    You are being recognised inside and outside your organisation as an authority in the area of the competency.\n    You create new applications for and/or lead the development of reference and resource materials for this competency.\n    You are able to explain the relevant process elements and issues in sufficient detail during discussions and presentations, to foster a greater understanding among internal and external colleagues and collaborators.\n    Focus is on strategy in the area of competency and shaping organisational and (inter)national policies."
+ }
+]

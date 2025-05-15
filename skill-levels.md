@@ -1,4 +1,4 @@
-# RSE Competencies Toolkit - Skill Levels Definition
+# DIRECT Framework - Skill Level Definitions
 
 References & inspiration from:
 

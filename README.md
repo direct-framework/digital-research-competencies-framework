@@ -123,7 +123,7 @@ Please cite this work as follows:
 ## Acknowledgements
 
 The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
-2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contirbutions by RSE community members during RSECon23, RSECon23 and CW25.
+2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon23 and CW25.
 
 ## Contributors
 

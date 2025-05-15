@@ -1,23 +1,18 @@
-# RSE Competencies Framework
+# DIgital Research CompeTencies (DIRECT) Framework
 
-This repository was created from a Software Sustainability Institute Collaborations Workshop 2023 Hack Day.
+## History
 
-The idea is to construct a resource that is for the RSE community and curated by the RSE community.
+This repository was originally created from the work that happened at the Software Sustainability Institute's Collaborations Workshop 2023 Hack Day.
 
-**We need your support to get this project to a stage where it can be tested - [see how to contribute](#support-needed)!**
-
-## About
+The idea was to construct a resource on technical skills that we use that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individaul skill profiles as "competency wheels".
 
 ![Screenshot of competency visualisations](rse-forge-screenshot.png)
 
-RSE Competencies Toolkit is a resource to support RSEs (Research Software Engineers) in tracking and managing their
-professional development. It is currently in the early stages of development and we welcome contributions and feedback.
+The project was added to the [RSE Competencies Toolkit organisation](https://github.com/RSEToolkit/) and as a resource to support RSEs (Research Software Engineers) in tracking and managing their professional development.
 
-Note that, while we've focussed on RSE during the early stages of development, this tool can be used for any roles. We
-plan to extend this to other research roles and welcome contributions and collaboration from anyone working in research,
-broadly defined.
+Note that, while we've focussed on RSEs during the early stages of development, this tool could be used for any roles. 
 
-RSE Competencies Toolkit comprises:
+The project comprised:
 
 1. An RSE competency framework, outlining a structured **set of skills** that are useful when working as an RSE, with
    examples of how these skills can be demonstrated at different **levels of experience**. Not all RSEs will or need to have
@@ -25,7 +20,7 @@ RSE Competencies Toolkit comprises:
 2. A curated set of training resources, linked to the skills and levels from the competency framework.
 3. A tool to visualise and compare different competency profiles.
 
-RSE Competencies Toolkit aims to support the following uses:
+The project aimed to support the following uses:
 
 1. Recording and visualising your competency profile as an individual RSE.
 2. Comparing competency profiles across a group of RSEs (e.g. to show the commonalities and variety across RSEs doing
@@ -34,17 +29,25 @@ RSE Competencies Toolkit aims to support the following uses:
 4. Define aspirational competency profiles, illustrate the gap to your current profile and highlight training resources
    that could help bridge that gap.
 
+The project won the 3rd prize at CW23 and we have carried on with the work on this project after the initial prototype. We have compared our 
+work with many related skill frameworks to make sure they are aligned and skills are not missed.
+
+We have also consulted the wider RSE community at RSECon24 about the skills they use, and loads of non-technical/professional skills emerged. 
+
+We have now expanded the remit of the framework to include non-technical as well as technical skills that are used in a wide variety of 
+digital professional roles (and not just RSEs) such as researchers, data specialists (stewards, archivists, etc.), RSE group leads, PIs, etc.
+
+## About
+
+
+
 ### Current Status
 
-- [x] Initial Research
-- [ ] Initial Development <-- We are Here
+- [x] Initial research
+- [ ] Initial development <-- We are here
 - [ ] Minimum viable product
-- [ ] Alpha Release
-- [ ] Feature-Complete Release
-
-### Support Needed
-
-We need support and feedback in the following areas. Contributions of all sizes are welcome.
+- [ ] Alpha release
+- [ ] Feature-complete release
 
 #### RSE competency framework
 
@@ -98,7 +101,7 @@ You can contact the team at [rse-competencies-toolkit@googlegroups.com](mailto:r
 This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home
 page or documentatation in each case.
 
-### Framework references
+### Related Skills & Competencies Frameworks
 
 - [CSCCE Skills Wheel](https://zenodo.org/record/4437294#.ZFO3F-zMIc1)
 - [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v8, the

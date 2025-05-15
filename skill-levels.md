@@ -1,4 +1,4 @@
-# DIRECT Framework - Compentency Level Definitions for Skills
+# DIRECT Framework - Compentency Level Definitions
 
 References & inspiration from:
 

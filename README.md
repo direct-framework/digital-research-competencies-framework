@@ -59,6 +59,8 @@ We have a [document defining skill
 levels](./skill-levels.md) and a [GitHub issue to track
 suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/62).
 
+The skill levels describe a scale to help measure/describe ability to demonstrate a particular skill (i.e. an individual’s competency level for a particular skill).
+
 ### Curating professional development resources
 
 We have a file with [resources for professional development](./_data/resources.csv) mapped to skills in the framework.

@@ -1,5 +1,8 @@
 # DIgital Research CompeTencies (DIRECT) Framework
 
+## About
+
+
 ## History
 
 This repository was originally created from the work that happened at the Software Sustainability Institute's Collaborations Workshop 2023 Hack Day.
@@ -8,9 +11,9 @@ The idea was to construct a resource on technical skills that we use that is for
 
 ![Screenshot of competency visualisations](rse-forge-screenshot.png)
 
-The project was added to the [RSE Competencies Toolkit organisation](https://github.com/RSEToolkit/) and as a resource to support RSEs (Research Software Engineers) in tracking and managing their professional development.
+The project was added to the [RSE Competencies Toolkit organisation](https://github.com/RSEToolkit/) and as a resource to support RSEs (Research Software Engineers) in tracking and managing their professional development. We have now extracted the work into its own separate [GitHub organisation](https://github.com/direct-framework).
 
-Note that, while we've focussed on RSEs during the early stages of development, this tool could be used for any roles. 
+Note that, while we've focussed on RSEs during the early stages of development, this tool could be used for any roles that used digital skills for research (and we have now expanded the framework to reflect that). 
 
 The project comprised:
 
@@ -29,23 +32,20 @@ The project aimed to support the following uses:
 4. Define aspirational competency profiles, illustrate the gap to your current profile and highlight training resources
    that could help bridge that gap.
 
-The project won the 3rd prize at CW23 and we have carried on with the work on this project after the initial prototype. We have compared our 
-work with many related skill frameworks to make sure they are aligned and skills are not missed.
+The project won the 3rd prize at CW23 and we have carried on with the work on this project after the initial prototype. Since then, we have compared our 
+work with many [related skill frameworks](#related-skills-&-competencies-frameworks) to make sure they are aligned and skills are not missed.
 
-We have also consulted the wider RSE community at RSECon24 about the skills they use, and loads of non-technical/professional skills emerged. 
+We have also consulted the wider RSE community at RSECon24 about the skills they use, where loads of non-technical/professional skills emerged. 
 
 We have now expanded the remit of the framework to include non-technical as well as technical skills that are used in a wide variety of 
 digital professional roles (and not just RSEs) such as researchers, data specialists (stewards, archivists, etc.), RSE group leads, PIs, etc.
-
-## About
-
 
 
 ### Current Status
 
 - [x] Initial research
-- [ ] Initial development <-- We are here
-- [ ] Minimum viable product
+- [x] Initial development <-- We are here
+- [x] Minimum viable product
 - [ ] Alpha release
 - [ ] Feature-complete release
 

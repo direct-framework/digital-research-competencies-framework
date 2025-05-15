@@ -157,6 +157,8 @@ issue if your idea is not yet mentioned anywhere else.
 
 If you'd like to get in touch with the project team - write to us at [rse-competencies-toolkit@googlegroups.com](mailto:rse-competencies-toolkit@googlegroups.com).
 
+We also have the [#rse-competencies-toolkit channel](https://ukrse.slack.com/archives/C05CY0YFWEL) under [RSE Community Slack](ukrse.slack.com).
+
 ## License
 
 Unless otherwise specified on particular materials, all material in this repository is licensed as follows:

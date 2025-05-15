@@ -50,7 +50,7 @@ digital professional roles (and not just RSEs) such as researchers, data special
 
 ### Defining and classifying skills
 
-We have a [draft framework](./_data/skills-competencies-framework.json) and a [GitHub issue to track
+Skills and competencies are described in the [framework](./_data/skills-competencies-framework.json) and we have a [GitHub issue to track
 suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
 
 If you think skills are missing, needs clarification, or could be reorganised within the framework, please add your

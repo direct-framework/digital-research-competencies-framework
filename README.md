@@ -166,6 +166,14 @@ CW25 hack day team working on the project (in alphabetical order by first name):
 - Phil Reed
 - Ryan Smith
 
+CW25 workshop 2.4 saw additional contributions to the framework (in alphabetical order by first name):
+
+- Ella Kaye
+- Jonathan Cooper
+- Samantha Wittke
+- Sarah Gibson 
+- Toby Hodges 
+
 Original CW23 hack day team that started the project (in alphabetical order by first name):
 
 - Aleksandra Nenadic

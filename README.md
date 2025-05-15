@@ -138,11 +138,18 @@ Current contributors (in alphabetical order by first name):
 - Emma Hogan
 - Eli Chadwick
 - Gabriel Hanganu
+- Matt Craddock
 - Phil Reed
 - Sam Bland
 - Tamora James
 
 ### Past contributors
+
+In alphabetical order by first name:
+
+- Hannah Williams
+- Diego Alonso Álvarez
+- Matthew Bluteau
 
 CW25 hack day team working on the project (in alphabetical order by first name):
 

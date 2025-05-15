@@ -1,23 +1,24 @@
-# RSE Competencies Framework
-
-This repository was created from a Software Sustainability Institute Collaborations Workshop 2023 Hack Day.
-
-The idea is to construct a resource that is for the RSE community and curated by the RSE community.
-
-**We need your support to get this project to a stage where it can be tested - [see how to contribute](#support-needed)!**
+# DIgital REsearch CompeTencies (DIRECT) Framework
 
 ## About
 
+This project aims to define a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as researchers, RSEs, data specialists, RSE group leads, PIs, etc., along with lists of tools/methods/behaviours to demonstrate skills and training materials that can help us gain a particular skill.
+
+A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing a Django webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
+
+## History
+
+This repository was originally created from the work that happened at the Software Sustainability Institute's [Collaborations Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-cw23-0) Hack Day.
+
+The idea was to construct a resource on technical skills that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individual skill profiles as "competency wheels".
+
 ![Screenshot of competency visualisations](rse-forge-screenshot.png)
 
-RSE Competencies Toolkit is a resource to support RSEs (Research Software Engineers) in tracking and managing their
-professional development. It is currently in the early stages of development and we welcome contributions and feedback.
+The project was added to the [RSE Competencies Toolkit organisation](https://github.com/RSEToolkit/) and as a resource to support RSEs (Research Software Engineers) in tracking and managing their professional development. We have now extracted the work into its own separate [GitHub organisation](https://github.com/direct-framework).
 
-Note that, while we've focussed on RSE during the early stages of development, this tool can be used for any roles. We
-plan to extend this to other research roles and welcome contributions and collaboration from anyone working in research,
-broadly defined.
+Note that, while we've focussed on RSEs during the early stages of development, this tool could be used for any roles that used digital skills for research (and we have now expanded the framework to reflect that). 
 
-RSE Competencies Toolkit comprises:
+The project comprised:
 
 1. An RSE competency framework, outlining a structured **set of skills** that are useful when working as an RSE, with
    examples of how these skills can be demonstrated at different **levels of experience**. Not all RSEs will or need to have
@@ -25,7 +26,7 @@ RSE Competencies Toolkit comprises:
 2. A curated set of training resources, linked to the skills and levels from the competency framework.
 3. A tool to visualise and compare different competency profiles.
 
-RSE Competencies Toolkit aims to support the following uses:
+The project aimed to support the following uses:
 
 1. Recording and visualising your competency profile as an individual RSE.
 2. Comparing competency profiles across a group of RSEs (e.g. to show the commonalities and variety across RSEs doing
@@ -34,54 +35,38 @@ RSE Competencies Toolkit aims to support the following uses:
 4. Define aspirational competency profiles, illustrate the gap to your current profile and highlight training resources
    that could help bridge that gap.
 
-### Current Status
+The project won the 3rd prize at CW23 and we have carried on with the work on this project after the initial prototype. Since then, we have compared our 
+work with many [related skill frameworks](#related-skills-&-competencies-frameworks) to make sure they are aligned and skills are not missed.
 
-- [x] Initial Research
-- [ ] Initial Development <-- We are Here
-- [ ] Minimum viable product
-- [ ] Alpha Release
-- [ ] Feature-Complete Release
+We have also consulted the wider RSE community at RSECon24 about the skills they use, where loads of non-technical/professional skills emerged. 
 
-### Support Needed
+We have now expanded the remit of the framework to include non-technical as well as technical skills that are used in a wide variety of 
+digital professional roles (and not just RSEs) such as researchers, data specialists (stewards, archivists, etc.), RSE group leads, PIs, etc.
 
-We need support and feedback in the following areas. Contributions of all sizes are welcome.
+## Competency framework
 
-#### RSE competency framework
-
-##### Defining the skill set
+### Defining and classifying skills
 
 We have a [draft framework](./_data/skills.json) and a [GitHub issue to track
 suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
 
 If you think skills are missing, needs clarification, or could be reorganised within the framework, please add your
-feedback to the [GitHub issue to track suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
+feedback to the [GitHub issue to track suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/39).
 
-##### Defining the skill levels
+### Defining the skill levels
 
-We have a [draft document on skill
+We have a [document defining skill
 levels](./skill-levels.md) and a [GitHub issue to track
-suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/62).
+suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/62).
 
-#### Developing the website
+The skill levels describe a scale to help measure/describe ability to demonstrate a particular skill (i.e. an individual’s competency level for a particular skill).
 
-The [website](https://rsetoolkit.github.io/rse-competencies-toolkit/) is currently a basic proof of concept developed
-during the CW23 Hack Day. We need support to develop a website that can:
-
-- Show descriptions of all the skills.
-- Display and link the professional development resources curated for each skill.
-- Allow people to score their own skills and view their skill wheels.
-
-#### Curating professional development resources
+### Curating professional development resources
 
 We have a file with [resources for professional development](./_data/resources.csv) mapped to skills in the framework.
 
 If you would like to suggest resources to add to the collection, please add them to the [GitHub issue on
-curation](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/44).
-
-#### All GitHub issues
-
-Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues. You can also open a new
-issue if your idea is not yet mentioned anywhere else.
+curation](https://github.com/direct-framework/digital-research-competencies-framework/issues/44).
 
 ### More information
 
@@ -93,12 +78,7 @@ See Contributors section below.
 
 You can contact the team at [rse-competencies-toolkit@googlegroups.com](mailto:rse-competencies-toolkit@googlegroups.com).
 
-## Built With
-
-This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home
-page or documentatation in each case.
-
-### Framework references
+### Related Skills & Competencies Frameworks
 
 - [CSCCE Skills Wheel](https://zenodo.org/record/4437294#.ZFO3F-zMIc1)
 - [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v8, the
@@ -118,52 +98,6 @@ page or documentatation in each case.
 - [Lightcast skills taxonomy](https://lightcast.io/open-skills)
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
-### Website
-
-- [Jekyll](https://jekyllrb.com/)
-- [Chart.js](https://www.chartjs.org/)
-
-## Getting Started for Developers
-
-### Prerequisites
-
-- Latest version of [Ruby](https://www.ruby-lang.org/en/)
-
-### Installation
-
-How to build or install the application.
-
-```sh
-git clone git@github.com:RSEToolkit/rse-competences-toolkit.git
-cd training
-bundle install
-```
-
-### Running Locally
-
-How to run the application on your local system.
-
-```sh
-bundle exec jekyll serve
-```
-
-### Running Tests
-
-No tests as yet.
-
-## Deployment
-
-### Local
-
-See [running locally](#running-locally) above.
-
-### Production
-
-Deployed automatically via GitHub actions.
-
-## Usage
-
-To come after the hack day
 
 ## License
 
@@ -188,12 +122,48 @@ Please cite this work as follows:
 
 ## Acknowledgements
 
-The initial version of this repository was created during a Software Sustainability Institute Collaborations Workshop
-2023 Hack Day. Subsequent development was guided by a number of unconference sessions during RSECon23.
+The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
+2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon23 and CW25.
 
 ## Contributors
 
-Contributors (in alphabetical order by first name). Collectively the "RSE Competencies Toolkit team".
+Current contributors (in alphabetical order by first name):
+
+- Adrian D'Alessandro
+- Aleksandra Nenadic
+- Aman Goel
+- Becky Osselton
+- Connor Aird
+- Dave Horsfall
+- Emma Hogan
+- Eli Chadwick
+- Gabriel Hanganu
+- Matt Craddock
+- Phil Reed
+- Sam Bland
+- Tamora James
+
+### Past contributors
+
+In alphabetical order by first name:
+
+- Hannah Williams
+- Diego Alonso Álvarez
+- Matthew Bluteau
+
+CW25 hack day team working on the project (in alphabetical order by first name):
+
+- Adrian D’Alessandro
+- Aleksandra Nenadic
+- Andrew Gait
+- Bryn Ubald
+- Connor Aird
+- Tamora James
+- Patricia Loto
+- Phil Reed
+- Ryan Smith
+
+Original CW23 hack day team that started the project (in alphabetical order by first name):
 
 - Aleksandra Nenadic
 - Aman Goel
@@ -208,6 +178,11 @@ Contributors (in alphabetical order by first name). Collectively the "RSE Compet
 - Nadine Spychala
 - Paul K Korir
 - Sean Marshallsay
+
+## Contributing
+
+Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues. You can also open a new
+issue if your idea is not yet mentioned anywhere else.
 
 ## Contact
 

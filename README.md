@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to define a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as researchers, RSEs, data specialists, RSE group leads, PIs, etc., along with lists tools/methods/behaviours to demonstrate skills and training materials that can help us gain a particular skill.
+This project aims to define a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as researchers, RSEs, data specialists, RSE group leads, PIs, etc., along with lists of tools/methods/behaviours to demonstrate skills and training materials that can help us gain a particular skill.
 
 A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing a Django webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 

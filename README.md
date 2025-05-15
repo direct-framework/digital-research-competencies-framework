@@ -10,7 +10,7 @@ A [sister project](https://github.com/direct-framework/direct-webapp) works on i
 
 This repository was originally created from the work that happened at the Software Sustainability Institute's [Collaborations Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-cw23-0) Hack Day.
 
-The idea was to construct a resource on technical skills that we use that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individaul skill profiles as "competency wheels".
+The idea was to construct a resource on technical skills that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individual skill profiles as "competency wheels".
 
 ![Screenshot of competency visualisations](rse-forge-screenshot.png)
 

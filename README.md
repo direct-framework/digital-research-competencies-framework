@@ -15,7 +15,7 @@ This repository was originally created from the work that happened at the Softwa
 
 The idea was to construct a resource on technical skills that is for the RSE community and curated by the RSE community, along with training materials that can help people gain a particular skill, and visualise people's individual skill profiles as "competency wheels".
 
-![Screenshot of competency visualisations](rse-forge-screenshot.png)
+![Screenshot of competency visualisations](images/rse-forge-screenshot.png)
 
 The project was added to the [RSE Competencies Toolkit organisation](https://github.com/RSEToolkit/) and as a resource to support RSEs (Research Software Engineers) in tracking and managing their professional development. We have now extracted the work into its own separate [GitHub organisation](https://github.com/direct-framework).
 

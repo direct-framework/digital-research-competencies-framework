@@ -71,17 +71,9 @@ We have a file with [resources for professional development](./_data/resources.c
 If you would like to suggest resources to add to the collection, please add them to the [GitHub issue on
 curation](https://github.com/direct-framework/digital-research-competencies-framework/issues/44).
 
-### More information
+### Related skills & competencies frameworks
 
-See the [all documents](./all_documents.md) page.
-
-### Project team
-
-See Contributors section below.
-
-You can contact the team at [rse-competencies-toolkit@googlegroups.com](mailto:rse-competencies-toolkit@googlegroups.com).
-
-### Related Skills & Competencies Frameworks
+We reviewed a number of related work into defining skills and competencies:
 
 - [CSCCE Skills Wheel](https://zenodo.org/record/4437294#.ZFO3F-zMIc1)
 - [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v8, the
@@ -102,35 +94,9 @@ You can contact the team at [rse-competencies-toolkit@googlegroups.com](mailto:r
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
 
-## License
-
-Unless otherwise specified on particular materials, all material in this repository is licensed as follows:
-
-- Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
-- Documentation, data and other written material is licensed under the [Creative Commons Attribution
-  licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
-
-## Citation
-
-Please cite this work as follows:
-
-```{bibtex}
-@article{RSECompetenciesToolkit2023,
-  title={RSE Competencies Toolkit},
-  author={RSE Competencies Toolkit team},
-  journal={GitHub},
-  year={2023}
-}
-```
-
-## Acknowledgements
-
-The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
-2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon23 and CW25.
-
 ## Contributors
 
-Current contributors (in alphabetical order by first name):
+Current project team (in alphabetical order by first name):
 
 - Adrian D'Alessandro
 - Aleksandra Nenadic
@@ -190,3 +156,30 @@ issue if your idea is not yet mentioned anywhere else.
 ## Contact
 
 If you'd like to get in touch with the project team - write to us at [rse-competencies-toolkit@googlegroups.com](mailto:rse-competencies-toolkit@googlegroups.com).
+
+## License
+
+Unless otherwise specified on particular materials, all material in this repository is licensed as follows:
+
+- Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
+- Documentation, data and other written material is licensed under the [Creative Commons Attribution
+  licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
+
+## Citation
+
+Please cite this work as follows:
+
+```{bibtex}
+@article{RSECompetenciesToolkit2023,
+  title={RSE Competencies Toolkit},
+  author={RSE Competencies Toolkit team},
+  journal={GitHub},
+  year={2023}
+}
+```
+
+## Acknowledgements
+
+The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
+2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon23 and CW25.
+

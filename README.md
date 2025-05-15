@@ -6,7 +6,6 @@ This project aims to define a skills and competencies framework to help us class
 
 A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing a Django webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
-
 ## History
 
 This repository was originally created from the work that happened at the Software Sustainability Institute's Collaborations Workshop 2023 Hack Day.
@@ -44,51 +43,28 @@ We have also consulted the wider RSE community at RSECon24 about the skills they
 We have now expanded the remit of the framework to include non-technical as well as technical skills that are used in a wide variety of 
 digital professional roles (and not just RSEs) such as researchers, data specialists (stewards, archivists, etc.), RSE group leads, PIs, etc.
 
+## Competency framework
 
-### Current Status
-
-- [x] Initial research
-- [x] Initial development <-- We are here
-- [x] Minimum viable product
-- [ ] Alpha release
-- [ ] Feature-complete release
-
-#### RSE competency framework
-
-##### Defining the skill set
+### Defining and classifying skills
 
 We have a [draft framework](./_data/skills.json) and a [GitHub issue to track
 suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
 
 If you think skills are missing, needs clarification, or could be reorganised within the framework, please add your
-feedback to the [GitHub issue to track suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
+feedback to the [GitHub issue to track suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/39).
 
-##### Defining the skill levels
+### Defining the skill levels
 
-We have a [draft document on skill
+We have a [document defining skill
 levels](./skill-levels.md) and a [GitHub issue to track
-suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/62).
+suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/62).
 
-#### Developing the website
-
-The [website](https://rsetoolkit.github.io/rse-competencies-toolkit/) is currently a basic proof of concept developed
-during the CW23 Hack Day. We need support to develop a website that can:
-
-- Show descriptions of all the skills.
-- Display and link the professional development resources curated for each skill.
-- Allow people to score their own skills and view their skill wheels.
-
-#### Curating professional development resources
+### Curating professional development resources
 
 We have a file with [resources for professional development](./_data/resources.csv) mapped to skills in the framework.
 
 If you would like to suggest resources to add to the collection, please add them to the [GitHub issue on
-curation](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/44).
-
-#### All GitHub issues
-
-Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues. You can also open a new
-issue if your idea is not yet mentioned anywhere else.
+curation](https://github.com/direct-framework/digital-research-competencies-framework/issues/44).
 
 ### More information
 
@@ -99,11 +75,6 @@ See the [all documents](./all_documents.md) page.
 See Contributors section below.
 
 You can contact the team at [rse-competencies-toolkit@googlegroups.com](mailto:rse-competencies-toolkit@googlegroups.com).
-
-## Built With
-
-This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home
-page or documentatation in each case.
 
 ### Related Skills & Competencies Frameworks
 
@@ -125,52 +96,6 @@ page or documentatation in each case.
 - [Lightcast skills taxonomy](https://lightcast.io/open-skills)
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
-### Website
-
-- [Jekyll](https://jekyllrb.com/)
-- [Chart.js](https://www.chartjs.org/)
-
-## Getting Started for Developers
-
-### Prerequisites
-
-- Latest version of [Ruby](https://www.ruby-lang.org/en/)
-
-### Installation
-
-How to build or install the application.
-
-```sh
-git clone git@github.com:RSEToolkit/rse-competences-toolkit.git
-cd training
-bundle install
-```
-
-### Running Locally
-
-How to run the application on your local system.
-
-```sh
-bundle exec jekyll serve
-```
-
-### Running Tests
-
-No tests as yet.
-
-## Deployment
-
-### Local
-
-See [running locally](#running-locally) above.
-
-### Production
-
-Deployed automatically via GitHub actions.
-
-## Usage
-
-To come after the hack day
 
 ## License
 
@@ -215,6 +140,11 @@ Contributors (in alphabetical order by first name). Collectively the "RSE Compet
 - Nadine Spychala
 - Paul K Korir
 - Sean Marshallsay
+
+## Contributing
+
+Anyone is welcome to contribute suggestions, feedback, and/or PRs to address any open issues. You can also open a new
+issue if your idea is not yet mentioned anywhere else.
 
 ## Contact
 

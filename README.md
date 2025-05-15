@@ -1,4 +1,4 @@
-# DIgital Research CompeTencies (DIRECT) Framework
+# DIgital REsearch CompeTencies (DIRECT) Framework
 
 ## About
 

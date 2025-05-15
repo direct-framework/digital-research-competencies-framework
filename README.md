@@ -6,6 +6,9 @@ This project aims to define a skills and competencies framework to help us class
 
 A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing a Django webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
+[![Watch the video of project lead Dave Horsfall describing the DIRECT Framework, how it identifies skills and defines development pathways for anyone working in research software, serving as an important tool to help with career progression](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=NpQFhwqBgg4)
+
+
 ## History
 
 This repository was originally created from the work that happened at the Software Sustainability Institute's [Collaborations Workshop 2023](https://www.software.ac.uk/workshop/collaborations-workshop-2023-cw23-0) Hack Day.

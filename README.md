@@ -122,12 +122,41 @@ Please cite this work as follows:
 
 ## Acknowledgements
 
-The initial version of this repository was created during a Software Sustainability Institute Collaborations Workshop
-2023 Hack Day. Subsequent development was guided by a number of unconference sessions during RSECon23.
+The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
+2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contirbutions by RSE community members during RSECon23, RSECon23 and CW25.
 
 ## Contributors
 
-Contributors (in alphabetical order by first name). Collectively the "RSE Competencies Toolkit team".
+Current contributors (in alphabetical order by first name):
+
+- Adrian D'Alessandro
+- Aleksandra Nenadic
+- Aman Goel
+- Becky Osselton
+- Connor Aird
+- Dave Horsfall
+- Emma Hogan
+- Eli Chadwick
+- Gabriel Hanganu
+- Phil Reed
+- Sam Bland
+- Tamora James
+
+### Past contributors
+
+CW25 hack day team working on the project (in alphabetical order by first name):
+
+- Adrian D’Alessandro
+- Aleksandra Nenadic
+- Andrew Gait
+- Bryn Ubald
+- Connor Aird
+- Tamora James
+- Patricia Loto
+- Phil Reed
+- Ryan Smith
+
+Original CW23 hack day team that started the project (in alphabetical order by first name):
 
 - Aleksandra Nenadic
 - Aman Goel

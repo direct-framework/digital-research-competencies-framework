@@ -134,6 +134,7 @@ CW25 hack day team working on the project (in alphabetical order by first name):
 
 CW25 workshop 2.4 saw additional contributions to the framework (in alphabetical order by first name):
 
+- Camille Santistevan
 - Ella Kaye
 - Jonathan Cooper
 - Samantha Wittke

@@ -100,8 +100,7 @@ This page tracks the public documents that have been used for community discussi
 ### Current working documents
 
 * [Skills framework](./_data/skills.json)
-* [Skills framework](./_data/skills.json)
-
+* [Skill levels](./skill-levels.md)
 * [Slide deck](https://docs.google.com/presentation/d/10jG8FYFAyKD8FI_MNo9RTqFUHg4A9e5jB_iHpA_Ut3A/edit?usp=sharing)
 * [Example skill profiles](https://docs.google.com/spreadsheets/d/1M8f9luJrc3w4rz4lD-cEpJUfi6qigh9PBk7Fm5sq_jQ/edit?usp=sharing) (see
   tabs at the bottom)

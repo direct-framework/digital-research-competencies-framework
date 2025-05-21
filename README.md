@@ -93,6 +93,29 @@ We reviewed a number of related work into defining skills and competencies:
 - [Lightcast skills taxonomy](https://lightcast.io/open-skills)
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
+## Documents
+
+This page tracks the public documents that have been used for community discussions and development.
+
+### Current working documents
+
+* [Skills framework](./_data/skills.json)
+* [Skills framework](./_data/skills.json)
+
+* [Slide deck](https://docs.google.com/presentation/d/10jG8FYFAyKD8FI_MNo9RTqFUHg4A9e5jB_iHpA_Ut3A/edit?usp=sharing)
+* [Example skill profiles](https://docs.google.com/spreadsheets/d/1M8f9luJrc3w4rz4lD-cEpJUfi6qigh9PBk7Fm5sq_jQ/edit?usp=sharing) (see
+  tabs at the bottom)
+* [Resources for professional development](./_data/resources_list.csv)
+and the [original CW23 resource spreadsheet](https://docs.google.com/spreadsheets/d/1bHagH4hibAlPJ1inuaZMu-0tmNtjXoJeVPzGFwwWh0U/edit?usp=sharing) (not
+currently matching)
+
+### No longer updated
+
+- Collaborations Workshop 23 Hack Day
+   * [CW23 Hack day report](https://docs.google.com/document/d/1ApTf8RcB86-RXrCJfCUMWDt6kRWSM0wVzBsPMCyhC8g)
+   * [CW23 Hack day presentation](https://docs.google.com/presentation/d/15RBtaJ4W5bUWV7aHrwV0wX7op7hewl3B-w7vj6wieHg/edit#slide=id.g1e2424db41c_2_0)
+   * [CW23 working HackMD document](https://hackmd.io/LwyTCm2LRwahi7yP8M7Brg?both)
+
 
 ## Contributors
 
@@ -192,5 +215,5 @@ Please cite this work as follows:
 ## Acknowledgements
 
 The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
-2023 Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon23 and CW25.
+2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon24 and CW25.
 

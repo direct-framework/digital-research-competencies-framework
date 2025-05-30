@@ -46,7 +46,7 @@ We have also consulted the wider RSE community at RSECon24 about the skills they
 We have now expanded the remit of the framework to include non-technical as well as technical skills that are used in a wide variety of 
 digital professional roles (and not just RSEs) such as researchers, data specialists (stewards, archivists, etc.), RSE group leads, PIs, etc.
 
-## Competency framework
+## DIRECT competency framework
 
 ### Defining and classifying skills
 
@@ -93,6 +93,10 @@ We reviewed a number of related work into defining skills and competencies:
 - [Lightcast skills taxonomy](https://lightcast.io/open-skills)
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 
+## DIRECT webapp
+
+The webapp part of the project is now in a [separate repository](https://github.com/direct-framework/direct-webapp).
+
 ## Documents
 
 This page tracks the public documents that have been used for community discussions and development.
@@ -107,6 +111,7 @@ This page tracks the public documents that have been used for community discussi
 * [Resources for professional development](./_data/resources_list.csv)
 and the [original CW23 resource spreadsheet](https://docs.google.com/spreadsheets/d/1bHagH4hibAlPJ1inuaZMu-0tmNtjXoJeVPzGFwwWh0U/edit?usp=sharing) (not
 currently matching)
+* [Internal Google drive folder](https://drive.google.com/drive/u/0/folders/15pzFo9Vmf1C-PsBfiPyC3ZQBCGB92ssC) with various documents, presentations, etc.
 
 ### No longer updated
 
@@ -115,6 +120,11 @@ currently matching)
    * [CW23 Hack day presentation](https://docs.google.com/presentation/d/15RBtaJ4W5bUWV7aHrwV0wX7op7hewl3B-w7vj6wieHg/edit#slide=id.g1e2424db41c_2_0)
    * [CW23 working HackMD document](https://hackmd.io/LwyTCm2LRwahi7yP8M7Brg?both)
 
+## Meetings
+
+The whole team (working on the framework and the webapp) meets once a month on the second Wednesday, 11:00 – 11:55 GMT/BST.
+
+The framework and webapp teams also meet separately in between these meetings to work on issues specific for each part of the project.
 
 ## Contributors
 

@@ -144,9 +144,7 @@ Current project team (in alphabetical order by first name):
 - Sam Bland
 - Tamora James
 
-### Past contributors
-
-In alphabetical order by first name:
+Former project team members (in alphabetical order by first name):
 
 - Hannah Williams
 - Diego Alonso Álvarez

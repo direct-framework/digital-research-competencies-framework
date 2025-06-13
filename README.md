@@ -103,12 +103,12 @@ This page tracks the public documents that have been used for community discussi
 
 ### Current working documents
 
-* [Skills framework](./_data/skills.json)
-* [Skill levels](./skill-levels.md)
+* [DIRECT skills & competencies framework](./framework/skills.json)
+* Skill levels definition - [in Markdown](./framework/skill-levels.md) and [JSON](./framework/skill-levels.json)
 * [Slide deck](https://docs.google.com/presentation/d/10jG8FYFAyKD8FI_MNo9RTqFUHg4A9e5jB_iHpA_Ut3A/edit?usp=sharing)
 * [Example skill profiles](https://docs.google.com/spreadsheets/d/1M8f9luJrc3w4rz4lD-cEpJUfi6qigh9PBk7Fm5sq_jQ/edit?usp=sharing) (see
   tabs at the bottom)
-* [Resources for professional development](./_data/resources_list.csv)
+* [Resources for professional development](./framework/resources_list.csv)
 and the [original CW23 resource spreadsheet](https://docs.google.com/spreadsheets/d/1bHagH4hibAlPJ1inuaZMu-0tmNtjXoJeVPzGFwwWh0U/edit?usp=sharing) (not
 currently matching)
 * [Internal Google drive folder](https://drive.google.com/drive/u/0/folders/15pzFo9Vmf1C-PsBfiPyC3ZQBCGB92ssC) with various documents, presentations, etc.

@@ -50,7 +50,7 @@ digital professional roles (and not just RSEs) such as researchers, data special
 
 ### Defining and classifying skills
 
-Skills and competencies are described in the [framework file](./_data/skills-competencies-framework.json) and we have a [GitHub issue to track
+Skills and competencies are described in the [framework file](./framework/skills-competencies-framework.json) and we have a [GitHub issue to track
 suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
 
 If you think skills are missing, needs clarification, or could be reorganised within the framework, please add your
@@ -66,7 +66,7 @@ The skill levels describe a scale to help measure/describe ability to demonstrat
 
 ### Curating professional development resources
 
-We have a file with [resources for professional development](./_data/resources.csv) mapped to skills in the framework.
+We have a file with [resources for professional development](./framework/resources.csv) mapped to skills in the framework.
 
 If you would like to suggest resources to add to the collection, please add them to the [GitHub issue on
 curation](https://github.com/direct-framework/digital-research-competencies-framework/issues/44).
@@ -103,12 +103,12 @@ This page tracks the public documents that have been used for community discussi
 
 ### Current working documents
 
-* [Skills framework](./_data/skills.json)
-* [Skill levels](./skill-levels.md)
+* [DIRECT skills & competencies framework](./framework/skills-competencies-framework.json)
+* Skill levels definition - [in Markdown](./framework/skill-levels.md) and [JSON](./framework/skill-levels.json)
 * [Slide deck](https://docs.google.com/presentation/d/10jG8FYFAyKD8FI_MNo9RTqFUHg4A9e5jB_iHpA_Ut3A/edit?usp=sharing)
 * [Example skill profiles](https://docs.google.com/spreadsheets/d/1M8f9luJrc3w4rz4lD-cEpJUfi6qigh9PBk7Fm5sq_jQ/edit?usp=sharing) (see
   tabs at the bottom)
-* [Resources for professional development](./_data/resources_list.csv)
+* [Resources for professional development](./framework/resources_list.csv)
 and the [original CW23 resource spreadsheet](https://docs.google.com/spreadsheets/d/1bHagH4hibAlPJ1inuaZMu-0tmNtjXoJeVPzGFwwWh0U/edit?usp=sharing) (not
 currently matching)
 * [Internal Google drive folder](https://drive.google.com/drive/u/0/folders/15pzFo9Vmf1C-PsBfiPyC3ZQBCGB92ssC) with various documents, presentations, etc.

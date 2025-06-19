@@ -29,7 +29,7 @@ an individual is aiming to achieve at each level:
 5. Evaluation
 6. Creating/Synthesis
 
-<img src="images/blooms-taxonomy.png" alt="Six categories of Bloom's taxomomy of learning objectives including:
+<img src="../images/blooms-taxonomy.png" alt="Six categories of Bloom's taxomomy of learning objectives including:
 remembering, understanding, application, analysing, evaluation, creating" style="width: 600px;"/>
 
 [Bloom’s taxonomy as revised by Lorin Anderson in 1990](https://study.com/learn/lesson/blooms-taxonomy-uses-levels-examples.html)
@@ -48,7 +48,7 @@ performing and what the main **focus** of people at that level is. While most pe
 skills across several (adjacent) categories of Bloom’s taxonomy, the focus in this case can be interpreted as what skills
 people at that level will spend most time and energy developing and practising.
 
-<img src="images/skill-levels.png" alt="5 skill levels mapped to six categories of Bloom's taxomomy, with skill level 1
+<img src="../images/skill-levels.png" alt="5 skill levels mapped to six categories of Bloom's taxomomy, with skill level 1
 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 and 5 jointly mapped to analysing,
 eveluation and creating" style="width: 600px;"/>
 

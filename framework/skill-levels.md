@@ -72,7 +72,7 @@ performing this competency.
 full range of reference and resource materials in this skill.
 * Focus is on **understanding** and developing through on-the-job experience.
 
-**Level 3** - Intermediate prctitioner (practical application)
+**Level 3** - Intermediate practitioner (practical application)
 
 * You are able to successfully complete tasks in this competency as requested. Help from an advanced practitioner/expert
 may be required from time to time, but you can usually perform the competency independently.

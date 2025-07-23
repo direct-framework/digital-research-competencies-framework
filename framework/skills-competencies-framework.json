@@ -2,9 +2,11 @@
   "categories": [
     {
       "title": "Information and data technologies",
+      "description": "Knowledge and application of tools, techniques, and systems for managing, analysing, visualising, and interpreting data",
       "subcategories": [
         {
           "title": "Data management",
+          "description": "",
           "skills": [
             {
               "title": "Data/database management systems",
@@ -58,6 +60,7 @@
         },
         {
           "title": "Data science",
+          "description": "",
           "skills": [
             {
               "title": "Spreadsheets",
@@ -113,9 +116,11 @@
     },
     {
       "title": "Software engineering and development",
+      "description": "",
       "subcategories": [
         {
           "title": "Web & mobile development",
+          "description": "",
           "skills": [
             {
               "title": "General Web technologies & APIs",
@@ -151,6 +156,7 @@
         },
         {
           "title": "Software engineering methodologies & tools",
+          "description": "",
           "skills": [
             {
               "title": "Compilers",
@@ -300,6 +306,7 @@
         },
         {
           "title": "Software/computer science concepts & theory",
+          "description": "",
           "skills": [
             {
               "title": "Programming paradigms",
@@ -317,6 +324,7 @@
         },
         {
           "title": "Software design & architecture",
+          "description": "",
           "skills": [
             {
               "title": "Requirements gathering",
@@ -346,6 +354,7 @@
         },
         {
           "title": "User Interface/User Experience (UI/UX) design",
+          "description": "",
           "skills": [
             {
               "title": "Designing user interfaces",
@@ -360,7 +369,7 @@
               "training_resources": []
             },
             {
-              "title": "Accessibility (for disabled users)",
+              "title": "Accessibility (for disabled people)",
               "description": "Ability to design and develop user interfaces and experiences that are usable by people with a wide range of abilities and disabilities",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
@@ -371,9 +380,11 @@
     },
     {
       "title": "ICT infrastructures",
+      "description": "",
       "subcategories": [
         {
           "title": "HPC infrastructure",
+          "description": "",
           "skills": [
             {
               "title": "Programming for HPC and GPUs - theoretical concepts & principles ",
@@ -439,6 +450,7 @@
         },
         {
           "title": "Web infrastructure",
+          "description": "",
           "skills": [
             {
               "title": "Web protocols",
@@ -474,6 +486,7 @@
         },
         {
           "title": "Cloud infrastructure",
+          "description": "",
           "skills": [
             {
               "title": "Cloud computing",
@@ -491,6 +504,7 @@
         },
         {
           "title": "General systems infrastructure",
+          "description": "",
           "skills": [
             {
               "title": "Communication protocols",
@@ -552,9 +566,11 @@
     },
     {
       "title": "Professional skills",
+      "description": "",
       "subcategories": [
         {
           "title": "Personal skills",
+          "description": "",
           "skills": [
             {
               "title": "Analysing / analytical skills / problem solving",
@@ -632,6 +648,7 @@
         },
         {
           "title": "Interpersonal skills",
+          "description": "",
           "skills": [
             {
               "title": "Cultural awareness & sensitivity",
@@ -661,6 +678,7 @@
         },
         {
           "title": "Teamwork & collaboration",
+          "description": "",
           "skills": [
             {
               "title": "Influencing, persuasion and negotiation",
@@ -692,9 +710,11 @@
     },
     {
       "title": "Leadership & management",
+      "description": "",
       "subcategories": [
         {
           "title": "People & team management",
+          "description": "",
           "skills": [
             {
               "title": "Team management",
@@ -748,6 +768,7 @@
         },
         {
           "title": "Leadership",
+          "description": "",
           "skills": [
             {
               "title": "Mentoring & coaching",
@@ -789,6 +810,7 @@
         },
         {
           "title": "Project management",
+          "description": "",
           "skills": [
             {
               "title": "Project governance",
@@ -904,9 +926,11 @@
     },
     {
       "title": "Domain expertise & research",
+      "description": "",
       "subcategories": [
         {
           "title": "Domain knowledge",
+          "description": "",
           "skills": [
             {
               "title": "Domain-specific background knowledge",
@@ -936,6 +960,7 @@
         },
         {
           "title": "Research skills",
+          "description": "",
           "skills": [
             {
               "title": "Research methodologies",
@@ -979,9 +1004,11 @@
     },
     {
       "title": "Communication",
+      "description": "",
       "subcategories": [
         {
           "title": "Verbal & written communication",
+          "description": "",
           "skills": [
             {
               "title": "Public speaking and presentation",
@@ -1035,6 +1062,7 @@
         },
         {
           "title": "Community & outreach",
+          "description": "",
           "skills": [
             {
               "title": "Peer support",
@@ -1070,6 +1098,7 @@
         },
         {
           "title": "Training",
+          "description": "",
           "skills": [
             {
               "title": "Self-learning",

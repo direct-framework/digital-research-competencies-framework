@@ -2,11 +2,11 @@
   "categories": [
     {
       "title": "Information and data technologies",
-      "description": "Knowledge and application of tools, techniques, and systems for managing, analysing, visualising, and interpreting data",
+      "description": "Knowledge and application of tools, techniques, and systems to harness data and drive insight, innovation, and informed decision-making across digital research",
       "subcategories": [
         {
           "title": "Data management",
-          "description": "",
+          "description": "Understanding and implementation of practices for data management, quality, accessibility, stewardship, and compliance across its lifecycle.",
           "skills": [
             {
               "title": "Data/database management systems",
@@ -60,7 +60,7 @@
         },
         {
           "title": "Data science",
-          "description": "",
+          "description": "Application of analytical, statistical, and machine learning techniques to extract insight and value from complex datasets",
           "skills": [
             {
               "title": "Spreadsheets",
@@ -116,11 +116,11 @@
     },
     {
       "title": "Software engineering and development",
-      "description": "",
+      "description": "Expertise in the design and development of software solutions that are robust, sustainable, and fit for purpose, enabling scientific and technological progress",
       "subcategories": [
         {
           "title": "Web & mobile development",
-          "description": "",
+          "description": "Design and development of responsive, secure, and user-centric applications across web and mobile platforms",
           "skills": [
             {
               "title": "General Web technologies & APIs",
@@ -156,7 +156,7 @@
         },
         {
           "title": "Software engineering methodologies & tools",
-          "description": "",
+          "description": "Application of structured approaches, theory and supporting tools to plan, develop, test, and maintain high-quality software systems efficiently",
           "skills": [
             {
               "title": "Compilers",
@@ -306,7 +306,7 @@
         },
         {
           "title": "Software/computer science concepts & theory",
-          "description": "",
+          "description": "Foundational knowledge of computational principles and algorithms that inform software design, development and performance",
           "skills": [
             {
               "title": "Programming paradigms",
@@ -324,7 +324,7 @@
         },
         {
           "title": "Software design & architecture",
-          "description": "",
+          "description": "Ability to conceptualise and structure software systems to be modular, scalable, maintainable, and aligned with user and stakeholder needs",
           "skills": [
             {
               "title": "Requirements gathering",
@@ -354,7 +354,7 @@
         },
         {
           "title": "User Interface/User Experience (UI/UX) design",
-          "description": "",
+          "description": "Creating intuitive, inclusive, and engaging digital experiences through thoughtful design and user-centered practices",
           "skills": [
             {
               "title": "Designing user interfaces",
@@ -380,11 +380,11 @@
     },
     {
       "title": "ICT infrastructures",
-      "description": "",
+      "description": "Understanding and oversight of digital infrastructure - encompassing computing, storage, and networks - that underpins research, collaboration, and digital service delivery.",
       "subcategories": [
         {
           "title": "HPC infrastructure",
-          "description": "",
+          "description": "Knowledge of high-performance computing systems and practices that support intensive computational research and large-scale simulations",
           "skills": [
             {
               "title": "Programming for HPC and GPUs - theoretical concepts & principles ",
@@ -450,7 +450,7 @@
         },
         {
           "title": "Web infrastructure",
-          "description": "",
+          "description": "Design, deployment, and maintenance of the technologies that support robust, scalable, and secure online platforms and services",
           "skills": [
             {
               "title": "Web protocols",
@@ -486,7 +486,7 @@
         },
         {
           "title": "Cloud infrastructure",
-          "description": "",
+          "description": "Expertise in leveraging cloud platforms to enable flexible, scalable, and cost-effective computing, storage, and data services",
           "skills": [
             {
               "title": "Cloud computing",
@@ -504,7 +504,7 @@
         },
         {
           "title": "General systems infrastructure",
-          "description": "",
+          "description": "Broad understanding of digital infrastructure—including hardware, networks, and system integration that supports everyday operations and research",
           "skills": [
             {
               "title": "Communication protocols",
@@ -566,11 +566,11 @@
     },
     {
       "title": "Professional skills",
-      "description": "",
+      "description": "Core capabilities that enable individuals to operate effectively and ethically within complex, multidisciplinary, and evolving professional environments",
       "subcategories": [
         {
           "title": "Personal skills",
-          "description": "",
+          "description": "Self-management capabilities such as initiative, adaptability, resilience, time management, and a commitment to continuous learning.",
           "skills": [
             {
               "title": "Analysing / analytical skills / problem solving",
@@ -648,7 +648,7 @@
         },
         {
           "title": "Interpersonal skills",
-          "description": "",
+          "description": "Ability to build rapport, demonstrate empathy, navigate social dynamics, and communicate effectively in diverse professional settings",
           "skills": [
             {
               "title": "Cultural awareness & sensitivity",
@@ -678,7 +678,7 @@
         },
         {
           "title": "Teamwork & collaboration",
-          "description": "",
+          "description": "Working constructively and inclusively with others to achieve shared goals, contribute to group problem-solving, and foster a positive team culture",
           "skills": [
             {
               "title": "Influencing, persuasion and negotiation",
@@ -710,11 +710,11 @@
     },
     {
       "title": "Leadership & management",
-      "description": "",
+      "description": "The capacity to guide people, projects, and organisations with vision and accountability, ensuring strategic alignment, innovation, and the effective use of resources.",
       "subcategories": [
         {
           "title": "People & team management",
-          "description": "",
+          "description": "Guiding and supporting individuals and teams to achieve their potential, with attention to wellbeing, performance, and professional growth",
           "skills": [
             {
               "title": "Team management",
@@ -768,7 +768,7 @@
         },
         {
           "title": "Leadership",
-          "description": "",
+          "description": "Setting direction, inspiring others, and making strategic decisions that align people and projects with broader institutional or organisational goals",
           "skills": [
             {
               "title": "Mentoring & coaching",
@@ -810,7 +810,7 @@
         },
         {
           "title": "Project management",
-          "description": "",
+          "description": "Planning, coordinating, and delivering projects effectively within defined scope, time, and resource constraints, while managing risk and quality",
           "skills": [
             {
               "title": "Project governance",
@@ -926,11 +926,11 @@
     },
     {
       "title": "Domain expertise & research",
-      "description": "",
+      "description": "Disciplinary insight and research acumen, enabling the generation of new knowledge, critical analysis, and the application of theory to practice",
       "subcategories": [
         {
           "title": "Domain knowledge",
-          "description": "",
+          "description": "Deep understanding of the concepts, challenges, and methodologies specific to a particular scientific field",
           "skills": [
             {
               "title": "Domain-specific background knowledge",
@@ -960,7 +960,7 @@
         },
         {
           "title": "Research skills",
-          "description": "",
+          "description": "Conducting rigorous inquiry, including problem formulation, experimental design, critical analysis, and dissemination of findings",
           "skills": [
             {
               "title": "Research methodologies",
@@ -1004,11 +1004,11 @@
     },
     {
       "title": "Communication",
-      "description": "",
+      "description": "The skill to convey ideas, knowledge, and impact across diverse audiences, fostering understanding, knowledge transfer and engagement within and beyond the organisation",
       "subcategories": [
         {
           "title": "Verbal & written communication",
-          "description": "",
+          "description": "Articulating complex ideas clearly and effectively through a range of formats and for varied audiences",
           "skills": [
             {
               "title": "Public speaking and presentation",
@@ -1062,7 +1062,7 @@
         },
         {
           "title": "Community & outreach",
-          "description": "",
+          "description": "Engaging with wider communities through knowledge sharing, collaboration, and public engagement to increase the visibility and impact of work",
           "skills": [
             {
               "title": "Peer support",
@@ -1098,7 +1098,7 @@
         },
         {
           "title": "Training",
-          "description": "",
+          "description": "Designing and delivering effective learning experiences that build skills, transfer knowledge, and support capacity and capability development across audiences",
           "skills": [
             {
               "title": "Self-learning",

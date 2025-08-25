@@ -195,9 +195,9 @@ issue if your idea is not yet mentioned anywhere else.
 
 ## Contact
 
-If you'd like to get in touch with the project team - write to us at [rse-competencies-toolkit@googlegroups.com](mailto:rse-competencies-toolkit@googlegroups.com).
+If you'd like to get in touch with the project team - email us at [direct-framework@googlegroups.com](mailto:direct-framework@googlegroups.com).
 
-We also use [#rse-competencies-toolkit channel](https://ukrse.slack.com/archives/C05CY0YFWEL) under RSE Community Slack (ukrse.slack.com).
+We also use [#direct-framework channel](https://ukrse.slack.com/archives/C05CY0YFWEL) under the RSE Community Slack (ukrse.slack.com).
 
 ## License
 

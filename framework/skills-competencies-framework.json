@@ -6,61 +6,7 @@
       "subcategories": [
         {
           "title": "Data management",
-          "description": "Understanding and implementation of practices for data management, quality, accessibility, stewardship, and compliance across its lifecycle.",
-          "skills": [
-            {
-              "title": "Data/database management systems",
-              "description": "Ability to effectively manage, store, retrieve, and analyse information within a database system",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Data/database query languages",
-              "description": "Proficiency in different database query languages for managing and manipulating data",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Data architecture/data structure format & design",
-              "description": "Ability to plan, model, and implement data systems, ensuring they meet business needs and are scalable, secure, and efficient",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Data acquisition",
-              "description": "Ability to gather, process, and utilise data effectively",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Data cleaning",
-              "description": "Ability to identify, correct, and remove errors, inconsistencies, and missing values from datasets",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Data protection & ethics",
-              "description": "Ability to understand legal frameworks like GDPR, implementing robust security measures, and ensuring ethical data handling practices",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Data management",
-              "description": "Ability to effectively manage data throughout its lifecycle, encompassing planning, organisation, storage, sharing, and preservation, ensuring data quality, accessibility, and compliance",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            },
-            {
-              "title": "Metadata standards",
-              "description": "Ability to manage and utilise metadata to ensure data quality, consistency, and discoverability",
-              "tools_languages_methods_behaviours": [],
-              "training_resources": []
-            }
-          ]
-        },
-        {
-          "title": "Data science",
-          "description": "Application of analytical, statistical, and machine learning techniques to extract insight and value from complex datasets",
+          "description": "Understanding and implementation of practices for data management, quality, accessibility, stewardship and compliance across data lifecycle",
           "skills": [
             {
               "title": "Spreadsheets",
@@ -69,14 +15,80 @@
               "training_resources": []
             },
             {
+              "title": "Data/database management systems",
+              "description": "Ability to effectively select a data storage system and store, retrieve, manage and analyse information within it",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data/database query languages",
+              "description": "Proficiency in data/database query languages for managing and manipulating data",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data architecture/data structure format & design",
+              "description": "Ability to plan, model and implement data systems that satisfy research requirements and are scalable, secure, and efficient",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data acquisition",
+              "description": "Ability to gather, process and utilise data effectively",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Digitisation of text & images",
+              "description": "Converting physical or analog materials (such as printed documents or photographs) into digital formats making them easier to store, process and share electronically",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data cleaning",
+              "description": "Ability to identify, correct and remove errors, inconsistencies and missing values from datasets",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data curation",
+              "description": "Stewardship and enrichment of data for future use - ensuring it is accurate, annotated, well-documented, accessible and preserved for long-term reuse",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Metadata standards",
+              "description": "Ability to manage and utilise metadata to ensure data quality, consistency and discoverability",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data lifecycle management",
+              "description": "Ability to effectively manage data throughout its lifecycle, encompassing planning, collection, organisation, processing, storage, preservation and sharing, ensuring data quality, accessibility and compliance",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Data protection & ethics",
+              "description": "Ability to understand data protection frameworks, implement robust security measures and ensure ethical data handling practices",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            }
+          ]
+        },
+        {
+          "title": "Data science",
+          "description": "Application of analytical, statistical or machine learning techniques to extract insight and value from complex or large datasets (big data)",
+          "skills": [
+            {
               "title": "Statistics and probability",
-              "description": "Ability to use mathematical methods to analyse data, draw inferences, and make predictions",
+              "description": "Ability to use mathematical methods to analyse data, draw inferences and make predictions",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Data mining",
-              "description": "Ability to discovere patterns and insights from large sets of data, using techniques from statistics, machine learning, and database systems",
+              "description": "Ability to discovere patterns and insights from large sets of data, using techniques from statistics, machine learning and database systems",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -124,7 +136,7 @@
           "skills": [
             {
               "title": "General Web technologies & APIs",
-              "description": "Ability to understand, use, and implement fundamental technologies for web development and communication",
+              "description": "Ability to understand, use and implement fundamental technologies for web development and communication",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -142,13 +154,13 @@
             },
             {
               "title": "Web frameworks for back-end development",
-              "description": "Proficiency in server-side programming languages, understanding of database systems, and knowledge of API development",
+              "description": "Proficiency in server-side programming, understanding of database systems and knowledge of API development",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Mobile app development",
-              "description": "Ability to create, test, and deploy mobile applications via use of programming languages, UI/UX design, backend development and testing",
+              "description": "Ability to create, test and deploy mobile applications via use of programming languages, UI/UX design, backend development and testing",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             }
@@ -166,7 +178,7 @@
             },
             {
               "title": "Writing code & knowledge of programming languages",
-              "description": "Skills in writing programming languages involve understanding syntax, algorithms, data structures",
+              "description": "Skills in writing programming languages - understanding syntax, algorithms, code and data structures",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -178,25 +190,25 @@
             },
             {
               "title": "Reading and understanding code/documentation",
-              "description": "Comprehending technical documents to grasp software functionality, architecture, and usage",
+              "description": "Comprehending technical documents to grasp software functionality, architecture and usage",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Data analysis & visualisation",
-              "description": "Ability to process, analyse, and interpret data, as well as the ability to communicate findings effectively through visual representations",
+              "description": "Ability to process, analyse and interpret data, as well as the ability to communicate findings effectively through visual representations",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
-              "title": "Regular expressions",
-              "description": "Ability to use and understand regular expressions (regex), which are sequences of characters that define a search pattern in a text",
+              "title": "Pattern recognition in text",
+              "description": "Ability to design expressions to match specific patterns within textual data",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Computer modelling & simulation",
-              "description": "Ability to contruct and manipulate computer-based mathematical, graphical or algorithmic representations of real life systems or phenomena, for the purpose of conducting computer-based simulations to study, predict or optimise the behaviour of the system(s) / phenomena under consideration.",
+              "description": "Ability to construct and manipulate computer-based mathematical, graphical or algorithmic representations of real life systems or phenomena, for the purpose of conducting computer-based simulations to study, predict or optimise the behaviour of the system(s) / phenomena under consideration.",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -208,31 +220,31 @@
             },
             {
               "title": "Testing methodologies & tools",
-              "description": "Ability to design, execute, and analyse tests, covering both manual and automated techniques, and understanding various testing types like functional, performance, and security testing",
+              "description": "Ability to design, execute, and analyse tests, covering both manual and automated techniques, and understanding various testing types like functional, performance and security testing",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Debugging tools",
-              "description": "Ability to use various techniques and tools to identify, isolate, and fix errors in software code.",
+              "description": "Ability to use various techniques and tools to identify, isolate and fix errors in software code",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
-              "title": "Code review techniques (including pair programming)",
+              "title": "Code review techniques",
               "description": "Ability to effectively evaluate and improve the quality of code by understanding the code structure, logic as well as soft skills like clear communication and constructive feedback",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Profiling & optimising code",
-              "description": "Ability to analyse code execution, identify performance bottlenecks, and implement changes to improve efficiency and responsiveness",
+              "description": "Ability to analyse code execution, identify performance bottlenecks and implement changes to improve efficiency and responsiveness",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Log analysis",
-              "description": "Ability to understand log formats, use log analysis tools, identify patterns and anomalies, and interpret log data to diagnose issues and improve system performance.",
+              "description": "Ability to understand log formats, use log analysis tools, identify patterns and anomalies and interpret log data to diagnose issues and improve system performance",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -244,7 +256,7 @@
             },
             {
               "title": "Software quality practices & assurance",
-              "description": "Expertise in developing and maintaining software that adheres to the good software principles (including FAIR software) and knowledge of tools that test for them. Expertise in ensuring software has the correct behaviour & produces correct outputs",
+              "description": "Expertise in developing and maintaining software that adheres to the good software principles (including FAIR software) and knowledge of tools that test for them. Expertise in ensuring software has the correct behaviour & produces correct outputs.",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -256,31 +268,31 @@
             },
             {
               "title": "Organising and documenting software projects",
-              "description": "Ability to create clear and concise documentation, design a logical and consistent file structure that facilitates collaboration, navigation, and long-term maintenance",
+              "description": "Ability to create clear and concise documentation, design a logical and consistent file structure that facilitates collaboration, navigation and long-term maintenance",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Software licensing",
-              "description": "Technical expertise in license management systems, understanding different license models, and the ability to implement and enforce license agreements",
+              "description": "Understanding different software licence models and the ability to implement and enforce licence agreements",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Packaging & releasing code",
-              "description": "Expertise in preparing software for distribution, including compiling, bundling dependencies, versioning, preparing release notes, and creating installable or deployable artifacts (e.g., Docker images, ZIP files, executables)",
+              "description": "Expertise in preparing software for distribution, including compiling, bundling dependencies, versioning, preparing release notes and creating installable or deployable artifacts",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Deploying code",
-              "description": "Expertise in taking packaged software and making it available in a target environment (e.g., staging, production) - including provisioning infrastructure, configuring services, rolling out updates, handling rollbacks, and ensuring minimal downtime.",
+              "description": "Expertise in taking packaged software and making it available in a target environment (e.g., staging, production) - including provisioning infrastructure, configuring services, rolling out updates, handling rollbacks and ensuring minimal downtime",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Containerisation",
-              "description": "Ability to package, deploy, and manage applications using containers, enabling consistent and reliable execution across diverse environment",
+              "description": "Ability to package, deploy and manage applications using containers, enabling consistent and reliable execution across diverse environment",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -298,7 +310,7 @@
             },
             {
               "title": "Environmental impact awareness & measurement",
-              "description": "Ability to understand the environmental consequences of software development and deployment, including energy consumption, resource usage, and the overall carbon footprint of the software lifecycle",
+              "description": "Ability to understand the environmental consequences of software development and deployment, including energy consumption, resource usage and the overall carbon footprint of the software lifecycle",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             }
@@ -316,7 +328,7 @@
             },
             {
               "title": "Threads, processes & parallelisation",
-              "description": "Ability to design and optimise concurrent and parallel execution using multi-threading, multi-processing, and distributed computing to improve performance and efficiency in software systems.",
+              "description": "Ability to design and optimise concurrent and parallel execution using multi-threading, multi-processing or distributed computing to improve performance and efficiency in software systems",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             }
@@ -380,7 +392,7 @@
     },
     {
       "title": "ICT infrastructures",
-      "description": "Understanding and oversight of digital infrastructure - encompassing computing, storage, and networks - that underpins research, collaboration, and digital service delivery.",
+      "description": "Understanding and oversight of digital infrastructure - encompassing computing, storage, and networks - that underpins research, collaboration and digital service delivery",
       "subcategories": [
         {
           "title": "HPC infrastructure",
@@ -406,7 +418,7 @@
             },
             {
               "title": "HPC software stack",
-              "description": "Collection of software tools, libraries, compilers, and applications installed and configured to support various computing tasks - such as HPC operating system, cluster management system, HPC programming tools, parallel computing libraries, middleware, data management tools, performance monitoring and profiling tools, application software.",
+              "description": "Collection of software tools, libraries, compilers, and applications installed and configured to support various computing tasks - such as HPC operating system, cluster management system, HPC programming tools, parallel computing libraries, middleware, data management tools, performance monitoring and profiling tools, application software",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -489,8 +501,8 @@
           "description": "Expertise in leveraging cloud platforms to enable flexible, scalable, and cost-effective computing, storage, and data services",
           "skills": [
             {
-              "title": "Cloud computing",
-              "description": "Ability needed to work with cloud services, platforms, and technologies",
+              "title": "Cloud computing & optimisation",
+              "description": "Ability needed to work with cloud services, platforms, and technologies in a cost-efficient and optimised manner",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -504,7 +516,7 @@
         },
         {
           "title": "General systems infrastructure",
-          "description": "Broad understanding of digital infrastructure—including hardware, networks, and system integration that supports everyday operations and research",
+          "description": "Broad understanding of digital infrastructure - including hardware, networks, and system integration that supports everyday operations and research",
           "skills": [
             {
               "title": "Communication protocols",
@@ -544,7 +556,7 @@
             },
             {
               "title": "Enviroment/package management",
-              "description": "Technical proficiency in sourcing, compiling/building and adminstrating packages, particularly for HPC systems - CMake, Spack.io, EESSI.io, Lmod",
+              "description": "Technical proficiency in sourcing, compiling/building and adminstrating packages, particularly for HPC systems",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -641,6 +653,12 @@
             {
               "title": "Understanding of mental health, stress and burnout",
               "description": "Awareness of emotional well-being, recognising signs of stress or burnout in yourself and others, and applying strategies for maintaining mental health",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
+              "title": "Self-reflection",
+              "description": "Ability to conduct reflective practice and identify opportunities for growth and improvements",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             }
@@ -838,7 +856,7 @@
             },
             {
               "title": "Project management methodologies",
-              "description": "Knowledge of the frameworks, processes, and best practices that guide how a project is planned, executed, monitored, and completed",
+              "description": "Knowledge of the frameworks, processes, and best practices that guide how a project is planned, executed, monitored, and evaluated",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -1017,8 +1035,8 @@
               "training_resources": []
             },
             {
-              "title": "Information synthesis/concise communication",
-              "description": "Ability to summarise and condense information efficiently",
+              "title": "Information synthesis/concise written communication",
+              "description": "Ability to structure and condense information in a written form for engaging with a diverse audience",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
@@ -1101,6 +1119,12 @@
           "description": "Designing and delivering effective learning experiences that build skills, transfer knowledge, and support capacity and capability development across audiences",
           "skills": [
             {
+              "title": "Pedagogical skills and theory of learning",
+              "description": "Ability to design, deliver and evaluate teaching based on an understanding of the theory of how people learn",
+              "tools_languages_methods_behaviours": [],
+              "training_resources": []
+            },
+            {
               "title": "Self-learning",
               "description": "Ability to learn independently and teach yourself new technical and non-technical skills and tools",
               "tools_languages_methods_behaviours": [],
@@ -1114,13 +1138,13 @@
             },
             {
               "title": "Teaching & training others",
-              "description": "Ability to convey theoretical and practical knowledge to others, address misconceptions, etc. in training events",
+              "description": "Ability to convey theoretical and practical knowledge to others, address misconceptions, etc. in training events, while applying good practice from pedagogical theory",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             },
             {
               "title": "Training material development",
-              "description": "Solo and collaborative development of various short-format training materials (tutorials, courses, etc.)",
+              "description": "Solo and collaborative development of various short-format training materials (tutorials, courses, etc.), while applying good practice from pedagogical theory",
               "tools_languages_methods_behaviours": [],
               "training_resources": []
             }

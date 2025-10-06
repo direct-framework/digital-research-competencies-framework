@@ -19,7 +19,7 @@
         "skill_level": "Level 2",
         "level": 2,
         "short_name": "Working",
-        "short_description": "Novice (limited experience) or emerging ability\n\n",
+        "short_description": "Novice (limited experience) or emerging ability",
         "long_description": "Technical: has the level of experience gained in a classroom or as a trainee on-the-job; applies the skill with some independence in familiar situations, still needs guidance when applying the skill but can draw on a range of reference materials; understands and can discuss terminology, concepts, principles, and issues related to this skill.\nNon-technical: understands the principles and issues; begins to reflect on practice and adapt behaviour.",
         "focus": "developing understanding and gaining independence through practice"
     },

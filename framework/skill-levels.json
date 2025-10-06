@@ -27,7 +27,7 @@
         "skill_level": "Level 3",
         "level": 3,
         "short_name": "Practitioner",
-        "short_description": "Intermediate practitioner (practical application)\n",
+        "short_description": "Intermediate practitioner (practical application)",
         "long_description": "Technical: applies skills confidently across a range of tasks; adapts existing solutions to challenges and supports peers; may occasionally require expert guidance; understands and can discuss the application and implications of changes to processes and policies in the skill area; contributes to reference and resource materials.\nNon-technical: consistently applies the skill with confidence; demonstrates maturity, self-reflection, and constructive collaboration and interaction with others; communicates effectively with varied audiences to enhance understanding and foster shared practice.",
         "focus": "applying established practices, adapting to challenges, and deepening expertise and skill"
     },

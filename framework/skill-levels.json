@@ -35,7 +35,7 @@
         "skill_level": "Level 4",
         "level": 4,
         "short_name": "Expert",
-        "short_description": "Advanced practitioner, expert or recognised authority\n",
+        "short_description": "Advanced practitioner, expert or recognised authority",
         "long_description": "Technical: highly skilled and independent; handles complex and unfamiliar challenges; recognised as an authority in the skill area, often mentoring others. creates new applications, contributes to or leads the development of reference and resource materials, and integrates the skill into wider systems, projects, or organisations.\nNon-technical: demonstrates exemplary use of the skill, adapting flexibly to complex or sensitive situations; mentors others, shapes cultural or systemic improvements, and applies the skill to influence organisational or sector-wide practices.",
         "focus": "designing new solutions, setting strategy, and shaping organisational or systemic direction through analysis, evaluation, and creation"
     }

@@ -12,7 +12,7 @@
         "level": 1,
         "short_name": "Awareness",
         "short_description": "Fundamental awareness (basic knowledge) or fundamental ability",
-        "long_description": "Technical: has basic knowledge of the area and understands core techniques and concepts;\ncan follow instructions and perform simple tasks with support, but the application of the skill is limited.\nNon-technical: recognises the importance of the skill, shows initial effort, and applies it inconsistently or only in simpler contexts.\n",
+        "long_description": "Technical: has basic knowledge of the area and understands core techniques and concepts;\ncan follow instructions and perform simple tasks with support, but the application of the skill is limited.\nNon-technical: recognises the importance of the skill, shows initial effort, and applies it inconsistently or only in simpler contexts.",
         "focus": "learning and remembering"
     },
     {

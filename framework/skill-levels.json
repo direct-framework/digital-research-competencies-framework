@@ -1,42 +1,42 @@
 [
-    {
-        "skill_level": "Level 0",
-        "level": 0,
-        "short_name": "None or N/A",
-        "short_description": "No skill or ability",
-        "long_description": "No skill or ability demonstrated, or the skill is not required or applicable to the role.",
-        "focus": ""
-    },
-    {
-        "skill_level": "Level 1",
-        "level": 1,
-        "short_name": "Awareness",
-        "short_description": "Fundamental awareness (basic knowledge) or fundamental ability",
-        "long_description": "Technical: has basic knowledge of the area and understands core techniques and concepts;\ncan follow instructions and perform simple tasks with support, but the application of the skill is limited.\nNon-technical: recognises the importance of the skill, shows initial effort, and applies it inconsistently or only in simpler contexts.",
-        "focus": "learning and remembering"
-    },
-    {
-        "skill_level": "Level 2",
-        "level": 2,
-        "short_name": "Working",
-        "short_description": "Novice (limited experience) or emerging ability",
-        "long_description": "Technical: has the level of experience gained in a classroom or as a trainee on-the-job; applies the skill with some independence in familiar situations, still needs guidance when applying the skill but can draw on a range of reference materials; understands and can discuss terminology, concepts, principles, and issues related to this skill.\nNon-technical: understands the principles and issues; begins to reflect on practice and adapt behaviour.",
-        "focus": "developing understanding and gaining independence through practice"
-    },
-    {
-        "skill_level": "Level 3",
-        "level": 3,
-        "short_name": "Practitioner",
-        "short_description": "Intermediate practitioner (practical application)",
-        "long_description": "Technical: applies skills confidently across a range of tasks; adapts existing solutions to challenges and supports peers; may occasionally require expert guidance; understands and can discuss the application and implications of changes to processes and policies in the skill area; contributes to reference and resource materials.\nNon-technical: consistently applies the skill with confidence; demonstrates maturity, self-reflection, and constructive collaboration and interaction with others; communicates effectively with varied audiences to enhance understanding and foster shared practice.",
-        "focus": "applying established practices, adapting to challenges, and deepening expertise and skill"
-    },
-    {
-        "skill_level": "Level 4",
-        "level": 4,
-        "short_name": "Expert",
-        "short_description": "Advanced practitioner, expert or recognised authority",
-        "long_description": "Technical: highly skilled and independent; handles complex and unfamiliar challenges; recognised as an authority in the skill area, often mentoring others. creates new applications, contributes to or leads the development of reference and resource materials, and integrates the skill into wider systems, projects, or organisations.\nNon-technical: demonstrates exemplary use of the skill, adapting flexibly to complex or sensitive situations; mentors others, shapes cultural or systemic improvements, and applies the skill to influence organisational or sector-wide practices.",
-        "focus": "designing new solutions, setting strategy, and shaping organisational or systemic direction through analysis, evaluation, and creation"
-    }
+ {
+   "skill_level": "Level 0",
+   "level": 0,
+   "short_name": "None or N/A",
+   "short_description": "No skill or ability",
+   "long_description": "No skill or ability demonstrated, or the skill is not required or applicable to the role.",
+   "focus": ""
+ },
+ {
+   "skill_level": "Level 1",
+   "level": 1,
+   "short_name": "Awareness",
+   "short_description": "Fundamental awareness (basic knowledge) or fundamental ability",
+   "long_description": "Technical: has basic knowledge of the area and understands core techniques and concepts;\ncan follow instructions and perform simple tasks with support, but the application of the skill is limited.\nNon-technical: recognises the importance of the skill, shows initial effort, and applies it inconsistently or only in simpler contexts.\n",
+   "focus": "learning and remembering"
+ },
+ {
+   "skill_level": "Level 2",
+   "level": 2,
+   "short_name": "Working",
+   "short_description": "Novice (limited experience) or emerging ability\n\n",
+   "long_description": "Technical: has the level of experience gained in a classroom or as a trainee on-the-job; applies the skill with some independence in familiar situations, still needs guidance when applying the skill but can draw on a range of reference materials; understands and can discuss terminology, concepts, principles, and issues related to this skill.\nNon-technical: understands the principles and issues; begins to reflect on practice and adapt behaviour.",
+   "focus": "developing understanding and gaining independence through practice"
+ },
+ {
+   "skill_level": "Level 3",
+   "level": 3,
+   "short_name": "Practitioner",
+   "short_description": "Intermediate practitioner (practical application)\n",
+   "long_description": "Technical: applies skills confidently across a range of tasks; adapts existing solutions to challenges and supports peers; may occasionally require expert guidance; understands and can discuss the application and implications of changes to processes and policies in the skill area; contributes to reference and resource materials.\nNon-technical: consistently applies the skill with confidence; demonstrates maturity, self-reflection, and constructive collaboration and interaction with others; communicates effectively with varied audiences to enhance understanding and foster shared practice.",
+   "focus": "applying established practices, adapting to challenges, and deepening expertise and skill"
+ },
+ {
+   "skill_level": "Level 4",
+   "level": 4,
+   "short_name": "Expert",
+   "short_description": "Advanced practitioner, expert or recognised authority\n",
+   "long_description": "Technical: highly skilled and independent; handles complex and unfamiliar challenges; recognised as an authority in the skill area, often mentoring others. creates new applications, contributes to or leads the development of reference and resource materials, and integrates the skill into wider systems, projects, or organisations.\nNon-technical: demonstrates exemplary use of the skill, adapting flexibly to complex or sensitive situations; mentors others, shapes cultural or systemic improvements, and applies the skill to influence organisational or sector-wide practices.",
+   "focus": "designing new solutions, setting strategy, and shaping organisational or systemic direction through analysis, evaluation, and creation"
+ }
 ]

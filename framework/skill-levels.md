@@ -9,7 +9,7 @@ It helps individuals compare their current proficiency with higher levels, ident
 
 The DIRECT framework skills that dRTPs draw on can be broadly divided into technical and non-technical: 
 
-- **technical skills** cover discipline-related expertise such as programming, data analysis, software engineering, use of digital infrastructures (e.g. HPC and cloud), reproducible research practices, etc.
+- **technical skills** cover discipline-related expertise such as programming, data analysis, software engineering, use of digital infrastructures (e.g. HPC and cloud), reproducible research practices
 - **non-technical** skills encompass broader professional competencies that enable effective practice and collaboration, including cognitive and reflective abilities (analysis, problem-solving, creativity, self-reflection), emotional and interpersonal skills (empathy, conflict resolution, cultural awareness), professional and personal maturity (time management, adaptability, resilience, ethical integrity), and social awareness and systems thinking (EDIA, mental health awareness, business acumen).
 
 Our skills scale is designed to apply equally well to both technical and non-technical skills. 

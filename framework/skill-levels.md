@@ -73,6 +73,8 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 
 ## Practical Application
 
+We use the skills scale in (self)assessment and creation of "competenchy wheels" (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
+
 The skills scale can support curriculum design and planning for professional and personal development within the DIRECT framework.
 
 To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, useful for technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, useful for non-technical skills) development.
@@ -101,3 +103,4 @@ This mapping can support the design of curricula and the definition of learning 
 [revised-blooms-taxonomy-image]: https://en.wikipedia.org/wiki/Bloom's_taxonomy#/media/File:Bloom's_revised_taxonomy.svg
 [blooms-taxonomy-cognitive-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BloomsTaxonomy.png/500px-BloomsTaxonomy.png
 [blooms-taxonomy-affective-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BloomsTaxonomy-Affective_01.png/500px-BloomsTaxonomy-Affective_01.png
+[direct-webapp]: https://directframework.com

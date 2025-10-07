@@ -80,8 +80,8 @@ To strengthen the professional and personal development link, the scale is mappe
 Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (for cognitive skills).
 This mapping can support the design of curricula and the definition of learning objectives at each skill level.
 
-![4 skill levels mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, eveluation and creating](../images/Blooms-combined-with-levels.png)
-*Skill levels applied to revised Bloom's taxonomy of cognitive skills ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
+![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, eveluation and creating](../images/Blooms-combined-with-levels.png)
+*Skills scale contaning four skill levels mapped to the revised Bloom's taxonomy of cognitive skills ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
 
 
 ## References & Inspiration

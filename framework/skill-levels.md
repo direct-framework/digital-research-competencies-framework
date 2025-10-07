@@ -80,7 +80,7 @@ Bloom’s Taxonomy moves from lower-order processes such as remembering and unde
 This mapping can support the design of curricula and the definition of learning objectives at each skill level.
 
 ![](../images/Blooms-combined-with-levels.png)
-*Bloom's taxonomy - image adapted from Wikimedia Commons images*
+*Skill levels applied to revised Bloom's taxonomy ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
 
 
 ## References & Inspiration
@@ -97,3 +97,4 @@ This mapping can support the design of curricula and the definition of learning 
 [sfia-guide]: https://sfia-online.org/en/about-sfia/sfia-guiding-principles
 [sfia-framework]: https://sfia-online.org/en/about-sfia/sfia-overview-for-new-users-211014.pdf
 [blooms-taxonomy]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
+[revised-blooms-taxonomy-image]: https://en.wikipedia.org/wiki/Bloom's_taxonomy#/media/File:Bloom's_revised_taxonomy.svg

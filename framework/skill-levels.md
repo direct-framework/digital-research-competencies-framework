@@ -75,8 +75,7 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 
 We use the skills scale in (self)assessment and creation of "competenchy wheels" (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
 
-The skills scale can support curriculum design and planning for professional and personal development within the DIRECT framework.
-
+The skills scale can also support curriculum design and planning for professional and personal development within the DIRECT framework.
 To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, useful for technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, useful for non-technical skills) development.
 
 Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (for cognitive skills).

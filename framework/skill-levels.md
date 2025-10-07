@@ -79,7 +79,7 @@ To strengthen the professional and personal development link, the scale is mappe
 Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating.
 This mapping can support the design of curricula and the definition of learning objectives at each skill level.
 
-![](../images/blooms-combined-with-levels.png)
+![](../images/Blooms-combined-with-levels.png)
 *Bloom's taxonomy - image adapted from Wikimedia Commons images*
 
 

@@ -76,7 +76,8 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 The skills scale can support curriculum design and planning for professional and personal development within the DIRECT framework.
 
 To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, useful for technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, useful for non-technical skills) development.
-Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating.
+
+Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (for cognitive skills).
 This mapping can support the design of curricula and the definition of learning objectives at each skill level.
 
 ![](../images/Blooms-combined-with-levels.png)

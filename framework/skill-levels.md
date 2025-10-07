@@ -80,7 +80,7 @@ Bloom’s Taxonomy moves from lower-order processes such as remembering and unde
 This mapping can support the design of curricula and the definition of learning objectives at each skill level.
 
 ![](../images/blooms-combined-with-levels.png)
-*Blooms taxonomy - image adapted from Wikimedia Commons images*
+*Bloom's taxonomy - image adapted from Wikimedia Commons images*
 
 
 ## References & Inspiration

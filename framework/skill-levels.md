@@ -75,12 +75,12 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 
 The skills scale can support curriculum design and planning for professional and personal development within the DIRECT framework.
 
-To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for cognitive (knowledge-based, useful for technical skills) and affective (emotion-based, useful for non-technical skills) development.
+To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, useful for technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, useful for non-technical skills) development.
 Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating.
 This mapping can support the design of curricula and the definition of learning objectives at each skill level.
 
 ![](../images/Blooms-combined-with-levels.png)
-*Skill levels applied to revised Bloom's taxonomy ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
+*Skill levels applied to revised Bloom's taxonomy of cognitive skills ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
 
 
 ## References & Inspiration
@@ -98,3 +98,5 @@ This mapping can support the design of curricula and the definition of learning 
 [sfia-framework]: https://sfia-online.org/en/about-sfia/sfia-overview-for-new-users-211014.pdf
 [blooms-taxonomy]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [revised-blooms-taxonomy-image]: https://en.wikipedia.org/wiki/Bloom's_taxonomy#/media/File:Bloom's_revised_taxonomy.svg
+[blooms-taxonomy-cognitive-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BloomsTaxonomy.png/500px-BloomsTaxonomy.png
+[blooms-taxonomy-affective-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BloomsTaxonomy-Affective_01.png/500px-BloomsTaxonomy-Affective_01.png

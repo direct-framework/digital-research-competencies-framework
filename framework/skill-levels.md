@@ -34,7 +34,7 @@ Focus: **learning** and **remembering**.
 
 ### Level 2 - Working
 
-*Novice (limited experience) or emerging ability*
+*Emerging ability and/or limited experience*
 
 - Technical: has the level of experience gained in a classroom or as a trainee on-the-job;
 applies the skill with some independence in familiar situations, still needs guidance when applying the skill but can draw on a range of reference materials;
@@ -45,7 +45,7 @@ Focus: developing **understanding** and gaining independence through practice.
 
 ### Level 3 - Practitioner
 
-*Intermediate practitioner (practical application)*
+*Intermeidate to advanced practitioner (practical application)*
 
 - Technical: applies skills confidently across a range of tasks; 
 adapts existing solutions to challenges and supports peers; 
@@ -60,7 +60,7 @@ Focus: **applying** established practices, adapting to challenges, and deepening
 
 ### Level 4 – Expert
 
-*Advanced practitioner, expert or recognised authority*
+*Expert, leader or recognised authority*
 
 - Technical: highly skilled and independent; 
 handles complex and unfamiliar challenges; 

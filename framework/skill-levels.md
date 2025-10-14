@@ -1,104 +1,105 @@
-# DIRECT Framework - Compentency Level Definitions
-
-References & inspiration from:
-
-* [Bloom’s for Computing: Enhancing Bloom's Revised Taxonomy with Verbs for Computing Disciplines](https://ccecc.acm.org/files/publications/Blooms-for-Computing-20230807.pdf)
-* [Study.com: What is Bloom's Taxonomy?](https://study.com/learn/lesson/blooms-taxonomy-uses-levels-examples.html)
-* [SFIA (Skills Framework for the Information Age) guiding principles](https://sfia-online.org/en/about-sfia/sfia-guiding-principles)
-and [SFIA overview](https://sfia-online.org/en/about-sfia/sfia-overview-for-new-users-211014.pdf)
+# DIRECT Framework - Skill Level Definitions
 
 ## Introduction
 
-This document describes a competency scale as a tool to help measure/describe RSEs ability to demonstrate a particular
-skill (i.e. an individual’s competency level for a particular skill). It can serve as a guide to
-understanding the expected proficiency at each level (i.e. the expected proficiency of top performers at each level and
-what an individual is expected to be able to do/aim for at the top of a level). It can be used by an individual to
-compare, e.g., their current level of proficiency to that of individuals at the level above or top performers at the same
-level. In addition, when combined with the [RSE Competencies framework](https://github.com/RSEToolkit/rse-competencies-toolkit/tree/main#rse-competency-framework),
-this should be a useful tool for curriculum design and planning professional development.
+This document defines a skill scale as part of the [DIRECT Competency Framework][direct-framework]. 
+It provides a structured way for digital research technical professionals (dRTPs) to describe their ability in a given skill. 
+The scale sets out the expected proficiency at each level, from basic awareness to advanced expertise. 
+It helps individuals compare their current proficiency with higher levels, identify development goals, and understand what top performers typically demonstrate at each stage.
 
-The scale has been heavily inspired by the [NIH Competencies Proficiency Scale](https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale).
-In addition, we tried to (roughly) map each of the levels to the six main categories, or hierarchical levels,
-of [Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom's_taxonomy) (recap included below), which describe learning objectives
-an individual is aiming to achieve at each level:
+The DIRECT framework skills that dRTPs draw on can be broadly divided into technical and non-technical: 
 
-1. Remembering/Knowledge
-2. Understanding/Comprehension
-3. Application
-4. Analysing
-5. Evaluation
-6. Creating/Synthesis
+- **technical skills** cover discipline-related expertise such as programming, data analysis, software engineering, use of digital infrastructures (e.g. HPC and cloud), reproducible research practices
+- **non-technical** skills encompass broader professional competencies that enable effective practice and collaboration, including cognitive and reflective abilities (analysis, problem-solving, creativity, self-reflection), emotional and interpersonal skills (empathy, conflict resolution, cultural awareness), professional and personal maturity (time management, adaptability, resilience, ethical integrity), and social awareness and systems thinking (EDIA, mental health awareness, business acumen).
 
-<img src="../images/blooms-taxonomy.png" alt="Six categories of Bloom's taxomomy of learning objectives including:
-remembering, understanding, application, analysing, evaluation, creating" style="width: 600px;"/>
+Our skills scale is designed to apply equally well to both technical and non-technical skills. 
 
-[Bloom’s taxonomy as revised by Lorin Anderson in 1990](https://study.com/learn/lesson/blooms-taxonomy-uses-levels-examples.html)
-(Image credit [Center for Teaching Vanderbilt University @Flickr](https://www.flickr.com/photos/vandycft/29428436431),
-licence CC BY 2.0)
+## Skills Scale
 
-Mapping to Bloom’s taxonomy should be used to aid the design and development of curricula and defining learning objectives
-at each skill/competency level as learners advance through the process of learning, from the fundamental stages of
-remembering and understanding to the more complex stages of evaluating and creating.
+We use the following 4-level skill scale, aligned with the [UK Government Science and Engineering (GSE) Career Framework][gse-framework] and consistent with the [UK Government's Digital, Data and Technology (DDaT) Capability Framework][ddat-framework].
 
-## Competency Scale
+### Level 0 - None or N/A
 
-We propose the following 5-level competency scale, and the related mapping from a competency level to a category in
-Bloom’s taxonomy. Each level is described in terms of what **tasks** people at each level are already capable of
-performing and what the main **focus** of people at that level is. While most people at each level will be practising
-skills across several (adjacent) categories of Bloom’s taxonomy, the focus in this case can be interpreted as what skills
-people at that level will spend most time and energy developing and practising.
+No skill or ability demonstrated, or the skill is not required or applicable to the role.
 
-<img src="../images/skill-levels.png" alt="5 skill levels mapped to six categories of Bloom's taxomomy, with skill level 1
-mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 and 5 jointly mapped to analysing,
-eveluation and creating" style="width: 600px;"/>
+### Level 1 - Awareness
 
-A mapping from competency levels to Bloom’s taxonomy
+*Fundamental awareness (basic knowledge) or fundamental ability*
 
-**Level 0** - None or N/A
+- Technical: has basic knowledge of the area and understands core techniques and concepts;  
+can follow instructions and perform simple tasks with support, but the application of the skill is limited.
+- Non-technical: recognises the importance of the skill, shows initial effort, and applies it inconsistently or only in simpler contexts.
 
-* You do not possess this competency or are not required to apply or demonstrate this competency (this competency is not
-applicable to your position).
+Focus: **learning** and **remembering**.
 
-**Level 1** - Fundamental awareness (basic knowledge)
+### Level 2 - Working
 
-* You have a common knowledge or an understanding of basic techniques and concepts.
-* Focus is on **learning** and **remembering**.
+*Emerging ability and/or limited experience*
 
-**Level 2** - Novice (limited experience)
+- Technical: has the level of experience gained in a classroom or as a trainee on-the-job;
+applies the skill with some independence in familiar situations, still needs guidance when applying the skill but can draw on a range of reference materials;
+understands and can discuss terminology, concepts, principles, and issues related to this skill.
+- Non-technical: understands the principles and issues; begins to reflect on practice and adapt behaviour.
 
-* You have the level of experience gained in a classroom or as a trainee on-the-job. You are expected to need help when
-performing this competency.
-* You understand and can discuss terminology, concepts, principles and issues related to this competency; you can use the
-full range of reference and resource materials in this skill.
-* Focus is on **understanding** and developing through on-the-job experience.
+Focus: developing **understanding** and gaining independence through practice.
 
-**Level 3** - Intermediate practitioner (practical application)
+### Level 3 - Practitioner
 
-* You are able to successfully complete tasks in this competency as requested. Help from an advanced practitioner/expert
-may be required from time to time, but you can usually perform the competency independently.
-* You have applied this competency to situations occasionally while needing minimal guidance to perform tasks successfully.
-* You understand and can discuss the application and implications of changes to processes and policies in this area.
-* Focus is on **applying** well-known algorithms, paradigms and solutions to the job at hand and **enhancing knowledge
-  or skill**.
+*Intermediate to advanced practitioner (practical application)*
 
-**Level 4** - Advanced practitioner (applied theory)
+- Technical: applies skills confidently across a range of tasks; 
+adapts existing solutions to challenges and supports peers; 
+may occasionally require expert guidance; 
+understands and can discuss the application and implications of changes to processes and policies in the skill area; 
+contributes to reference and resource materials.
+- Non-technical: consistently applies the skill with confidence; 
+demonstrates maturity, self-reflection, and constructive collaboration and interaction with others; 
+communicates effectively with varied audiences to enhance understanding and foster shared practice.
 
-* You can perform the actions associated with this skill without assistance. You are certainly recognized within your
-immediate group/organisation as "a person to ask" when difficult questions arise regarding this skill.
-* You have consistently provided practical/relevant ideas and perspectives on process or practice improvements which may
-easily be implemented.
-* You are capable of mentoring others in the application of this competency by translating complex nuances relating to
-this competency into easy to understand terms.
-* You participate in the development of reference and resource materials in this competency.
-* Focus is on **designing or architecting** new solutions  - **analysing, evaluating** and **creating/synthesis**.
+Focus: **applying** established practices, adapting to challenges, and deepening expertise and skill.
 
-**Level 5** - Expert (recognized authority)
+### Level 4 – Expert
 
-* You can provide guidance, troubleshoot and answer questions related to this area of expertise and the field where the
-skill is used.
-* You have demonstrated consistent excellence in applying this competency across multiple projects and/or organisations.
-* You are being recognised inside and outside your organisation as an authority in the area of the competency.
-* You create new applications for and/or lead the development of reference and resource materials for this competency.
-* You are able to explain the relevant process elements and issues in sufficient detail during discussions and presentations,
-to foster a greater understanding among internal and external colleagues and collaborators.
-* Focus is on **strategy** in the area of competency and **shaping organisational and (inter)national policies**.
+*Expert, leader or recognised authority*
+
+- Technical: highly skilled and independent; 
+handles complex and unfamiliar challenges; 
+recognised as an authority in the skill area, often mentoring others. 
+creates new applications, contributes to or leads the development of reference and resource materials, and integrates the skill into wider systems, projects, or organisations.
+- Non-technical: demonstrates exemplary use of the skill, adapting flexibly to complex or sensitive situations;
+mentors others, shapes cultural or systemic improvements, and applies the skill to influence organisational or sector-wide practices.
+
+Focus: designing new solutions, setting strategy, and shaping organisational or systemic direction through **analysis**, **evaluation**, and **creation**.
+
+## Practical Application
+
+We use the skills scale in (self)assessment and creation of "competenchy wheels" (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
+
+The skills scale can also support curriculum design and planning for professional and personal development within the DIRECT framework.
+To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, useful for technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, useful for non-technical skills) development.
+
+Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (for cognitive skills).
+This mapping can support the design of curricula and the definition of learning objectives at each skill level.
+
+![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, eveluation and creating](../images/Blooms-combined-with-levels.png)
+*Four skill levels mapped to the revised Bloom's taxonomy of cognitive skills ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
+
+
+## References & Inspiration
+
+* [UK Government Science and Engineering: Career Framework][gse-framework]
+* [UK Government Digital and Data Profession Capability Framework][ddat-framework]
+* [NIH Competencies Proficiency Scale][nih-framework]
+* [BCS's SFIA (Skills Framework for the Information Age) guiding principles][sfia-guide] and [SFIA overview][sfia-framework]
+
+[gse-framework]: https://assets.publishing.service.gov.uk/media/61a605f2e90e07043d677dd0/gse-career-framework-v2.pdf
+[ddat-framework]: https://ddat-capability-framework.service.gov.uk/
+[direct-framework]: ./skills-competencies-framework.json
+[nih-framework]: https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale
+[sfia-guide]: https://sfia-online.org/en/about-sfia/sfia-guiding-principles
+[sfia-framework]: https://sfia-online.org/en/about-sfia/sfia-overview-for-new-users-211014.pdf
+[blooms-taxonomy]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
+[revised-blooms-taxonomy-image]: https://en.wikipedia.org/wiki/Bloom's_taxonomy#/media/File:Bloom's_revised_taxonomy.svg
+[blooms-taxonomy-cognitive-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BloomsTaxonomy.png/500px-BloomsTaxonomy.png
+[blooms-taxonomy-affective-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BloomsTaxonomy-Affective_01.png/500px-BloomsTaxonomy-Affective_01.png
+[direct-webapp]: https://directframework.com

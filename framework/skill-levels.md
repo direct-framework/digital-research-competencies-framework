@@ -45,7 +45,7 @@ Focus: developing **understanding** and gaining independence through practice.
 
 ### Level 3 - Practitioner
 
-*Intermeidate to advanced practitioner (practical application)*
+*Intermediate to advanced practitioner (practical application)*
 
 - Technical: applies skills confidently across a range of tasks; 
 adapts existing solutions to challenges and supports peers; 

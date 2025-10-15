@@ -82,7 +82,7 @@ Like our scale, Bloom’s Taxonomy progresses from lower-order processes such as
 This mapping supports the design of curricula and the formulation of learning objectives aligned with each skill level.
 The correspondence between our skill levels and Bloom’s hierarchical levels is approximate, as some overlap exists between levels and someone assessed at a lower skill level may already demonstrate elements of higher-order thinking from the level above.
 
-![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, evaluation and creating](../images/Bloom-taxonomy-cognitive-emotive-levels-combined.svg)
+![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, evaluation and creating](../images/Bloom-taxonomy-cognitive-emotive-levels-combined.png)
 *Four skill levels mapped to the revised Bloom's taxonomy of cognitive and emotional skills (adapted from the [revised Bloom's taxomony diagram][revised-blooms-taxonomy-image] and [Bloom's taxonomy without text image][blooms-taxonomy-without-text], both from Wikimedia Commons)*
 
 

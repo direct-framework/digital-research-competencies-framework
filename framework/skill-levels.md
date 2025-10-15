@@ -96,10 +96,10 @@ By mapping required skill levels to job responsibilities, organisations can arti
 
 Within the digital research technical professional (dRTP) community, and particularly for Research Software Engineering (RSE) roles, a broadly recognised hierarchy of positions exists:
 
-- Intern – developing foundational awareness and basic skills, typically under close supervision.
-- Junior – applying established methods and tools with increasing independence while continuing to consolidate technical and professional competencies.
-- Senior – demonstrating advanced expertise, autonomy, and problem-solving ability; often contributing to mentoring, coordination, and technical leadership within teams or projects.
-- Principal – providing strategic or institutional leadership, setting technical direction, shaping best practice, and influencing organisational or community-wide standards.
+- **Intern** – developing foundational awareness and basic skills, typically under close supervision.
+- **Junior** – applying established methods and tools with increasing independence while continuing to consolidate technical and professional competencies.
+- **Senior** – demonstrating advanced expertise, autonomy, and problem-solving ability; often contributing to mentoring, coordination, and technical leadership within teams or projects.
+- **Principal** – providing strategic or institutional leadership, setting technical direction, shaping best practice, and influencing organisational or community-wide standards.
 
 This progression mirrors the increasing levels of complexity, autonomy, and impact described in the skills scale. 
 

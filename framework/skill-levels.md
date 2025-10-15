@@ -73,18 +73,35 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 
 ## Practical Application
 
+### Competency Wheels
+
 We use the skills scale for (self-)assessment and to create competency wheels (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
+
+### Professional Development & Curriculum Design 
 
 The skills scale can also support curriculum design and planning for professional and personal development within the DIRECT framework.
 To strengthen the connection with development pathways, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which defines hierarchical learning objectives for both [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, typically applied to technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, typically applied to non-technical skills) domains.
 
-Like our scale, Bloom’s Taxonomy progresses from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (particularly relevant for cognitive skills).
-This mapping supports the design of curricula and the formulation of learning objectives aligned with each skill level.
-The correspondence between our skill levels and Bloom’s hierarchical levels is approximate, as some overlap exists between levels and someone assessed at a lower skill level may already demonstrate elements of higher-order thinking from the level above.
+Like our scale, Bloom’s Taxonomy progresses from lower-order processes such as *remembering* and *understanding* to higher-order processes such as *evaluating* and *creating* (e.g. in the context of cognitive skills).
+Mapping our scale to Bloom's Taxomony can support the design of curricula and the formulation of learning objectives aligned with each skill level.
+The correspondence between our skill levels and Bloom’s hierarchical levels is approximate, as some overlap exists between levels - someone assessed at a lower skill level may already demonstrate elements of higher-order thinking from the level above.
 
 ![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, evaluation and creating](../images/Bloom-taxonomy-cognitive-emotive-levels-combined.png)
 *Four skill levels mapped to the revised Bloom's taxonomy of cognitive and emotional skills (adapted from the [revised Bloom's taxomony diagram][revised-blooms-taxonomy-image] and [Bloom's taxonomy without text image][blooms-taxonomy-without-text], both from Wikimedia Commons)*
 
+### Roles & Job Definitions 
+
+Beyond individual learning, the skills scale cab provide a foundation for defining job profiles and roles, workforce planning, and progression frameworks. 
+By mapping required skill levels to job responsibilities, organisations can articulate expectations more clearly across different dRTP roles and job profiles.
+
+Within the digital research technical professional (dRTP) community, and particularly for Research Software Engineering (RSE) roles, a broadly recognised hierarchy of positions exists:
+
+- Intern – developing foundational awareness and basic skills, typically under close supervision.
+- Junior – applying established methods and tools with increasing independence while continuing to consolidate technical and professional competencies.
+- Senior – demonstrating advanced expertise, autonomy, and problem-solving ability; often contributing to mentoring, coordination, and technical leadership within teams or projects.
+- Principal – providing strategic or institutional leadership, setting technical direction, shaping best practice, and influencing organisational or community-wide standards.
+
+This progression mirrors the increasing levels of complexity, autonomy, and impact described in the skills scale. 
 
 ## References & Inspiration
 

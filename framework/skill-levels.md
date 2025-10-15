@@ -45,7 +45,7 @@ Focus: developing **understanding** and gaining independence through practice.
 
 ### Level 3 - Practitioner
 
-*Intermediate to advanced practitioner (practical application)*
+*Practical application by a competent (intermediate to advanced) practitioner*
 
 - Technical: applies skills confidently across a range of tasks; 
 adapts existing solutions to challenges and supports peers; 
@@ -60,7 +60,7 @@ Focus: **applying** established practices, adapting to challenges, and deepening
 
 ### Level 4 – Expert
 
-*Expert, leader or recognised authority*
+*Leading and/or being a recognised authority*
 
 - Technical: highly skilled and independent; 
 handles complex and unfamiliar challenges; 

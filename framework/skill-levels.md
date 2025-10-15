@@ -73,16 +73,17 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 
 ## Practical Application
 
-We use the skills scale in (self)assessment and creation of "competenchy wheels" (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
+We use the skills scale for (self-)assessment and to create competency wheels (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
 
 The skills scale can also support curriculum design and planning for professional and personal development within the DIRECT framework.
-To strengthen the professional and personal development link, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which describes hierarchical learning objectives for [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, useful for technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, useful for non-technical skills) development.
+To strengthen the connection with development pathways, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which defines hierarchical learning objectives for both [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, typically applied to technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, typically applied to non-technical skills) domains.
 
-Bloom’s Taxonomy moves from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (for cognitive skills).
-This mapping can support the design of curricula and the definition of learning objectives at each skill level.
+Like our scale, Bloom’s Taxonomy progresses from lower-order processes such as remembering and understanding to higher-order processes such as evaluating and creating (particularly relevant for cognitive skills).
+This mapping supports the design of curricula and the formulation of learning objectives aligned with each skill level.
+The correspondence between our skill levels and Bloom’s hierarchical levels is approximate, as some overlap exists between levels and someone assessed at a lower skill level may already demonstrate elements of higher-order thinking from the level above.
 
-![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, eveluation and creating](../images/Blooms-combined-with-levels.png)
-*Four skill levels mapped to the revised Bloom's taxonomy of cognitive skills ([original image][revised-blooms-taxonomy-image] from Wikimedia Commons)*
+![4 skill levels from the skills scale mapped to six categories of Bloom's taxonomy, with skill level 1 mapped to remembering, level 2 to understanding, level 3 to applying, and level 4 jointly mapped to analysing, evaluation and creating](../images/Bloom-taxonomy-cognitive-emotive-levels-combined.svg)
+*Four skill levels mapped to the revised Bloom's taxonomy of cognitive and emotional skills (adapted from the [revised Bloom's taxomony diagram][revised-blooms-taxonomy-image] and [Bloom's taxonomy without text image][blooms-taxonomy-without-text], both from Wikimedia Commons)*
 
 
 ## References & Inspiration
@@ -103,3 +104,4 @@ This mapping can support the design of curricula and the definition of learning 
 [blooms-taxonomy-cognitive-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BloomsTaxonomy.png/500px-BloomsTaxonomy.png
 [blooms-taxonomy-affective-image]: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BloomsTaxonomy-Affective_01.png/500px-BloomsTaxonomy-Affective_01.png
 [direct-webapp]: https://directframework.com
+[blooms-taxonomy-without-text]: https://commons.wikimedia.org/wiki/File:Bloom-en_taxonomia_without_text.svg

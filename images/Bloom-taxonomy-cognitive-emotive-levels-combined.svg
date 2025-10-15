@@ -17,6 +17,14 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6">
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#93a88e;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
     <rect
        x="2202.9583"
        y="160.31232"
@@ -52,12 +60,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.74853892"
-     inkscape:cx="1520.295"
-     inkscape:cy="509.65954"
+     inkscape:cx="1822.2165"
+     inkscape:cy="449.54242"
      inkscape:window-width="2368"
      inkscape:window-height="1186"
      inkscape:window-x="278"
-     inkscape:window-y="179"
+     inkscape:window-y="151"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6"
      showgrid="true">
@@ -145,9 +153,9 @@
      transform="translate(40.150034,22.658088)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan42"><tspan
+       id="tspan3"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan1">list, repeat, reproduce, outline, order, arrange</tspan></tspan></text>
+         id="tspan2">list, repeat, reproduce, outline, order, arrange</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -157,7 +165,7 @@
        sodipodi:role="line"
        id="tspan10"
        x="479.36935"
-       y="696.09021"></tspan></text>
+       y="696.09021" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -229,7 +237,7 @@
      transform="translate(816.8077,-32.346583)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan46">Recall facts or</tspan></text>
+       id="tspan4">Recall facts or</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -239,7 +247,7 @@
      transform="translate(50.196704,-92.984728)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan47">indicate, explain, estimate, locate, summarise</tspan></text>
+       id="tspan5">indicate, explain, estimate, locate, summarise</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -249,7 +257,7 @@
      transform="translate(50.494617,-213.44538)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan48">choose, modify, interpret, prepare, produce</tspan></text>
+       id="tspan7">choose, modify, interpret, prepare, produce</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -259,11 +267,11 @@
      transform="translate(97.559544,-329.79892)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan49">calculate, solve, predict, model, test
+       id="tspan8">calculate, solve, predict, model, test
 </tspan><tspan
        x="195.19229"
        y="891.88351"
-       id="tspan52"> </tspan></text>
+       id="tspan9"> </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -273,11 +281,11 @@
      transform="translate(123.39381,-449.48839)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan59"> judge, suppot, critique, weigh
+       id="tspan16"> judge, suppot, critique, weigh
 </tspan><tspan
        x="195.19229"
        y="891.88351"
-       id="tspan60"> </tspan></text>
+       id="tspan17"> </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -287,11 +295,11 @@
      transform="translate(208.07282,-562.30739)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan61"> construct, invent
+       id="tspan18"> construct, invent
 </tspan><tspan
        x="195.19229"
        y="891.88351"
-       id="tspan62"> </tspan></text>
+       id="tspan19"> </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -301,11 +309,11 @@
      transform="translate(210.9433,-588.14167)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan63">author, assemble,
+       id="tspan20">author, assemble,
 </tspan><tspan
        x="195.19229"
        y="891.88351"
-       id="tspan71"> </tspan></text>
+       id="tspan21"> </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -315,7 +323,7 @@
      transform="translate(170.75666,-478.19315)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan72">appraise, defend, argue, </tspan></text>
+       id="tspan22">appraise, defend, argue, </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -325,7 +333,7 @@
      transform="translate(129.13476,-361.37415)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan75">examine, break down, relate,</tspan></text>
+       id="tspan23">examine, break down, relate,</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -335,7 +343,7 @@
      transform="translate(269.22327,-610.235)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan76">design</tspan></text>
+       id="tspan24">design</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -345,7 +353,7 @@
      transform="translate(71.725264,-243.68467)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan77">operate, manipulate, experiment, solve, </tspan></text>
+       id="tspan25">operate, manipulate, experiment, solve, </tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -355,7 +363,7 @@
      transform="translate(60.243364,-120.25424)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan78">distinquish, classify, select, review, discuss, </tspan></text>
+       id="tspan26">distinquish, classify, select, review, discuss, </tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:20px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -365,9 +373,9 @@
      transform="translate(40.150034,-3.1761877)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan80"><tspan
+       id="tspan28"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan79">memorise, recognise, describe, state, identify, </tspan></tspan></text>
+         id="tspan27">memorise, recognise, describe, state, identify, </tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -377,9 +385,9 @@
      transform="translate(709.91941,68.00696)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan82"><tspan
+       id="tspan30"><tspan
          style="font-size:21.3333px"
-         id="tspan81">Lower-order cognitive skills</tspan></tspan></text>
+         id="tspan29">Lower-order cognitive skills</tspan></tspan></text>
   <rect
      style="opacity:0.5;fill:#cceeb2;fill-opacity:0.862745;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect48"
@@ -396,9 +404,9 @@
      transform="translate(1442.7578,-737.77566)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan84"><tspan
+       id="tspan32"><tspan
          style="font-size:21.3333px"
-         id="tspan83">Higher-order emotive skills</tspan></tspan></text>
+         id="tspan31">Higher-order emotive skills</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -459,7 +467,7 @@
      transform="translate(472.33522,-628.32218)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan85">Produce new or original work</tspan></text>
+       id="tspan33">Produce new or original work</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -469,7 +477,7 @@
      transform="translate(820.16706,-2.955994)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan86">basic concepts</tspan></text>
+       id="tspan34">basic concepts</tspan></text>
   <rect
      style="opacity:0.5;fill:#92d7aa;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect47"
@@ -486,7 +494,7 @@
      transform="translate(553.9266,-488.01944)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan87">assess theories</tspan></text>
+       id="tspan35">assess theories</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -496,7 +504,7 @@
      transform="translate(612.50137,-386.78963)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan88">Draw connections among ideas,</tspan></text>
+       id="tspan36">Draw connections among ideas,</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -506,7 +514,7 @@
      transform="translate(612.50138,-359.09948)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan89">identify patterns</tspan></text>
+       id="tspan37">identify patterns</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -516,7 +524,7 @@
      transform="translate(549.9188,-516.75377)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan90">Make and defend judgements,</tspan></text>
+       id="tspan42">Make and defend judgements,</tspan></text>
   <rect
      style="opacity:0.5;fill:#73d3c8;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect49"
@@ -533,7 +541,7 @@
      transform="translate(686.95544,-232.95215)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan91">new situations</tspan></text>
+       id="tspan43">new situations</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -543,7 +551,7 @@
      transform="translate(685.6195,-261.69429)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan92">Apply knowledge in</tspan></text>
+       id="tspan44">Apply knowledge in</tspan></text>
   <rect
      style="opacity:0.5;fill:#38a0c7;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect50"
@@ -560,7 +568,7 @@
      transform="translate(744.40849,-158.21124)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan93">Demonstrate</tspan></text>
+       id="tspan45">Demonstrate</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans;-inkscape-font-specification:'sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -570,7 +578,7 @@
      transform="translate(744.49218,-106.62821)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan94">ideas or concepts</tspan></text>
+       id="tspan46">ideas or concepts</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:20px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -580,15 +588,15 @@
      transform="translate(745.07255,-132.16439)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan96"><tspan
+       id="tspan48"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan95">understanding, explain </tspan></tspan></text>
+         id="tspan47">understanding, explain </tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text51"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:20px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect51);display:inline;opacity:1;fill:#000000;fill-opacity:0;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect53"
      width="6.679709"
      height="177.67943"
@@ -596,7 +604,7 @@
      y="722.74133"
      ry="0.98165447" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect53-9"
      width="6.679709"
      height="187.03098"
@@ -604,7 +612,7 @@
      y="591.97656"
      ry="1.0333204" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect53-3"
      width="6.679709"
      height="216.42157"
@@ -612,7 +620,7 @@
      y="442.44543"
      ry="1.1956995" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect53-8"
      width="6.679709"
      height="300.58554"
@@ -665,15 +673,15 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.04px;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0;stroke-dasharray:none">ORGANISE</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.04px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
-     x="2210.5623"
-     y="319.91531"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
+     x="2213.2341"
+     y="379.36835"
      id="text57"><tspan
        sodipodi:role="line"
        id="tspan57"
-       x="2210.5623"
-       y="319.91531"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:39.04px;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0;stroke-dasharray:none">CHARACTERISE</tspan></text>
+       x="2213.2341"
+       y="379.36835"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;font-family:Sans;-inkscape-font-specification:'Sans Bold';stroke-width:0;stroke-dasharray:none">CHARACTERISE</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:42.6667px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -683,9 +691,9 @@
      transform="translate(1442.5592,68.00696)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan98"><tspan
+       id="tspan50"><tspan
          style="font-size:21.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan97">Lower-order emotive skills</tspan></tspan></text>
+         id="tspan49">Lower-order emotive skills</tspan></tspan></text>
   <rect
      style="opacity:0.5;fill:#4965ac;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect52-8"
@@ -702,16 +710,16 @@
      transform="translate(1458.0822,-22.948378)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan100"><tspan
+       id="tspan52"><tspan
          style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
-         id="tspan99">Pay attention,</tspan></tspan></text>
+         id="tspan51">Pay attention,</tspan></tspan></text>
   <rect
      style="opacity:0.5;fill:#cceeb2;fill-opacity:0.862745;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect48-2"
      width="519.67908"
      height="88.171768"
      x="1636.6798"
-     y="312.0072" />
+     y="258.0072" />
   <rect
      style="opacity:0.5;fill:#92d7aa;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect47-0"
@@ -728,21 +736,21 @@
      transform="translate(1455.4788,-382.71175)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan102"><tspan
+       id="tspan59"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan101">Put together different values, </tspan></tspan></text>
+         id="tspan58">Put together different values, </tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:20px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
      x="195.19229"
      y="866.88348"
      id="text23-0"
-     transform="translate(1469.0445,-508.00402)"><tspan
+     transform="translate(1469.0445,-558.00402)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan104"><tspan
+       id="tspan61"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan103">Build abstract knowledge</tspan></tspan></text>
+         id="tspan60">Build abstract knowledge</tspan></tspan></text>
   <rect
      style="opacity:0.5;fill:#73d3c8;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect49-2"
@@ -759,9 +767,9 @@
      transform="translate(1457.7923,-256.96796)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan106"><tspan
+       id="tspan63"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan105">Associate a value to the</tspan></tspan></text>
+         id="tspan62">Associate a value to the</tspan></tspan></text>
   <rect
      style="opacity:0.5;fill:#38a0c7;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect50-5"
@@ -778,9 +786,9 @@
      transform="translate(1456.9218,-359.72119)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan108"><tspan
+       id="tspan65"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan107">information, and ideas and</tspan></tspan></text>
+         id="tspan64">information, and ideas and</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:20px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -790,9 +798,9 @@
      transform="translate(1457.8001,-128.774)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan110"><tspan
+       id="tspan67"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan109">React in some way</tspan></tspan></text>
+         id="tspan66">React in some way</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:20px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -802,9 +810,9 @@
      transform="translate(1459.1282,-227.56956)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan112"><tspan
+       id="tspan69"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan111">acquired knowledge</tspan></tspan></text>
+         id="tspan68">acquired knowledge</tspan></tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:600;font-size:20px;font-family:'.Lucida Grande UI';-inkscape-font-specification:'.Lucida Grande UI Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1137.22;display:inline;fill:#1a1a1a;stroke-width:0;stroke-dasharray:none"
@@ -814,9 +822,9 @@
      transform="translate(1456.7463,2.4344038)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan114"><tspan
+       id="tspan71"><tspan
          style="font-weight:bold;font-family:Sans;-inkscape-font-specification:'Sans Bold'"
-         id="tspan113">attend to a stimulus</tspan></tspan></text>
+         id="tspan70">attend to a stimulus</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text67"
@@ -838,11 +846,11 @@
      transform="translate(703.43835,-733.76785)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan116"><tspan
+       id="tspan73"><tspan
          style="font-size:21.3333px"
-         id="tspan115">Higher-order cognitive skills</tspan></tspan></text>
+         id="tspan72">Higher-order cognitive skills</tspan></tspan></text>
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect70"
      width="6.679709"
      height="300.58554"
@@ -850,7 +858,7 @@
      y="177.42982"
      ry="1.6606938" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect71"
      width="6.679709"
      height="216.42157"
@@ -858,7 +866,7 @@
      y="443.78137"
      ry="1.1956995" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect72"
      width="6.679709"
      height="187.03098"
@@ -866,7 +874,7 @@
      y="591.97656"
      ry="1.0333204" />
   <rect
-     style="opacity:0.5;fill:#4d4d4d;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:0.5;fill:#1a1a1a;fill-opacity:1;stroke:#93a88e;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
      id="rect73"
      width="6.679709"
      height="177.67943"
@@ -882,7 +890,7 @@
      transform="translate(1456.9218,-335.01809)"><tspan
        x="195.19229"
        y="866.88348"
-       id="tspan118"><tspan
+       id="tspan75"><tspan
          style="font-family:Sans;-inkscape-font-specification:'Sans, Semi-Bold'"
-         id="tspan117">accommodate them internally</tspan></tspan></text>
+         id="tspan74">accommodate them internally</tspan></tspan></text>
 </svg>

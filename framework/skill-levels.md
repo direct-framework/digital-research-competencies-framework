@@ -60,7 +60,7 @@ Focus: **applying** established practices, adapting to challenges, and deepening
 
 ### Level 4 – Expert
 
-*Leading and/or being a recognised authority*
+*Leading and/or being a recognised authority or expert*
 
 - Technical: highly skilled and independent; 
 handles complex and unfamiliar challenges; 

@@ -75,6 +75,7 @@ curation](https://github.com/direct-framework/digital-research-competencies-fram
 
 We reviewed a number of related work into defining skills and competencies:
 
+- [Safe Data Access Professionals Competency Framework](https://securedatagroup.org/guides-and-resources/competency-framework/)
 - [CSCCE Skills Wheel](https://zenodo.org/record/4437294#.ZFO3F-zMIc1)
 - [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v8, the
   current standard](https://sfia-online.org/en/sfia-8/sfia-views/full-framework-view?path=/glance)

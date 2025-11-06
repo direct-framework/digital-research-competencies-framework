@@ -75,7 +75,8 @@ curation](https://github.com/direct-framework/digital-research-competencies-fram
 
 We reviewed a number of related work into defining skills and competencies:
 
-- [UK Government Science and Engineering (GSE) Career Framework](https://www.gov.uk/government/publications/government-science-and-engineering-career-framework) and [UK Government's Digital, Data and Technology (DDaT) Capability Framework](https://ddat-capability-framework.service.gov.uk/).
+- [UK Government Science and Engineering (GSE) Career Framework](https://www.gov.uk/government/publications/government-science-and-engineering-career-framework) and [UK Government's Digital, Data and Technology (DDaT) Capability Framework](https://ddat-capability-framework.service.gov.uk/)
+- [The Safe Data Access Professionals (SDAP) Competency Framework](https://securedatagroup.org/guides-and-resources/competency-framework/)
 - [CSCCE Skills Wheels](https://zenodo.org/record/4437294#.ZFO3F-zMIc1)
 - [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v8, the
   current standard](https://sfia-online.org/en/sfia-8/sfia-views/full-framework-view?path=/glance)

@@ -9,7 +9,11 @@ The project was later renamed and moved to a new repository:
 
 https://github.com/direct-framework/digital-research-competencies-framework
 
-The website architecture also changed, and the live site is now hosted at:
+The Github Pages for this repo is:
+
+https://direct-framework.github.io/digital-research-competencies-framework/
+
+However, the website architecture and design has also changed. The live site is now hosted at:
 
 https://directframework.com/
 

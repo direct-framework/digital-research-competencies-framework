@@ -22,7 +22,7 @@ We use the following 4-level skill scale, aligned with the [UK Government Scienc
 
 No skill or ability demonstrated, or the skill is not required or applicable to the role.
 
-### Level 1 - Awareness
+### Level 1 - Awareness (technical) or self-awareness (non-technical)
 
 *Fundamental awareness (basic knowledge) or fundamental ability*
 
@@ -32,7 +32,7 @@ can follow instructions and perform simple tasks with support, but the applicati
 
 Focus: **learning** and **remembering**.
 
-### Level 2 - Working
+### Level 2 - Working (technical) or self-regulating (non-technical)
 
 *Emerging ability and/or limited experience*
 
@@ -43,7 +43,7 @@ understands and can discuss terminology, concepts, principles, and issues relate
 
 Focus: developing **understanding** and gaining independence through practice.
 
-### Level 3 - Practitioner
+### Level 3 - Practitioner (technical) or applying towards others (non-technical)
 
 *Practical application by a competent (intermediate to advanced) practitioner*
 
@@ -58,7 +58,7 @@ communicates effectively with varied audiences to enhance understanding and fost
 
 Focus: **applying** established practices, adapting to challenges, and deepening expertise and skill.
 
-### Level 4 – Expert
+### Level 4 – Expert (technical) or leads systemic change (non-technical)
 
 *Leading and/or being a recognised authority or expert*
 

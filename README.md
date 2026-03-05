@@ -56,6 +56,13 @@ We reviewed a number of related work into defining skills and competencies:
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 - [SDE Skills Competency Framework](https://uom-data-science-platforms.github.io/sde-skills/competency_framework/overview/) - mapping the skills and knowledge needed by Research Technical Professionals (RTPs) working with Secure Data Environments
 
+## Code of Conduct
+
+See our [Code of Conduct](https://github.com/direct-framework/.github/blob/main/CODE_OF_CONDUCT.md).
+
+## Governance
+
+See our [governance model and process](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md), [current members of the governance board](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#current-governance-board-members) and [meeting schedule](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#meetings).
 
 ## Contact
 

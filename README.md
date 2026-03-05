@@ -6,7 +6,7 @@ The work is part of the [DIRECT project](https://github.com/direct-framework).
 
 This project  contains the definition a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as researchers, RSEs, data specialists, RSE group leads, PIs, etc. (collectively known as the dRTPs - Digital Research Technology Professionals), along with lists of tools/methods/behaviours to demonstrate skills and training materials and resources that can help us gain a particular skill.
 
-A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing a Django webapp to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
+A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing the **DIRECT Django webapp** to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
 ### Defining and classifying skills
 
@@ -56,9 +56,6 @@ We reviewed a number of related work into defining skills and competencies:
 - [UNIVERSE-HPC project skills and pathways](https://www.universe-hpc.ac.uk//assets/slides/ISC24PathwaysBoF-DesignYourPathwayExerciseSheet-A3.pdf)
 - [SDE Skills Competency Framework](https://uom-data-science-platforms.github.io/sde-skills/competency_framework/overview/) - mapping the skills and knowledge needed by Research Technical Professionals (RTPs) working with Secure Data Environments
 
-## DIRECT webapp
-
-The webapp part of the project is now in a [separate repository](https://github.com/direct-framework/direct-webapp).
 
 ## Contact
 

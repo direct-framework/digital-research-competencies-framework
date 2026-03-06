@@ -64,6 +64,10 @@ See our [Code of Conduct](https://github.com/direct-framework/.github/blob/main/
 
 See our [governance model and process](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md), [current members of the governance board](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#current-governance-board-members) and [meeting schedule](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#meetings).
 
+## Contributors
+
+See [current and past project contributors](https://github.com/direct-framework/.github/blob/main/CONTRIBUTORS.md).
+
 ## Contact
 
 If you'd like to get in touch with the project team - email us at [direct-framework@googlegroups.com](mailto:direct-framework@googlegroups.com).

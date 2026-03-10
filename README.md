@@ -62,7 +62,7 @@ See our [Code of Conduct](https://github.com/direct-framework/.github/blob/main/
 
 ## Governance
 
-See our [governance model and process](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md), [current members of the governance board](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#current-governance-board-members) and [meeting schedule](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#meetings).
+See our [governance model and process](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md), [current governance membership](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#current-governance-membership) and [meeting schedule](https://github.com/direct-framework/.github/blob/main/GOVERNANCE.md#meetings).
 
 ## Contributors
 

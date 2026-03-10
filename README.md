@@ -76,11 +76,8 @@ We also use [#direct-framework channel](https://ukrse.slack.com/archives/C05CY0Y
 
 ## License
 
-Unless otherwise specified on particular materials, all material in this repository is licensed as follows:
-
-- Code is licenced under the [3-clause BSD licence](https://opensource.org/license/bsd-3-clause/).
-- Documentation, data and other written material is licensed under the [Creative Commons Attribution
-  licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
+Documentation, data and other written material in this repository is licensed under the [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/) (CC-BY 4.0).
+See [LICENSE.md](./LICENSE.md) for details.
 
 ## Citation
 

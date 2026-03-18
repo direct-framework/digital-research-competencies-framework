@@ -38,8 +38,8 @@ We reviewed a number of related work into defining skills and competencies:
 - [UK Government Science and Engineering (GSE) Career Framework](https://www.gov.uk/government/publications/government-science-and-engineering-career-framework) and [UK Government's Digital, Data and Technology (DDaT) Capability Framework](https://ddat-capability-framework.service.gov.uk/)
 - [The Safe Data Access Professionals (SDAP) Competency Framework](https://securedatagroup.org/guides-and-resources/competency-framework/)
 - [CSCCE Skills Wheels](https://zenodo.org/record/4437294#.ZFO3F-zMIc1)
-- [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v8, the
-  current standard](https://sfia-online.org/en/sfia-8/sfia-views/full-framework-view?path=/glance)
+- [BCS SFIAplus IT Skills Framework](https://www.bcs.org/it-careers/sfiaplus-it-skills-framework/) and [SFIA v9, the
+  current standard](https://sfia-online.org/en/sfia-9)
 - [NIH Competencies Proficiency Scale](https://hr.nih.gov/working-nih/competencies/competencies-proficiency-scale)
 - [King's Digital Lab Research Software Careers Learnings](https://zenodo.org/record/2559235)
 - [Job Descriptions and Framework for the UCL Centre for Advanced Research Computing (ARC) Research Software Engineer](https://rdr.ucl.ac.uk/articles/model/Job_Descriptions_and_Framework_for_Centre_for_Advanced_Research_Computing_ARC_Research_Software_Engineer/25196066?file=44484410)

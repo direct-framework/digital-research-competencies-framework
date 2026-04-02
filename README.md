@@ -19,24 +19,25 @@ Data files are provided in JSON and CSV formats.
 
 **Skills** are classified in **competencies** which are in turn contained in bigger **competency domains**.
 
-A **competency domain** is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
+A [**competency domain**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/CompetencyDomain.csv) is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
 Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
 
-A **competency** is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
+A [**competency**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/Competency.csv) is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
 Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
 
-A **skill** is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
+A [**skill**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/Skill.csv) is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
 Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
 
 ### Skill levels
 
-A **skill level** describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
+A [**skill level**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/SkillLevel.csv) describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
 Skill levels are used during creation of personal profiles ("skill wheels") when a user their skills either through self-assessment or toherther with a line manager as part of professional development review.
 
 ### Professional development resources
 
 #### Tools, methodologies and languages
-**Tools, methodologies and languages** are demonstrators of skills.
+
+[Tools, methodologies and languages](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/Tool.csv) are demonstrators of skills.
 
 A **(computational) tool** is a software application, platform or system used to perform computational tasks or support research activities.
 Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.

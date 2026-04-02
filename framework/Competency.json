@@ -1,1 +1,142 @@
-[{"name": "Data engineering", "description": "Understanding and implementation of practices for data management, quality, accessibility, stewardship and compliance across data lifecycle.", "slug": "data-engineering", "competency_domain": "information-and-data-technologies", "rank": "10"}, {"name": "Data science and analytics", "description": "Application of analytical, statistical or machine learning techniques to extract insight and value from complex or large datasets (big data).", "slug": "data-science-and-analytics", "competency_domain": "information-and-data-technologies", "rank": "20"}, {"name": "Software engineering", "description": "Application of structured approaches, theory and supporting tools to plan, develop, test and maintain high-quality and secure software applications and systems.", "slug": "software-engineering", "competency_domain": "software-design-and-development", "rank": "20"}, {"name": "User Interface / User Experience (UI/UX) design", "description": "Creating intuitive, inclusive and engaging digital experiences through thoughtful design and user-centered practices.", "slug": "user-interface-user-experience-uiux-design", "competency_domain": "software-design-and-development", "rank": "50"}, {"name": "Web and mobile app development", "description": "Design and development of responsive, secure and user-centric applications across web and mobile platforms.", "slug": "web-and-mobile-app-development", "competency_domain": "software-design-and-development", "rank": "40"}, {"name": "Cloud infrastructure", "description": "Cloud platforms and computing for flexible, scalable and cost-effective computing, storage, and data services.", "slug": "cloud-infrastructure", "competency_domain": "computing-infrastructures-and-systems", "rank": "40"}, {"name": "General systems infrastructure", "description": "Broad understanding of digital infrastructure - including hardware, networks and system integration that supports everyday operations and research.", "slug": "general-systems-infrastructure", "competency_domain": "computing-infrastructures-and-systems", "rank": "10"}, {"name": "HPC infrastructure", "description": "Knowledge of high-performance computing systems and practices that support data- or compute-intensive computational research and large-scale simulations.", "slug": "hpc-infrastructure", "competency_domain": "computing-infrastructures-and-systems", "rank": "30"}, {"name": "Web infrastructure", "description": "Design, deployment, and maintenance of the technologies that support robust, scalable, and secure online platforms and services.", "slug": "web-infrastructure", "competency_domain": "computing-infrastructures-and-systems", "rank": "20"}, {"name": "Domain knowledge", "description": "Deep understanding of the concepts, challenges, and methodologies specific to a particular scientific field", "slug": "domain-knowledge", "competency_domain": "domain-expertise-and-research", "rank": "10"}, {"name": "Research skills", "description": "Conducting rigorous inquiry, including problem formulation, experimental design, critical analysis and dissemination of findings.", "slug": "research-skills", "competency_domain": "domain-expertise-and-research", "rank": "20"}, {"name": "Interpersonal skills", "description": "Ability to build rapport, demonstrate empathy, navigate social dynamics and communicate effectively in diverse professional settings", "slug": "interpersonal-skills", "competency_domain": "professional-and-people-skills", "rank": "20"}, {"name": "Personal skills", "description": "Self-management capabilities such as initiative, adaptability, resilience, time management and a commitment to continuous learning.", "slug": "personal-skills", "competency_domain": "professional-and-people-skills", "rank": "10"}, {"name": "Teamwork", "description": "Working constructively and inclusively with others to achieve shared goals, contribute to group problem-solving and foster a positive team culture.", "slug": "teamwork", "competency_domain": "professional-and-people-skills", "rank": "30"}, {"name": "Community and outreach", "description": "Engaging with wider communities through knowledge sharing, collaboration and public engagement to increase the visibility and impact of work.", "slug": "community-and-outreach", "competency_domain": "communication", "rank": "20"}, {"name": "Teaching and learning", "description": "Designing and delivering effective learning experiences that build skills, transfer knowledge and support capacity and capability development across audiences.", "slug": "teaching-and-learning", "competency_domain": "communication", "rank": "30"}, {"name": "Verbal and written communication", "description": "Articulating complex ideas clearly and effectively through a range of formats and for varied audiences.", "slug": "verbal-and-written-communication", "competency_domain": "communication", "rank": "10"}, {"name": "Leadership", "description": "Setting direction, inspiring others and making strategic decisions that align people and projects with broader institutional or organisational goals.", "slug": "leadership", "competency_domain": "leadership-and-management", "rank": "30"}, {"name": "People and team management", "description": "Guiding and supporting individuals and teams to achieve their potential, with attention to wellbeing, performance and professional growth.", "slug": "people-and-team-management", "competency_domain": "leadership-and-management", "rank": "10"}, {"name": "Programme and project management", "description": "Planning, coordinating and delivering projects effectively within defined scope, time and resource constraints, while managing risk and quality.", "slug": "programme-and-project-management", "competency_domain": "leadership-and-management", "rank": "20"}]
+[
+    {
+        "name": "Data engineering",
+        "description": "Understanding and implementation of practices for data management, quality, accessibility, stewardship and compliance across data lifecycle.",
+        "slug": "data-engineering",
+        "competency_domain": "information-and-data-technologies",
+        "rank": "10"
+    },
+    {
+        "name": "Data science and analytics",
+        "description": "Application of analytical, statistical or machine learning techniques to extract insight and value from complex or large datasets (big data).",
+        "slug": "data-science-and-analytics",
+        "competency_domain": "information-and-data-technologies",
+        "rank": "20"
+    },
+    {
+        "name": "Software engineering",
+        "description": "Application of structured approaches, theory and supporting tools to plan, develop, test and maintain high-quality and secure software applications and systems.",
+        "slug": "software-engineering",
+        "competency_domain": "software-design-and-development",
+        "rank": "20"
+    },
+    {
+        "name": "User Interface / User Experience (UI/UX) design",
+        "description": "Creating intuitive, inclusive and engaging digital experiences through thoughtful design and user-centered practices.",
+        "slug": "user-interface-user-experience-uiux-design",
+        "competency_domain": "software-design-and-development",
+        "rank": "50"
+    },
+    {
+        "name": "Web and mobile app development",
+        "description": "Design and development of responsive, secure and user-centric applications across web and mobile platforms.",
+        "slug": "web-and-mobile-app-development",
+        "competency_domain": "software-design-and-development",
+        "rank": "40"
+    },
+    {
+        "name": "Cloud infrastructure",
+        "description": "Cloud platforms and computing for flexible, scalable and cost-effective computing, storage, and data services.",
+        "slug": "cloud-infrastructure",
+        "competency_domain": "computing-infrastructures-and-systems",
+        "rank": "40"
+    },
+    {
+        "name": "General systems infrastructure",
+        "description": "Broad understanding of digital infrastructure - including hardware, networks and system integration that supports everyday operations and research.",
+        "slug": "general-systems-infrastructure",
+        "competency_domain": "computing-infrastructures-and-systems",
+        "rank": "10"
+    },
+    {
+        "name": "HPC infrastructure",
+        "description": "Knowledge of high-performance computing systems and practices that support data- or compute-intensive computational research and large-scale simulations.",
+        "slug": "hpc-infrastructure",
+        "competency_domain": "computing-infrastructures-and-systems",
+        "rank": "30"
+    },
+    {
+        "name": "Web infrastructure",
+        "description": "Design, deployment, and maintenance of the technologies that support robust, scalable, and secure online platforms and services.",
+        "slug": "web-infrastructure",
+        "competency_domain": "computing-infrastructures-and-systems",
+        "rank": "20"
+    },
+    {
+        "name": "Domain knowledge",
+        "description": "Deep understanding of the concepts, challenges, and methodologies specific to a particular scientific field",
+        "slug": "domain-knowledge",
+        "competency_domain": "domain-expertise-and-research",
+        "rank": "10"
+    },
+    {
+        "name": "Research skills",
+        "description": "Conducting rigorous inquiry, including problem formulation, experimental design, critical analysis and dissemination of findings.",
+        "slug": "research-skills",
+        "competency_domain": "domain-expertise-and-research",
+        "rank": "20"
+    },
+    {
+        "name": "Interpersonal skills",
+        "description": "Ability to build rapport, demonstrate empathy, navigate social dynamics and communicate effectively in diverse professional settings",
+        "slug": "interpersonal-skills",
+        "competency_domain": "professional-and-people-skills",
+        "rank": "20"
+    },
+    {
+        "name": "Personal skills",
+        "description": "Self-management capabilities such as initiative, adaptability, resilience, time management and a commitment to continuous learning.",
+        "slug": "personal-skills",
+        "competency_domain": "professional-and-people-skills",
+        "rank": "10"
+    },
+    {
+        "name": "Teamwork",
+        "description": "Working constructively and inclusively with others to achieve shared goals, contribute to group problem-solving and foster a positive team culture.",
+        "slug": "teamwork",
+        "competency_domain": "professional-and-people-skills",
+        "rank": "30"
+    },
+    {
+        "name": "Community and outreach",
+        "description": "Engaging with wider communities through knowledge sharing, collaboration and public engagement to increase the visibility and impact of work.",
+        "slug": "community-and-outreach",
+        "competency_domain": "communication",
+        "rank": "20"
+    },
+    {
+        "name": "Teaching and learning",
+        "description": "Designing and delivering effective learning experiences that build skills, transfer knowledge and support capacity and capability development across audiences.",
+        "slug": "teaching-and-learning",
+        "competency_domain": "communication",
+        "rank": "30"
+    },
+    {
+        "name": "Verbal and written communication",
+        "description": "Articulating complex ideas clearly and effectively through a range of formats and for varied audiences.",
+        "slug": "verbal-and-written-communication",
+        "competency_domain": "communication",
+        "rank": "10"
+    },
+    {
+        "name": "Leadership",
+        "description": "Setting direction, inspiring others and making strategic decisions that align people and projects with broader institutional or organisational goals.",
+        "slug": "leadership",
+        "competency_domain": "leadership-and-management",
+        "rank": "30"
+    },
+    {
+        "name": "People and team management",
+        "description": "Guiding and supporting individuals and teams to achieve their potential, with attention to wellbeing, performance and professional growth.",
+        "slug": "people-and-team-management",
+        "competency_domain": "leadership-and-management",
+        "rank": "10"
+    },
+    {
+        "name": "Programme and project management",
+        "description": "Planning, coordinating and delivering projects effectively within defined scope, time and resource constraints, while managing risk and quality.",
+        "slug": "programme-and-project-management",
+        "competency_domain": "leadership-and-management",
+        "rank": "20"
+    }
+]

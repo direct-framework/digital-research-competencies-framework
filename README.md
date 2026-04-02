@@ -13,7 +13,7 @@ Data files are provided in JSON and CSV formats.
 
 ### Terminology definitions
 
-We provide [definitions of terms](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/terminology.md) we use in the framework to provide a shared language for use across various user communities.
+[Definitions of terms](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/terminology.md) we use in the framework provide a shared language for use across various user communities.
 
 ### Skills and competencies
 
@@ -51,6 +51,8 @@ Methodologies provide conceptual technical or non-technical frameworks for apply
 A **learning resource** is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ## Data model
+
+A simlified framework data model is shown below.
 
 ```mermaid
 erDiagram

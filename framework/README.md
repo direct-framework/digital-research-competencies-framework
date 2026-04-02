@@ -12,7 +12,7 @@ Files contained in this folder represent the DIRECT framework dataset.
 
 ## Data model
 
-A simlified framework data model is shown below.
+The framework data model is shown below.
 
 ```mermaid
 erDiagram

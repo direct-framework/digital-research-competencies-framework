@@ -37,7 +37,7 @@ Skill levels are used during creation of personal profiles ("skill wheels") when
 
 #### Tools, methodologies and languages
 
-[Tools, methodologies and languages](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/Tool.csv) are demonstrators of skills.
+[Tools, methodologies and languages](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/ToolMethodologyLanguage.csv) are demonstrators of skills.
 
 A **(computational) tool** is a software application, platform or system used to perform computational tasks or support research activities.
 Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.

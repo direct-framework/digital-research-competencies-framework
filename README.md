@@ -8,28 +8,109 @@ A [sister repository](https://github.com/direct-framework/direct-webapp) contain
 
 ## DIRECT competency framework
 
-### Defining and classifying skills
+Framework definition is located in the [framework folder](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework) of this repository.
+Data files are provided in JSON and CSV formats.
 
-Skills and competencies are described in the [framework file](./framework/skills-competencies-framework.json) and we have a [GitHub issue to track
-suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
+## Data model
 
-If you think skills are missing, needs clarification, or could be reorganised within the framework, please add your
-feedback to the [GitHub issue to track suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/39).
+```mermaid
+erDiagram
+    direction LR
+    competency ||--|{competency_domain : belongs
+    skill ||--|{ competency : belongs
+    skill }o--o{ tool_methodology_language : "demonstrated by"
+    skill }o--o{ learning_resource: "learning and development"
+    tool_methodology_language }o--o{ learning_resource : "learning and development"
+    learning_resource ||--|{ provider : "provided by"
 
-### Defining the skill levels
+    competency_domain {
+            string slug PK
+	    string name
+	    string description
+    }
 
-We have a [document defining skill
-levels](https://github.com/direct-framework/digital-research-competencies-framework/blob/main/framework/skill-levels.md) and a [GitHub issue to track
-suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/62).
+    competency {
+	    string slug PK
+	    string name
+	    string description
+	    string competency_domain_slug FK
+    }
 
-The skill levels describe a scale to help measure/describe ability to demonstrate a particular skill (i.e. an individual’s competency level for a particular skill).
+    skill {
+	    string slug PK
+	    string name
+	    string description
+	    string competency_slug FK
+            string[] related_skills
+            string[] tools_methodologies_languages
+            string[] learning_resources
+    }
 
-### Curating professional development resources
+    tool_methodology_language {
+        string slug PK
+        string name
+        string description
+        string url
+        enum kind
+        string[] learning_resources
+    }
 
-We have a file with [resources for professional development](./framework/resources.csv) mapped to skills in the framework.
+    learning_resource {
+        string slug PK
+        string name
+        string provider_slug FK
+        string lang
+        string url
+        string description
+        string doi
+    }
 
-If you would like to suggest resources to add to the collection, please add them to the [GitHub issue on
-curation](https://github.com/direct-framework/digital-research-competencies-framework/issues/44).
+    provider {
+        string slug PK
+        string name
+        string url
+        string description
+        string ror
+    }
+
+    skill_level {
+	    string name
+	    string short_description
+	    string description
+            enum level
+    }
+```
+
+### Skills and competencies
+
+Skills are classified in competencies which are in turn contained in bigger competency domains.
+
+A competency domain is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
+Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
+
+A competency is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
+Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
+
+A skill is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
+Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
+
+### Skill levels
+
+A skill level describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
+
+### Professional development resources
+
+Tools, methodologies and languages are demonstrators of skills.
+
+A (computational) tool is a software application, platform or system used to perform computational tasks or support research activities.
+Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.
+
+A programming or data description/exchange language is a formal language used to write instructions for computers to implement algorithms and develop software that supports research activities or to structure, describe and exchange data in a machine-readable form.
+
+A methodology is a structured approach, process or practice used within a skill to organise work, solve problems or guide development and collaboration.
+Methodologies provide conceptual technical or non-technical frameworks for applying skills but are not skills themselves.
+
+A learning resource is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ### Related skills & competencies frameworks
 

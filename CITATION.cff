@@ -15,6 +15,36 @@ authors:
     email: a.nenadic@software.ac.uk
     affiliation: University of Manchester
     orcid: 'https://orcid.org/0000-0002-2269-3894'
+  - given-names: Phil
+    family-names: Reed
+    email: phil.reed@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-4479-715X'
+  - given-names: Dave
+    family-names: Horsfall
+    email: dave.horsfall@newcastle.ac.uk
+    affiliation: Newcastle University
+    orcid: 'https://orcid.org/0000-0002-8086-812X'    
+  - given-names: Aman
+    family-names: Goel
+    email: aman.goel@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0003-0520-8890'    
+  - given-names: Eli
+    family-names: Chadwick
+    email: eli.chadwick@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-0035-6475'    
+  - given-names: Emma
+    family-names: Hogan
+    email: emma.hogan@metoffice.gov.uk
+    affiliation: Met Office
+    orcid: 'https://orcid.org/0009-0007-5610-4158'    
+  - given-names: "Adrian"
+    family-names: "D'Alessandro"
+    email: a.dalessandro@imperial.ac.uk
+    affiliation: Imperial College London
+    orcid: "https://orcid.org/0009-0002-9503-5777"
 repository-code: >-
   https://github.com/direct-framework/digital-research-competencies-framework
 url: >-

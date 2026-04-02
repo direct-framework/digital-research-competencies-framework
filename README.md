@@ -11,6 +11,37 @@ A [sister repository](https://github.com/direct-framework/direct-webapp) contain
 Framework definition is located in the [framework folder](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework) of this repository.
 Data files are provided in JSON and CSV formats.
 
+### Skills and competencies
+
+Skills are classified in competencies which are in turn contained in bigger competency domains.
+
+A competency domain is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
+Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
+
+A competency is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
+Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
+
+A skill is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
+Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
+
+### Skill levels
+
+A skill level describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
+
+### Professional development resources
+
+Tools, methodologies and languages are demonstrators of skills.
+
+A (computational) tool is a software application, platform or system used to perform computational tasks or support research activities.
+Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.
+
+A programming or data description/exchange language is a formal language used to write instructions for computers to implement algorithms and develop software that supports research activities or to structure, describe and exchange data in a machine-readable form.
+
+A methodology is a structured approach, process or practice used within a skill to organise work, solve problems or guide development and collaboration.
+Methodologies provide conceptual technical or non-technical frameworks for applying skills but are not skills themselves.
+
+A learning resource is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
+
 ## Data model
 
 ```mermaid
@@ -80,37 +111,6 @@ erDiagram
             enum level
     }
 ```
-
-### Skills and competencies
-
-Skills are classified in competencies which are in turn contained in bigger competency domains.
-
-A competency domain is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
-Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
-
-A competency is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
-Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
-
-A skill is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
-Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
-
-### Skill levels
-
-A skill level describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
-
-### Professional development resources
-
-Tools, methodologies and languages are demonstrators of skills.
-
-A (computational) tool is a software application, platform or system used to perform computational tasks or support research activities.
-Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.
-
-A programming or data description/exchange language is a formal language used to write instructions for computers to implement algorithms and develop software that supports research activities or to structure, describe and exchange data in a machine-readable form.
-
-A methodology is a structured approach, process or practice used within a skill to organise work, solve problems or guide development and collaboration.
-Methodologies provide conceptual technical or non-technical frameworks for applying skills but are not skills themselves.
-
-A learning resource is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ### Related skills & competencies frameworks
 

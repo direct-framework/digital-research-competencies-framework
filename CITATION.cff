@@ -34,10 +34,12 @@ abstract: >-
   language for recognising expertise, planning training, and
   mapping career pathways.
 keywords:
-  - drtp
   - skills
-  - competencies
   - digital skills
-  - digital technology professionals
+  - professional skills
+  - technical skills
+  - competencies
+  - digital research technology professionals
+  - drtp
 license: CC-BY-4.0
 version: 2.0.0

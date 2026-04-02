@@ -11,6 +11,10 @@ A [sister repository](https://github.com/direct-framework/direct-webapp) contain
 Framework definition is located in the [framework folder](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework) of this repository.
 Data files are provided in JSON and CSV formats.
 
+### Terminology definitions
+
+We provide definitions of terms we use in the framework to provide a shared language for use across various user communities.
+
 ### Skills and competencies
 
 Skills are classified in competencies which are in turn contained in bigger competency domains.

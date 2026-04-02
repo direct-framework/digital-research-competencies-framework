@@ -1,6 +1,6 @@
 # DIgital REsearch CompeTencies (DIRECT) Framework
 
-The work is part of the [DIRECT project](https://github.com/direct-framework). This reposiroty contains the definition a competencies framework for digital Research Technology Professionals (dRPTs).
+This work is part of the [DIRECT project](https://github.com/direct-framework). This reposiroty contains the definition a competencies framework for digital Research Technology Professionals (dRPTs).
 
 The DIgital REsearch CompeTencies (DIRECT) framework helps classify and describe the wide range of technical and non-technical skills used across various digital research roles. These include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. It brings together skills (abilities to perform tasks or behaviours we possess) together with technology tools, methodologies and languages that demonstrate knowledge and proficiency, alongside learning resources to support skill sevelopment. The framework provides a shared language for recognising expertise, planning training, and mapping career pathways.
 

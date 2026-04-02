@@ -17,35 +17,38 @@ We provide [definitions of terms](https://github.com/direct-framework/digital-re
 
 ### Skills and competencies
 
-Skills are classified in competencies which are in turn contained in bigger competency domains.
+**Skills** are classified in **competencies** which are in turn contained in bigger **competency domains**.
 
-A competency domain is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
+A **competency domain** is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
 Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
 
-A competency is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
+A **competency** is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
 Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
 
-A skill is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
+A **skill** is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
 Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
 
 ### Skill levels
 
-A skill level describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
+A **skill level** describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
 Skill levels are used during creation of personal profiles ("skill wheels") when a user their skills either through self-assessment or toherther with a line manager as part of professional development review.
 
 ### Professional development resources
 
-Tools, methodologies and languages are demonstrators of skills.
+#### Tools, methodologies and languages
+**Tools, methodologies and languages** are demonstrators of skills.
 
-A (computational) tool is a software application, platform or system used to perform computational tasks or support research activities.
+A **(computational) tool** is a software application, platform or system used to perform computational tasks or support research activities.
 Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.
 
-A programming or data description/exchange language is a formal language used to write instructions for computers to implement algorithms and develop software that supports research activities or to structure, describe and exchange data in a machine-readable form.
+A **programming or data description/exchange language** is a formal language used to write instructions for computers to implement algorithms and develop software that supports research activities or to structure, describe and exchange data in a machine-readable form.
 
-A methodology is a structured approach, process or practice used within a skill to organise work, solve problems or guide development and collaboration.
+A **methodology** is a structured approach, process or practice used within a skill to organise work, solve problems or guide development and collaboration.
 Methodologies provide conceptual technical or non-technical frameworks for applying skills but are not skills themselves.
 
-A learning resource is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
+#### Learning resources
+
+A **learning resource** is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ## Data model
 

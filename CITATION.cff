@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DIRECT competencies framework for digital Research
+  Technical Professionals
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Aleksandra
+    family-names: Nenadic
+    email: a.nenadic@software.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-2269-3894'
+repository-code: >-
+  https://github.com/direct-framework/digital-research-competencies-framework
+url: >-
+  https://github.com/direct-framework/digital-research-competencies-framework
+abstract: >-
+  The DIgital REsearch CompeTencies (DIRECT) framework helps
+  classify and describe the wide range of technical and
+  non-technical skills used across various digital research
+  roles. These include researchers, research software
+  engineers (RSEs), data specialists, group leads, principal
+  investigators (PIs), archivists, bioinformaticians, and
+  many more. It brings together skills (abilities to perform
+  tasks or behaviours we possess) together with technology
+  tools, methodologies and languages that demonstrate
+  knowledge and proficiency, alongside learning resources to
+  support skill development. The framework provides a shared
+  language for recognising expertise, planning training, and
+  mapping career pathways.
+keywords:
+  - drtp
+  - skills
+  - competencies
+  - digital skills
+  - digital technology professionals
+license: CC-BY-4.0
+version: 2.0.0

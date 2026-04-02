@@ -13,7 +13,7 @@ Data files are provided in JSON and CSV formats.
 
 ### Terminology definitions
 
-We provide definitions of terms we use in the framework to provide a shared language for use across various user communities.
+We provide [definitions of terms](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/terminology.md) we use in the framework to provide a shared language for use across various user communities.
 
 ### Skills and competencies
 

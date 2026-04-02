@@ -49,7 +49,7 @@ Methodologies provide conceptual technical or non-technical frameworks for apply
 
 #### Learning resources
 
-A **learning resource** is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
+A [**learning resource**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/LearningResource.csv) is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ## Data model
 

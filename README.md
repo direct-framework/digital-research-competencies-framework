@@ -27,6 +27,7 @@ Skills are observable, trainable and assessable. Multiple skills may contribute 
 ### Skill levels
 
 A skill level describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
+Skill levels are used during creation of personal profiles ("skill wheels") when a user their skills either through self-assessment or toherther with a line manager as part of professional development review.
 
 ### Professional development resources
 

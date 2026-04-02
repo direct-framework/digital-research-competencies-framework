@@ -1,12 +1,12 @@
 # DIgital REsearch CompeTencies (DIRECT) Framework
 
-The work is part of the [DIRECT project](https://github.com/direct-framework).
+The work is part of the [DIRECT project](https://github.com/direct-framework). This reposiroty contains the definition a competencies framework for digital Research Technology Professionals (dRPTs).
+
+The DIgital REsearch CompeTencies (DIRECT) framework helps classify and describe the wide range of technical and non-technical skills used across various digital research roles. These include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. It brings together skills (abilities to perform tasks or behaviours we possess) together with technology tools, methodologies and languages that demonstrate knowledge and proficiency, alongside learning resources to support skill sevelopment. The framework provides a shared language for recognising expertise, planning training, and mapping career pathways.
+
+A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing the **DIRECT Django webapp** to enable practical use of the DIRECT framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
 ## DIRECT competency framework
-
-This project  contains the definition a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as researchers, RSEs, data specialists, RSE group leads, PIs, etc. (collectively known as the dRTPs - Digital Research Technology Professionals), along with lists of tools/methods/behaviours to demonstrate skills and training materials and resources that can help us gain a particular skill.
-
-A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing the **DIRECT Django webapp** to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
 ### Defining and classifying skills
 

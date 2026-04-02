@@ -53,7 +53,7 @@ A [**learning resource**](https://github.com/direct-framework/digital-research-c
 
 ## Data model
 
-A simlified framework data model is shown below.
+A simplified framework data model is shown below.
 
 ```mermaid
 erDiagram

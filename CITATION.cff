@@ -49,6 +49,11 @@ authors:
     family-names: "de Boer"
     affiliation: "ZonMw"
     orcid: "https://orcid.org/0000-0003-3381-2040"
+  - given-names: "Jonathan"
+    family-names: "Cooper"
+    email: "j.p.cooper@ucl.ac.uk"
+    affiliation: "University College London"
+    orcid: "https://orcid.org/0000-0001-6009-3542"
 repository-code: >-
   https://github.com/direct-framework/digital-research-competencies-framework
 url: >-

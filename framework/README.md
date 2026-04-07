@@ -52,7 +52,7 @@ erDiagram
         string name
         string description
         string url
-        enum kind
+        enum kind "tool, methodology, language"
         string[] learning_resources
     }
 
@@ -80,19 +80,5 @@ erDiagram
 	    string description
             enum level "0, 1, 2, 3, 4"
 		string focus
-    }
-
-    skill_level_values {
-        string ZERO
-		string ONE
-        string TWO
-        string THREE
-        string FOUR
-    }
-
-    tool_methodology_language_kind_values {
-        string tool
-		string methodology
-        string language
     }
 ```

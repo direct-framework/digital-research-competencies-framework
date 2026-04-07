@@ -79,5 +79,6 @@ erDiagram
 	    string short_description
 	    string description
             enum level
+		string focus
     }
 ```

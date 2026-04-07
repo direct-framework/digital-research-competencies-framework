@@ -83,7 +83,7 @@ erDiagram
     }
 
     skill_level_values {
-        string 0
+        string ZERO
 		string 1
         string 2
         string 3

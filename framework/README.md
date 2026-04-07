@@ -84,7 +84,7 @@ erDiagram
 
     skill_level_values {
         string ZERO
-		string 1
+		string '1'
         string 2
         string 3
         string 4

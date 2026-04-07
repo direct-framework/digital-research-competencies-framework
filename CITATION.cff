@@ -45,6 +45,10 @@ authors:
     email: a.dalessandro@imperial.ac.uk
     affiliation: Imperial College London
     orcid: "https://orcid.org/0009-0002-9503-5777"
+  - given-names: "Lieke"
+    family-names: "de Boer"
+    affiliation: "ZonMw"
+    orcid: "https://orcid.org/0000-0003-3381-2040"
 repository-code: >-
   https://github.com/direct-framework/digital-research-competencies-framework
 url: >-

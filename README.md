@@ -53,75 +53,7 @@ A [**learning resource**](https://github.com/direct-framework/digital-research-c
 
 ## Data model
 
-The framework data model is shown below.
-
-```mermaid
-erDiagram
-    direction LR
-    competency ||--|{competency_domain : belongs
-    skill ||--|{ competency : belongs
-    skill }o--o{ tool_methodology_language : "demonstrated by"
-    skill }o--o{ learning_resource: "learning and development"
-    tool_methodology_language }o--o{ learning_resource : "learning and development"
-    learning_resource ||--|{ provider : "provided by"
-
-    competency_domain {
-            string slug PK
-	    string name
-	    string description
-    }
-
-    competency {
-	    string slug PK
-	    string name
-	    string description
-	    string competency_domain_slug FK
-    }
-
-    skill {
-	    string slug PK
-	    string name
-	    string description
-	    string competency_slug FK
-            string[] related_skills
-            string[] tools_methodologies_languages
-            string[] learning_resources
-    }
-
-    tool_methodology_language {
-        string slug PK
-        string name
-        string description
-        string url
-        enum kind
-        string[] learning_resources
-    }
-
-    learning_resource {
-        string slug PK
-        string name
-        string provider_slug FK
-        string lang
-        string url
-        string description
-        string doi
-    }
-
-    provider {
-        string slug PK
-        string name
-        string url
-        string description
-        string ror
-    }
-
-    skill_level {
-	    string name
-	    string short_description
-	    string description
-            enum level
-    }
-```
+See the [framework data model](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework#data-model).
 
 ### Related skills & competencies frameworks
 

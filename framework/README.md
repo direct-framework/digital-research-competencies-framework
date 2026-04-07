@@ -83,16 +83,16 @@ erDiagram
     }
 
     skill_level_values {
-        string "0"
-		string "1"
-        string "2"
-        string "3"
-        string "4"
+        string 0
+		string 1
+        string 2
+        string 3
+        string 4
     }
 
     tool_methodology_language_kind_values {
-        string "tool"
-		string "methodology"
-        string "language"
+        string tool
+		string methodology
+        string language
     }
 ```

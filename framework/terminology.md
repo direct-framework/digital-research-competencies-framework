@@ -67,17 +67,3 @@ Over time, organisations may align job titles with roles and job families with a
 
 Example:
 Research Software Engineer (RSE).
-
-## Specialty
-A specialty is a defined area of focus within a role, characterised by a distinct combination of skills, knowledge, and practices applied to a particular technical domain or functional responsibility.
-
-Specialities provide a way to capture variation on roles without introducing new roles or job titles. Specialities do not imply seniority or progression level and may evolve over time.
-
-Example:
-Specialties for an RSE role may include Infrastructure RSE, HPC RSE, Data Engineer, etc.
-
-## Career Pathway
-A career pathway is a grouping of related roles that share common competencies, skill profiles and progression/development framework.
-
-For example, a career pathway for the role of RSE may include pre-foundational RSE, foundational RSE, senior RSE, principal RSE, manager RSE, and team lead RSE.
-

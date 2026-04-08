@@ -1,0 +1,1658 @@
+[
+    {
+        "name": "What is Open Source Software (OSS)?",
+        "slug": "what-is-open-source-software-oss",
+        "language": "en",
+        "url": "https://github.com/resources/articles/what-is-open-source-software",
+        "provider": "github",
+        "description": ""
+    },
+    {
+        "name": "What is Authorization and Access Control?",
+        "slug": "what-is-authorization-and-access-control",
+        "language": "en",
+        "url": "https://www.icann.org/en/blogs/details/what-is-authorization-and-access-control-2-12-2015-en",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "What are Metadata Standards - DCC",
+        "slug": "what-are-metadata-standards-dcc",
+        "language": "en",
+        "url": "https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards",
+        "provider": "dcc",
+        "description": ""
+    },
+    {
+        "name": "WebAIM Accesibility Resources",
+        "slug": "webaim-accesibility-resources",
+        "language": "en",
+        "url": "https://webaim.org/articles/",
+        "provider": "webaim",
+        "description": ""
+    },
+    {
+        "name": "Version Control with Git",
+        "slug": "version-control-with-git",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/git-novice",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Version Control for Data - The Turing Way",
+        "slug": "version-control-for-data-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/vcs/vcs-data/",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Version Control - The Turing Way",
+        "slug": "version-control-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/vcs/",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Using Databases and SQL",
+        "slug": "using-databases-and-sql",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/sql-novice-survey",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "University of Manchester internal Agile/Scrum course (work in progress)",
+        "slug": "university-of-manchester-internal-agilescrum-course-work-in-progress",
+        "language": "en",
+        "url": "https://research-it.manchester.ac.uk/news/2024/02/16/agile-methods-for-rses/",
+        "provider": "the-university-of-manchester",
+        "description": ""
+    },
+    {
+        "name": "Understanding neurodiversity",
+        "slug": "understanding-neurodiversity",
+        "language": "en",
+        "url": "https://www.acas.org.uk/neurodiversity-at-work",
+        "provider": "acas",
+        "description": ""
+    },
+    {
+        "name": "UKRI's guide to appling for funding",
+        "slug": "ukris-guide-to-appling-for-funding",
+        "language": "en",
+        "url": "https://www.ukri.org/apply-for-funding/",
+        "provider": "uk-research-and-innovation-ukri",
+        "description": ""
+    },
+    {
+        "name": "UK research funding model",
+        "slug": "uk-research-funding-model",
+        "language": "en",
+        "url": "https://www.universitiesuk.ac.uk/what-we-do/policy-and-research/publications/features/research-and-innovation-facts-and/funding",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Tuesday Tools & Techniques for High Performance Computing",
+        "slug": "tuesday-tools-techniques-for-high-performance-computing",
+        "language": "en",
+        "url": "https://scicomp.aalto.fi/training/scip/ttt4hpc-2024/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "TLDRLegal",
+        "slug": "tldrlegal",
+        "language": "en",
+        "url": "https://www.tldrlegal.com/",
+        "provider": "tldrlegal",
+        "description": ""
+    },
+    {
+        "name": "Tidy Data for Librarians",
+        "slug": "tidy-data-for-librarians",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-spreadsheets/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "The Unix Shell - Software Carpentry",
+        "slug": "the-unix-shell-software-carpentry",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/shell-novice/",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "The Unix Shell - Library Carpentry",
+        "slug": "the-unix-shell-library-carpentry",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-shell/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "The Turing Way handbook",
+        "slug": "the-turing-way-handbook",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/community-handbook/community-handbook/",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "The FAIR Principles - The Turing Way",
+        "slug": "the-fair-principles-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair/",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "The Culture Map by Erin Meyer",
+        "slug": "the-culture-map-by-erin-meyer",
+        "language": "en",
+        "url": "https://erinmeyer.com/books/the-culture-map/",
+        "provider": "erin-meyer",
+        "description": ""
+    },
+    {
+        "name": "The benefits of mindfulness and five common myths surrounding it",
+        "slug": "the-benefits-of-mindfulness-and-five-common-myths-surrounding-it",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/health-sports-psychology/mental-health/the-benefits-mindfulness-and-five-common-myths-surrounding-it",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "The Art of Multiprocessor Programming",
+        "slug": "the-art-of-multiprocessor-programming",
+        "language": "en",
+        "url": "https://www.cs.sfu.ca/~ashriram/Courses/CS431/assets/distrib/AMP.pdf",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Thanks for the Feedback",
+        "slug": "thanks-for-the-feedback",
+        "language": "en",
+        "url": "https://www.stoneandheen.com/thanks-feedback",
+        "provider": "stone-and-heen",
+        "description": ""
+    },
+    {
+        "name": "Teaching tech together",
+        "slug": "teaching-tech-together",
+        "language": "en|es",
+        "url": "https://teachtogether.tech/",
+        "provider": "greg-wilson",
+        "description": ""
+    },
+    {
+        "name": "Task Management for Humans as Self Care: Summary and Setup",
+        "slug": "task-management-for-humans-as-self-care-summary-and-setup",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/task-management/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Task management (Wikipedia)",
+        "slug": "task-management-wikipedia",
+        "language": "en",
+        "url": "https://en.wikipedia.org/wiki/Task_management",
+        "provider": "wikipedia",
+        "description": ""
+    },
+    {
+        "name": "SSI Fellowship",
+        "slug": "ssi-fellowship",
+        "language": "en",
+        "url": "https://www.software.ac.uk/programmes/fellowship-programme",
+        "provider": "software-sustainability-institute",
+        "description": ""
+    },
+    {
+        "name": "SQL",
+        "slug": "sql",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-sql/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Social Media for Research Communications \u2014 The Turing Way",
+        "slug": "social-media-for-research-communications-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/communication/social-media",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Social coding and open software",
+        "slug": "social-coding-and-open-software",
+        "language": "en",
+        "url": "https://coderefinery.github.io/social-coding/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Shared documents and constructive collaboration",
+        "slug": "shared-documents-and-constructive-collaboration",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/education-development/shared-documents-and-constructive-collaboration",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "Scientific Python Development Guide",
+        "slug": "scientific-python-development-guide",
+        "language": "en",
+        "url": "https://learn.scientific-python.org/development/",
+        "provider": "scientific-python-library-development-guide",
+        "description": ""
+    },
+    {
+        "name": "RSQKit",
+        "slug": "rsqkit",
+        "language": "en",
+        "url": "https://everse.software/RSQKit/",
+        "provider": "everse",
+        "description": ""
+    },
+    {
+        "name": "rOpenSci packages",
+        "slug": "ropensci-packages",
+        "language": "en",
+        "url": "https://devguide.ropensci.org/",
+        "provider": "ropensci",
+        "description": ""
+    },
+    {
+        "name": "Research Software Engineering Sheffield - Deep Learning",
+        "slug": "research-software-engineering-sheffield-deep-learning",
+        "language": "en",
+        "url": "https://rse.shef.ac.uk/training/deeplearning/",
+        "provider": "university-of-sheffield",
+        "description": ""
+    },
+    {
+        "name": "Research Software Alliance (ReSA)",
+        "slug": "research-software-alliance-resa",
+        "language": "en",
+        "url": "https://www.researchsoft.org/resource/resa-resources/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Reproducible research software development using Python (using ML example)",
+        "slug": "reproducible-research-software-development-using-python-using-ml-example",
+        "language": "en",
+        "url": "https://coderefinery.github.io/reproducible-python-ml/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Reproducible research software development using Python",
+        "slug": "reproducible-research-software-development-using-python",
+        "language": "en",
+        "url": "https://coderefinery.github.io/reproducible-python/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Reproducible research",
+        "slug": "reproducible-research",
+        "language": "en",
+        "url": "https://coderefinery.github.io/reproducible-research/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Reference Management: a Practical Guide",
+        "slug": "reference-management-a-practical-guide",
+        "language": "en",
+        "url": "https://subjectguides.york.ac.uk/reference-management/intro",
+        "provider": "university-of-york",
+        "description": ""
+    },
+    {
+        "name": "RedHat Open Source Project Health Checklist",
+        "slug": "redhat-open-source-project-health-checklist",
+        "language": "en",
+        "url": "https://www.redhat.com/en/resources/open-source-project-health-checklist",
+        "provider": "redhat",
+        "description": ""
+    },
+    {
+        "name": "RedHat Cluster Suite",
+        "slug": "redhat-cluster-suite",
+        "language": "en",
+        "url": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/cluster_suite_overview/index",
+        "provider": "redhat",
+        "description": ""
+    },
+    {
+        "name": "RDMkit",
+        "slug": "rdmkit",
+        "language": "en",
+        "url": "https://rdmkit.elixir-europe.org/",
+        "provider": "elixir-europe",
+        "description": ""
+    },
+    {
+        "name": "R para An\u00e1lisis Cient\u00edficos Reproducibles",
+        "slug": "r-para-anlisis-cientficos-reproducibles",
+        "language": "es",
+        "url": "https://swcarpentry.github.io/r-novice-gapminder-es",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "R Foundation",
+        "slug": "r-foundation",
+        "language": "en",
+        "url": "https://www.r-project.org/foundation/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "R for Reproducible Scientific Analysis",
+        "slug": "r-for-reproducible-scientific-analysis",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/r-novice-gapminder",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Python Software Foundation",
+        "slug": "python-software-foundation",
+        "language": "en",
+        "url": "https://www.python.org/psf-landing/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Python Progression: Moving Beyond the Basics",
+        "slug": "python-progression-moving-beyond-the-basics",
+        "language": "en",
+        "url": "https://coderefinery.github.io/python-progression/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "pyOpenSci packages",
+        "slug": "pyopensci-packages",
+        "language": "en",
+        "url": "https://www.pyopensci.org/python-package-guide/index.html",
+        "provider": "pyopensci",
+        "description": ""
+    },
+    {
+        "name": "PTP Public Speaking courses",
+        "slug": "ptp-public-speaking-courses",
+        "language": "en",
+        "url": "https://www.ptp.co.uk/training-courses/personal-development-training/public-speaking/",
+        "provider": "ptp",
+        "description": ""
+    },
+    {
+        "name": "Project Organization and Management for Genomics",
+        "slug": "project-organization-and-management-for-genomics",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/organization-genomics",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Project Documentation - The Turing Way",
+        "slug": "project-documentation-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/code-documentation/code-documentation-project",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Programming with R",
+        "slug": "programming-with-r",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/r-novice-inflammation/",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Programming with Python",
+        "slug": "programming-with-python",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/python-novice-inflammation",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Programming with MATLAB",
+        "slug": "programming-with-matlab",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/matlab-novice-inflammation",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Presenting Posters and Conference Talks - The Turing Way",
+        "slug": "presenting-posters-and-conference-talks-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/communication/presentations",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Plotting and Programming in Python",
+        "slug": "plotting-and-programming-in-python",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/python-novice-gapminder/",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Parallelization and workflows",
+        "slug": "parallelization-and-workflows",
+        "language": "en",
+        "url": "https://coderefinery.github.io/TTT4HPC_parallel_workflows/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Parallel scaling guide",
+        "slug": "parallel-scaling-guide",
+        "language": "en",
+        "url": "https://rc-docs.mines.edu/pages/user_guides/Parallel_Scaling_Guide.html",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Parallel and High Performance Computing ",
+        "slug": "parallel-and-high-performance-computing",
+        "language": "en",
+        "url": "https://www.manning.com/books/parallel-and-high-performance-computing",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Outlining the structure of your open source software project",
+        "slug": "outlining-the-structure-of-your-open-source-software-project",
+        "language": "en",
+        "url": "https://www.cncf.io/blog/2023/04/03/outlining-the-structure-of-your-open-source-software-project/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "other community management programs",
+        "slug": "other-community-management-programs",
+        "language": "en",
+        "url": "https://www.google.com/search?q=research+community+management+programmes+near+me",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Optimize Athena performance",
+        "slug": "optimize-athena-performance",
+        "language": "en",
+        "url": "https://docs.aws.amazon.com/athena/latest/ug/performance-tuning.html",
+        "provider": "aws",
+        "description": ""
+    },
+    {
+        "name": "OpenRefine",
+        "slug": "openrefine",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-open-refine/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Open Source Software (OSS) foundations",
+        "slug": "open-source-software-oss-foundations",
+        "language": "en",
+        "url": "https://som-research.github.io/OSSFoundations/#/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Open source project culture and practices",
+        "slug": "open-source-project-culture-and-practices",
+        "language": "en",
+        "url": "https://www.redhat.com/en/blog/open-source-culture-9-core-principles-and-values",
+        "provider": "redhat",
+        "description": ""
+    },
+    {
+        "name": "OLS Lesson",
+        "slug": "ols-lesson",
+        "language": "en",
+        "url": "https://we-are-ols.org/open-science-training.html",
+        "provider": "ols",
+        "description": ""
+    },
+    {
+        "name": "Often offered by university libraries",
+        "slug": "often-offered-by-university-libraries",
+        "language": "en",
+        "url": "https://www.google.com/search?q=university+library+courses+near+me",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "NVIDIA Deep Learning Institute",
+        "slug": "nvidia-deep-learning-institute",
+        "language": "en",
+        "url": "https://www.nvidia.com/en-us/training/",
+        "provider": "nvidia",
+        "description": ""
+    },
+    {
+        "name": "Modular code development type-along",
+        "slug": "modular-code-development-type-along",
+        "language": "en",
+        "url": "https://coderefinery.github.io/modular-type-along/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Modular code development",
+        "slug": "modular-code-development",
+        "language": "en",
+        "url": "http://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Model Cards for Model Reporting",
+        "slug": "model-cards-for-model-reporting",
+        "language": "en",
+        "url": "https://arxiv.org/pdf/1810.03993",
+        "provider": "mitchel-m-et-al",
+        "description": ""
+    },
+    {
+        "name": "Mixed Martial Arts: Interfacing Fortran, C, C++, and Python",
+        "slug": "mixed-martial-arts-interfacing-fortran-c-c-plus-plus-and-python",
+        "language": "en",
+        "url": "https://coderefinery.github.io/mma/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Missions: A Beginner's guide",
+        "slug": "missions-a-beginners-guide",
+        "language": "en",
+        "url": "https://www.ucl.ac.uk/bartlett/sites/bartlett/files/iipp_policy_brief_09_missions_a_beginners_guide.pdf",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Mini toolkit - code review anxiety workbook",
+        "slug": "mini-toolkit-code-review-anxiety-workbook",
+        "language": "en",
+        "url": "https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1/part-three-mini-code-review-anxiety-toolkit/mini-toolkit",
+        "provider": "code-review-anxiety-workbook",
+        "description": ""
+    },
+    {
+        "name": "MetaDocencia builds its governance collaboratively",
+        "slug": "metadocencia-builds-its-governance-collaboratively",
+        "language": "es",
+        "url": "https://www.metadocencia.org/post/gobernanza-colaborativa/",
+        "provider": "metadocencia",
+        "description": ""
+    },
+    {
+        "name": "Mental Health, Free courses - Open University",
+        "slug": "mental-health-free-courses-open-university",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/body-mind/all-content?filter=date/grid/201/freecourses/all/all/all/all",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "Linux Foundation",
+        "slug": "linux-foundation",
+        "language": "en",
+        "url": "https://training.linuxfoundation.org/resources/free-courses/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Licensing - The Turing Way",
+        "slug": "licensing-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/licensing",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Library Carpentry: Introduction to Regular Expressions",
+        "slug": "library-carpentry-introduction-to-regular-expressions",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-data-intro/01-regular-expressions.html",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Library Carpentry - Data Cleaning",
+        "slug": "library-carpentry-data-cleaning",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-open-refine/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Leadership and followership",
+        "slug": "leadership-and-followership",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/education-development/learning/leadership-and-followership/content-section-overview?active-tab=description-tab",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "La Terminal de Unix",
+        "slug": "la-terminal-de-unix",
+        "language": "es",
+        "url": "https://swcarpentry.github.io/shell-novice-es",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Know your legal and ethical responsibilities",
+        "slug": "know-your-legal-and-ethical-responsibilities",
+        "language": "en",
+        "url": "https://www.uwe.ac.uk/study/library/research-support/manage-your-research-data/planning-your-project/know-your-legal-and-ethical-responsibilities",
+        "provider": "uwe-bristol",
+        "description": ""
+    },
+    {
+        "name": "Kaggle - Data Cleaning",
+        "slug": "kaggle-data-cleaning",
+        "language": "en",
+        "url": "https://www.kaggle.com/learn/data-cleaning",
+        "provider": "kaggle",
+        "description": ""
+    },
+    {
+        "name": "Jupyter Project",
+        "slug": "jupyter-project",
+        "language": "en",
+        "url": "https://jupyter.org/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Jupyter notebooks",
+        "slug": "jupyter-notebooks",
+        "language": "en",
+        "url": "https://coderefinery.github.io/jupyter",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Working with Data (Regular Expressions)",
+        "slug": "introduction-to-working-with-data-regular-expressions",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-data-intro/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Web Accessibility",
+        "slug": "introduction-to-web-accessibility",
+        "language": "en",
+        "url": "https://www.w3.org/WAI/fundamentals/accessibility-intro/",
+        "provider": "w3c",
+        "description": ""
+    },
+    {
+        "name": "Introduction to version control",
+        "slug": "introduction-to-version-control",
+        "language": "en",
+        "url": "https://coderefinery.github.io/git-intro/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Introduction to the Command Line for Genomics",
+        "slug": "introduction-to-the-command-line-for-genomics",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/shell-genomics/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to R for Librarians",
+        "slug": "introduction-to-r-for-librarians",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-r/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to R for Geospatial Data",
+        "slug": "introduction-to-r-for-geospatial-data",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/r-intro-geospatial",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Python for Librarians",
+        "slug": "introduction-to-python-for-librarians",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-python-intro/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to parallel programming by the Carpentries",
+        "slug": "introduction-to-parallel-programming-by-the-carpentries",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/lesson-parallel-python/introduction.html",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Parallel Computing",
+        "slug": "introduction-to-parallel-computing",
+        "language": "en",
+        "url": "https://dehesa.unex.es/server/api/core/bitstreams/c697d0af-8091-47a3-92fe-9ddd7233f9ff/content",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Machine Learning with Scikit Learn",
+        "slug": "introduction-to-machine-learning-with-scikit-learn",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/machine-learning-novice-sklearn/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Introduction to good practices in research software development by the Carpentries",
+        "slug": "introduction-to-good-practices-in-research-software-development-by-the-carpentries",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/good-practices-lesson/instructor/index.html",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Git",
+        "slug": "introduction-to-git",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-git/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Geospatial Raster and Vector Data with R",
+        "slug": "introduction-to-geospatial-raster-and-vector-data-with-r",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/r-raster-vector-geospatial",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Geospatial Concepts",
+        "slug": "introduction-to-geospatial-concepts",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/organization-geospatial/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to deep learning by The Carpentries",
+        "slug": "introduction-to-deep-learning-by-the-carpentries",
+        "language": "en",
+        "url": "https://carpentries-lab.github.io/deep-learning-intro/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Data for Archivists",
+        "slug": "introduction-to-data-for-archivists",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-data-intro-archives/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introduction to Cloud Computing for Genomics",
+        "slug": "introduction-to-cloud-computing-for-genomics",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/cloud-genomics",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Introducing Computational Thinking ",
+        "slug": "introducing-computational-thinking",
+        "language": "en",
+        "url": "https://librarycarpentry.github.io/lc-computational-thinking/",
+        "provider": "library-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Intro to R and RStudio for Genomics",
+        "slug": "intro-to-r-and-rstudio-for-genomics",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/genomics-r-intro/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Interviews with end-users of the software",
+        "slug": "interviews-with-end-users-of-the-software",
+        "language": "en",
+        "url": "https://www.nngroup.com/articles/user-interviews/",
+        "provider": "nngroup",
+        "description": ""
+    },
+    {
+        "name": "Intermediate Research Software Development Skills (Python)",
+        "slug": "intermediate-research-software-development-skills-python",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/python-intermediate-development/",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Improv, yes-and exercise",
+        "slug": "improv-yes-and-exercise",
+        "language": "en",
+        "url": "https://www.radicalagreement.com/post/yes-and-and-improv-teamwork",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Image Processing with Python",
+        "slug": "image-processing-with-python",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/image-processing/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "HPC Resources: RAM, CPUs/GPUs, I/O",
+        "slug": "hpc-resources-ram-cpusgpus-io",
+        "language": "en",
+        "url": "https://coderefinery.github.io/TTT4HPC_resource_management/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "How to write a good application",
+        "slug": "how-to-write-a-good-application",
+        "language": "en",
+        "url": "https://www.ukri.org/councils/esrc/guidance-for-applicants/how-to-write-a-good-application/",
+        "provider": "economic-and-social-research-council-esrc",
+        "description": ""
+    },
+    {
+        "name": "How to start a nonprofit organisation in the UK",
+        "slug": "how-to-start-a-nonprofit-organisation-in-the-uk",
+        "language": "en",
+        "url": "https://uk.indeed.com/career-advice/starting-new-job/non-profit-organisation-uk",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "How to say no at work without guilt or conflict",
+        "slug": "how-to-say-no-at-work-without-guilt-or-conflict",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/education-development/how-say-no-work-without-guilt-or-conflict",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "How to make good code reviews better",
+        "slug": "how-to-make-good-code-reviews-better",
+        "language": "en",
+        "url": "https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/",
+        "provider": "stack-overflow",
+        "description": ""
+    },
+    {
+        "name": "How to document your research software",
+        "slug": "how-to-document-your-research-software",
+        "language": "en",
+        "url": "https://coderefinery.github.io/documentation/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "How to build a skills-based organisation in 5 steps",
+        "slug": "how-to-build-a-skills-based-organisation-in-5-steps",
+        "language": "en",
+        "url": "https://www.muchskills.com/blog/mastering-the-skill-revolution-a-guide-to-becoming-a-skills-based-organisation-in-5-steps",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Harvard Business Review Project Management Handbook: How to Launch, Lead, and Sponsor Successful Projects",
+        "slug": "harvard-business-review-project-management-handbook-how-to-launch-lead-and-sponsor-successful-projects",
+        "language": "en",
+        "url": "https://www.amazon.co.uk/Harvard-Business-Project-Management-Handbook/dp/1647821266",
+        "provider": "hbr-handbooks",
+        "description": ""
+    },
+    {
+        "name": "Handling conflict",
+        "slug": "handling-conflict",
+        "language": "en",
+        "url": "https://third-bit.com/py-rse/teams.html#teams-conflict",
+        "provider": "research-software-engineering-with-python-irving-et-al",
+        "description": ""
+    },
+    {
+        "name": "Green500",
+        "slug": "green500",
+        "language": "en",
+        "url": "https://www.top500.org/lists/green500/",
+        "provider": "top500",
+        "description": ""
+    },
+    {
+        "name": "Green Software Foundation",
+        "slug": "green-software-foundation",
+        "language": "en",
+        "url": "https://greensoftware.foundation/",
+        "provider": "green-software-foundation",
+        "description": ""
+    },
+    {
+        "name": "Governance in The Turing Way",
+        "slug": "governance-in-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/foreword/governance",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Google Machine Learning Crash Course",
+        "slug": "google-machine-learning-crash-course",
+        "language": "en",
+        "url": "https://developers.google.com/machine-learning/crash-course",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "GitHub's Building Community",
+        "slug": "githubs-building-community",
+        "language": "en",
+        "url": "https://opensource.guide/building-community/",
+        "provider": "open-source-guides",
+        "description": ""
+    },
+    {
+        "name": "GitHub Documentation",
+        "slug": "github-documentation",
+        "language": "en",
+        "url": "https://docs.github.com/en",
+        "provider": "github",
+        "description": ""
+    },
+    {
+        "name": "Git branch design",
+        "slug": "git-branch-design",
+        "language": "en",
+        "url": "https://coderefinery.github.io/git-branch-design/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "GAN Implementation in PyTorch",
+        "slug": "gan-implementation-in-pytorch",
+        "language": "en",
+        "url": "https://www.baeldung.com/cs/pytorch-generative-adversarial-networks",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Galaxy Project",
+        "slug": "galaxy-project",
+        "language": "en",
+        "url": "https://galaxyproject.org/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Futures, Foresight and Horizon scanning",
+        "slug": "futures-foresight-and-horizon-scanning",
+        "language": "en",
+        "url": "https://foresightprojects.blog.gov.uk/2018/11/01/futures-foresight-and-horizon-scanning-finding-a-way-forward/",
+        "provider": "uk-government",
+        "description": ""
+    },
+    {
+        "name": "Funding higher education in Wales",
+        "slug": "funding-higher-education-in-wales",
+        "language": "en|cy",
+        "url": "https://www.medr.cymru/en/funding-for-providers/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Funding higher education in Scotland",
+        "slug": "funding-higher-education-in-scotland",
+        "language": "en|gd",
+        "url": "https://www.sfc.ac.uk/our-funding/university-funding/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Funding higher education in Northern Ireland",
+        "slug": "funding-higher-education-in-northern-ireland",
+        "language": "en",
+        "url": "https://www.economy-ni.gov.uk/articles/higher-education-quality-related-research-qr-funding",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Funding higher education in England",
+        "slug": "funding-higher-education-in-england",
+        "language": "en",
+        "url": "https://www.ukri.org/publications/research-england-how-we-fund-higher-education-providers/how-we-fund-higher-education-providers/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Foundations of Astronomical Data Science",
+        "slug": "foundations-of-astronomical-data-science",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/astronomy-python/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Five things you need to know about research data management and the law",
+        "slug": "five-things-you-need-to-know-about-research-data-management-and-the-law",
+        "language": "en",
+        "url": "https://www.dcc.ac.uk/sites/default/files/documents/publications/3amendedFive%20things.....%20(8-Page).pdf",
+        "provider": "dcc",
+        "description": ""
+    },
+    {
+        "name": "Finding Your Way To R For Data Science",
+        "slug": "finding-your-way-to-r-for-data-science",
+        "language": "en",
+        "url": "https://education.rstudio.com/learn/",
+        "provider": "rstudio",
+        "description": ""
+    },
+    {
+        "name": "Exploring career mentoring and coaching",
+        "slug": "exploring-career-mentoring-and-coaching",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/money-business/exploring-career-mentoring-and-coaching/content-section-overview?active-tab=description-tab",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "Everything you wanted to know about applying for grants but didn't ask",
+        "slug": "everything-you-wanted-to-know-about-applying-for-grants-but-didnt-ask",
+        "language": "en|es",
+        "url": "https://github.com/MetaDocencia/AccesoFinanciacion/blob/main/hidden-curriculum.md",
+        "provider": "metadocencia",
+        "description": ""
+    },
+    {
+        "name": "Event Organisation Guide",
+        "slug": "event-organisation-guide",
+        "language": "en",
+        "url": "https://event-organisation-guide.readthedocs.io/en/latest/index.html",
+        "provider": "software-sustainability-institute",
+        "description": ""
+    },
+    {
+        "name": "Ethics and law - The Turing Way",
+        "slug": "ethics-and-law-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/ethical-research/law-policy/law-policy-ethics",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Ethical and legal issues (University of Oxford)",
+        "slug": "ethical-and-legal-issues-university-of-oxford",
+        "language": "en",
+        "url": "https://researchdata.ox.ac.uk/ethical-and-legal-issues",
+        "provider": "research-data-oxford",
+        "description": ""
+    },
+    {
+        "name": "Ethical and Legal Issues (University of Liverpool)",
+        "slug": "ethical-and-legal-issues-university-of-liverpool",
+        "language": "en",
+        "url": "https://www.liverpool.ac.uk/library/research-data-management/essentials/ethical-and-legal/",
+        "provider": "university-of-liverpool",
+        "description": ""
+    },
+    {
+        "name": "Ense\u00f1ando tecnolog\u00eda en comunidad(Spanish)",
+        "slug": "enseando-tecnologa-en-comunidadspanish",
+        "language": "es",
+        "url": "https://yabellini.github.io/t3es/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "El Control de Versiones con Git",
+        "slug": "el-control-de-versiones-con-git",
+        "language": "es",
+        "url": "https://swcarpentry.github.io/git-novice-es",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Effective communication in the workplace",
+        "slug": "effective-communication-in-the-workplace",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/money-business/effective-communication-the-workplace/content-section-overview?active-tab=description-tab",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "Digital Humanities Climate Coalition Toolkit",
+        "slug": "digital-humanities-climate-coalition-toolkit",
+        "language": "en",
+        "url": "https://sas-dhrh.github.io/dhcc-toolkit/",
+        "provider": "digital-humanities-climate-coalition",
+        "description": ""
+    },
+    {
+        "name": "Difficult Conversations: How to discuss what matters most",
+        "slug": "difficult-conversations-how-to-discuss-what-matters-most",
+        "language": "en",
+        "url": "https://www.stoneandheen.com/difficult-conversations",
+        "provider": "stone-and-heen",
+        "description": ""
+    },
+    {
+        "name": "Di\u00e1taxis",
+        "slug": "ditaxis",
+        "language": "en",
+        "url": "https://diataxis.fr/",
+        "provider": "ditaxis",
+        "description": ""
+    },
+    {
+        "name": "Day-to-day working on clusters",
+        "slug": "day-to-day-working-on-clusters",
+        "language": "en",
+        "url": "https://coderefinery.github.io/TTT4HPC_Interactive/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Datasheets for Datasets",
+        "slug": "datasheets-for-datasets",
+        "language": "en",
+        "url": "http://dx.doi.org/10.1145/3458723",
+        "provider": "acm-digital-library",
+        "description": ""
+    },
+    {
+        "name": "Databases and SQL by The Carpentries",
+        "slug": "databases-and-sql-by-the-carpentries",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/sql-novice-survey/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Data Wrangling and Processing for Genomics",
+        "slug": "data-wrangling-and-processing-for-genomics",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/wrangling-genomics/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Wranglers: Overview - The Turing Way",
+        "slug": "data-wranglers-overview-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Data visualization using Python",
+        "slug": "data-visualization-using-python",
+        "language": "en",
+        "url": "https://coderefinery.github.io/data-visualization-python/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Data Visualisation - The Turing Way",
+        "slug": "data-visualisation-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/rdm/rdm-visualisation/",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Data Organization in Spreadsheets for Social Scientists",
+        "slug": "data-organization-in-spreadsheets-for-social-scientists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/spreadsheets-socialsci/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Organization in Spreadsheets for Ecologists",
+        "slug": "data-organization-in-spreadsheets-for-ecologists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/spreadsheet-ecology-lesson/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Organisation in Spreadsheets - The Turing Way",
+        "slug": "data-organisation-in-spreadsheets-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Data Management with SQL for Social Scientists",
+        "slug": "data-management-with-sql-for-social-scientists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/sql-socialsci/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Management with SQL for Ecologists",
+        "slug": "data-management-with-sql-for-ecologists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/sql-ecology-lesson/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Management Plans - DCC",
+        "slug": "data-management-plans-dcc",
+        "language": "en",
+        "url": "https://www.dcc.ac.uk/resources/data-management-plans",
+        "provider": "dcc",
+        "description": ""
+    },
+    {
+        "name": "Data Management Plan - The Turing Way",
+        "slug": "data-management-plan-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Data Cleaning with OpenRefine for Social Scientists",
+        "slug": "data-cleaning-with-openrefine-for-social-scientists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/openrefine-socialsci/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Cleaning with OpenRefine for Ecologists",
+        "slug": "data-cleaning-with-openrefine-for-ecologists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/OpenRefine-ecology-lesson/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Carpentry - Data Cleaning",
+        "slug": "data-carpentry-data-cleaning",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/OpenRefine-ecology-lesson/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Analysis and Visualization with R for Social Scientists",
+        "slug": "data-analysis-and-visualization-with-r-for-social-scientists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/r-socialsci/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Analysis and Visualization with Python for Social Scientists",
+        "slug": "data-analysis-and-visualization-with-python-for-social-scientists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/python-socialsci/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Analysis and Visualization in R for Ecologists",
+        "slug": "data-analysis-and-visualization-in-r-for-ecologists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/R-ecology-lesson/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Data Analysis and Visualization in Python for Ecologists",
+        "slug": "data-analysis-and-visualization-in-python-for-ecologists",
+        "language": "en",
+        "url": "https://datacarpentry.github.io/python-ecology-lesson/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "CSCCE's project management for STEM professionals",
+        "slug": "cscces-project-management-for-stem-professionals",
+        "language": "en",
+        "url": "https://www.cscce.org/trainings/project-management-for-scientists/",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "CSCCE's guide on how to steward large-scale collaborations",
+        "slug": "cscces-guide-on-how-to-steward-large-scale-collaborations",
+        "language": "en",
+        "url": "https://www.cscce.org/trainings/cscce-mini-workshops/",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "CSCCE mini-workshop on the topic of Giving and receiving feedback",
+        "slug": "cscce-mini-workshop-on-the-topic-of-giving-and-receiving-feedback",
+        "language": "en",
+        "url": "https://www.cscce.org/trainings/cscce-mini-workshops/",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "CSCCE",
+        "slug": "cscce",
+        "language": "en",
+        "url": "https://www.cscce.org/",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "Continuous integration - The Turing Way",
+        "slug": "continuous-integration-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/ci",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Containers on clusters",
+        "slug": "containers-on-clusters",
+        "language": "en",
+        "url": "https://coderefinery.github.io/hpc-containers/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Community Participation Model - CSCCE",
+        "slug": "community-participation-model-cscce",
+        "language": "en",
+        "url": "https://www.cscce.org/resources/cpm/",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "Community governance resources",
+        "slug": "community-governance-resources",
+        "language": "en",
+        "url": "https://docs.google.com/spreadsheets/d/1k8t1VPdcwKH7ZGaCA0q8NNxbFKQKkZGPth3nhfkKwAA/edit?gid=1287139202#gid=1287139202",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "Community and Community Roles - The Turing Way",
+        "slug": "community-and-community-roles-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/foreword/community/",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Collaborative version control with Git and GitHub by the Carpentries",
+        "slug": "collaborative-version-control-with-git-and-github-by-the-carpentries",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/collaborative-git-and-github-lesson/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Collaborative distributed version control",
+        "slug": "collaborative-distributed-version-control",
+        "language": "en",
+        "url": "https://coderefinery.github.io/git-collaborative/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Collaborating and sharing using GitHub without command line",
+        "slug": "collaborating-and-sharing-using-github-without-command-line",
+        "language": "en",
+        "url": "https://coderefinery.github.io/github-without-command-line/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Code Testing - The Turing Way",
+        "slug": "code-testing-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/reproducible-research/testing",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "Code Styling and Linting - The Turing Way",
+        "slug": "code-styling-and-linting-the-turing-way",
+        "language": "en",
+        "url": "https://book.the-turing-way.org/project-design/code-styling",
+        "provider": "the-turing-way",
+        "description": ""
+    },
+    {
+        "name": "CMake workshop (based on ENCCS version)",
+        "slug": "cmake-workshop-based-on-enccs-version",
+        "language": "en",
+        "url": "https://coderefinery.github.io/cmake-workshop/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Cloud Native Glossary",
+        "slug": "cloud-native-glossary",
+        "language": "en",
+        "url": "https://glossary.cncf.io/data-center/",
+        "provider": "cloud-native",
+        "description": ""
+    },
+    {
+        "name": "Choose an open source license",
+        "slug": "choose-an-open-source-license",
+        "language": "en",
+        "url": "https://choosealicense.com/",
+        "provider": "choose-an-open-source-license",
+        "description": ""
+    },
+    {
+        "name": "CHAOSS community metrics",
+        "slug": "chaoss-community-metrics",
+        "language": "en",
+        "url": "https://chaoss.community/metrics/",
+        "provider": "chaoss",
+        "description": ""
+    },
+    {
+        "name": "Carpentries Instructor Training",
+        "slug": "carpentries-instructor-training",
+        "language": "en",
+        "url": "https://carpentries.org/instructor-training/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Carpentries courses",
+        "slug": "carpentries-courses",
+        "language": "en|es",
+        "url": "https://carpentries.org/workshops/upcoming-workshops/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Carpentries Collaborative Lesson Development Training",
+        "slug": "carpentries-collaborative-lesson-development-training",
+        "language": "en",
+        "url": "https://carpentries.github.io/lesson-development-training/",
+        "provider": "the-carpentries",
+        "description": ""
+    },
+    {
+        "name": "Building Better Research Software",
+        "slug": "building-better-research-software",
+        "language": "en",
+        "url": "https://carpentries-incubator.github.io/better-research-software/",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Budget allocations for UK Research and Innovation",
+        "slug": "budget-allocations-for-uk-research-and-innovation",
+        "language": "en",
+        "url": "https://www.ukri.org/publications/explainer-ukri-budget-allocations/budget-allocations-for-uk-research-and-innovation/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Bringing up problems at work (without making things worse)",
+        "slug": "bringing-up-problems-at-work-without-making-things-worse",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/education-development/bringing-problems-work-without-making-things-worse",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "Automation and Make",
+        "slug": "automation-and-make",
+        "language": "en",
+        "url": "https://swcarpentry.github.io/make-novice",
+        "provider": "software-carpentry",
+        "description": ""
+    },
+    {
+        "name": "Automated testing",
+        "slug": "automated-testing",
+        "language": "en",
+        "url": "https://coderefinery.github.io/testing/",
+        "provider": "coderefinery",
+        "description": ""
+    },
+    {
+        "name": "Assessing the health of open source communities",
+        "slug": "assessing-the-health-of-open-source-communities",
+        "language": "en",
+        "url": "https://james.howison.name/pubs/CrowstonHowison-AssessingHealth.pdf",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "Apache Software Foundation",
+        "slug": "apache-software-foundation",
+        "language": "en",
+        "url": "https://www.apache.org/",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "An\u00e1lisis y visualizaci\u00f3n de datos usando Python",
+        "slug": "anlisis-y-visualizacin-de-datos-usando-python",
+        "language": "es",
+        "url": "https://datacarpentry.github.io/python-ecology-lesson-es/",
+        "provider": "data-carpentry",
+        "description": ""
+    },
+    {
+        "name": "An R reproducibility toolkit for the practical researcher",
+        "slug": "an-r-reproducibility-toolkit-for-the-practical-researcher",
+        "language": "en",
+        "url": "https://reproducibility.rocks/",
+        "provider": "reproducibility-rocks",
+        "description": ""
+    },
+    {
+        "name": "Ally Skills Training",
+        "slug": "ally-skills-training",
+        "language": "en",
+        "url": "https://www.open.edu/openlearn/money-business/diversity-and-inclusion-the-workplace/content-section-overview?active-tab=description-tab",
+        "provider": "open-university",
+        "description": ""
+    },
+    {
+        "name": "Accelerator and GPU programming",
+        "slug": "accelerator-and-gpu-programming",
+        "language": "en",
+        "url": "https://medium.com/@mahdiall99/gpu-programming-a-brief-introduction-1150f8a53f15",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "academic writing workshops/courses",
+        "slug": "academic-writing-workshopscourses",
+        "language": "en",
+        "url": "https://www.google.com/search?q=academic+writing+workshops+courses+near+me",
+        "provider": "",
+        "description": ""
+    },
+    {
+        "name": "A guide to using virtual events to facilitate community building: Selecting and testing online tools",
+        "slug": "a-guide-to-using-virtual-events-to-facilitate-community-building-selecting-and-testing-online-tools",
+        "language": "en",
+        "url": "https://zenodo.org/records/4521211",
+        "provider": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "description": ""
+    },
+    {
+        "name": "3 metrics to measure your open source community health",
+        "slug": "3-metrics-to-measure-your-open-source-community-health",
+        "language": "en",
+        "url": "https://opensource.com/article/20/3/community-metrics",
+        "provider": "opensource-com",
+        "description": ""
+    },
+    {
+        "name": "10 ways to be respectful",
+        "slug": "10-ways-to-be-respectful",
+        "language": "en",
+        "url": "https://www.uwl.ac.uk/student-life/building-uwl-community/10-ways-be-respectful",
+        "provider": "university-of-west-london",
+        "description": ""
+    },
+    {
+        "name": "10 simple rules for writing '10 Simple Rules' papers",
+        "slug": "10-simple-rules-for-writing-10-simple-rules-papers",
+        "language": "en",
+        "url": "https://scientistseessquirrel.wordpress.com/2023/10/31/10-simple-rules-for-writing-10-simple-rules-papers/",
+        "provider": "scientist-sees-squirrel",
+        "description": ""
+    },
+    {
+        "name": "Reproducible computational environment with Docker",
+        "slug": "reproducible-computational-environment-with-docker",
+        "language": "en",
+        "url": "https://reproducibility.rocks/materials/day4/01-docker/",
+        "provider": "reproducibility-rocks",
+        "description": ""
+    }
+]

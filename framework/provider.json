@@ -1,0 +1,429 @@
+[
+    {
+        "name": "HPC Capentry",
+        "slug": "hpc-carpentry",
+        "url": "https://www.hpc-carpentry.org",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "CodeRefinery",
+        "slug": "coderefinery",
+        "url": "https://coderefinery.org",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "UK Government",
+        "slug": "uk-government",
+        "url": "https://gov.uk",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Greg Wilson",
+        "slug": "greg-wilson",
+        "url": "https://third-bit.com/about/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Software Carpentry",
+        "slug": "software-carpentry",
+        "url": "https://software-carpentry.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "NNGroup",
+        "slug": "nngroup",
+        "url": "https://www.nngroup.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Opensource.com",
+        "slug": "opensource-com",
+        "url": "https://opensource.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "CHAOSS",
+        "slug": "chaoss",
+        "url": "https://chaoss.community/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Open Source Guides",
+        "slug": "open-source-guides",
+        "url": "https://opensource.guide/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Research Software Engineering with Python (Irving et al)",
+        "slug": "research-software-engineering-with-python-irving-et-al",
+        "url": "https://third-bit.com/py-rse/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Scientist Sees Squirrel",
+        "slug": "scientist-sees-squirrel",
+        "url": "https://scientistseessquirrel.wordpress.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Acas",
+        "slug": "acas",
+        "url": "https://www.acas.org.uk/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "GitHub",
+        "slug": "github",
+        "url": "https://github.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "UK Research and Innovation (UKRI)",
+        "slug": "uk-research-and-innovation-ukri",
+        "url": "https://www.ukri.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Economic and Social Research Council (ESRC)",
+        "slug": "economic-and-social-research-council-esrc",
+        "url": "https://www.ukri.org/councils/esrc/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "University of York",
+        "slug": "university-of-york",
+        "url": "https://www.york.ac.uk/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "University of West London",
+        "slug": "university-of-west-london",
+        "url": "https://www.uwl.ac.uk/",
+        "ror": "https://ror.org/03e5mzp60",
+        "description": ""
+    },
+    {
+        "name": "WebAIM",
+        "slug": "webaim",
+        "url": "https://webaim.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "EVERSE",
+        "slug": "everse",
+        "url": "https://everse.software/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Wikipedia",
+        "slug": "wikipedia",
+        "url": "https://www.wikipedia.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "W3C",
+        "slug": "w3c",
+        "url": "https://www.w3.org/",
+        "ror": "https://ror.org/0059y1582",
+        "description": ""
+    },
+    {
+        "name": "UWE Bristol",
+        "slug": "uwe-bristol",
+        "url": "https://www.uwe.ac.uk/",
+        "ror": "https://ror.org/02nwg5t34",
+        "description": ""
+    },
+    {
+        "name": "University of Sheffield",
+        "slug": "university-of-sheffield",
+        "url": "https://www.sheffield.ac.uk/",
+        "ror": "https://ror.org/05krs5044",
+        "description": ""
+    },
+    {
+        "name": "University of Liverpool",
+        "slug": "university-of-liverpool",
+        "url": "https://www.liverpool.ac.uk/",
+        "ror": "https://ror.org/04xs57h96",
+        "description": ""
+    },
+    {
+        "name": "TOP500",
+        "slug": "top500",
+        "url": "https://www.top500.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "TLDRLegal",
+        "slug": "tldrlegal",
+        "url": "https://tldrlegal.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "The University of Manchester",
+        "slug": "the-university-of-manchester",
+        "url": "https://www.manchester.ac.uk/",
+        "ror": "https://ror.org/027m9bs27",
+        "description": ""
+    },
+    {
+        "name": "The Turing Way",
+        "slug": "the-turing-way",
+        "url": "https://the-turing-way.netlify.app/",
+        "ror": "https://ror.org/035dkdb55",
+        "description": ""
+    },
+    {
+        "name": "The Carpentries",
+        "slug": "the-carpentries",
+        "url": "https://carpentries.org/",
+        "ror": "https://ror.org/0356fgm10",
+        "description": ""
+    },
+    {
+        "name": "Stone and Heen",
+        "slug": "stone-and-heen",
+        "url": "https://stoneandheen.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Stack Overflow",
+        "slug": "stack-overflow",
+        "url": "https://stackoverflow.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Software Sustainability Institute",
+        "slug": "software-sustainability-institute",
+        "url": "https://www.software.ac.uk/",
+        "ror": "https://ror.org/0455awd29",
+        "description": ""
+    },
+    {
+        "name": "Scientific Python Library Development Guide",
+        "slug": "scientific-python-library-development-guide",
+        "url": "https://learn.scientific-python.org/development/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "RStudio",
+        "slug": "rstudio",
+        "url": "https://posit.co/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "rOpenSci",
+        "slug": "ropensci",
+        "url": "https://ropensci.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Research Data Oxford",
+        "slug": "research-data-oxford",
+        "url": "https://researchdata.ox.ac.uk/",
+        "ror": "https://ror.org/052gg0110",
+        "description": ""
+    },
+    {
+        "name": "Reproducibility Rocks",
+        "slug": "reproducibility-rocks",
+        "url": "http://reproducibility.rocks/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "RedHat",
+        "slug": "redhat",
+        "url": "https://www.redhat.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "pyOpenSci",
+        "slug": "pyopensci",
+        "url": "https://www.pyopensci.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "PTP",
+        "slug": "ptp",
+        "url": "https://www.ptptraining.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Open University",
+        "slug": "open-university",
+        "url": "https://www.open.ac.uk/",
+        "ror": "https://ror.org/05mzfcs16",
+        "description": ""
+    },
+    {
+        "name": "OLS",
+        "slug": "ols",
+        "url": "https://openlifesci.org/",
+        "ror": "https://ror.org/02epwtt47",
+        "description": ""
+    },
+    {
+        "name": "NVIDIA",
+        "slug": "nvidia",
+        "url": "https://www.nvidia.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Mitchel, M. et al",
+        "slug": "mitchel-m-et-al",
+        "url": "https://www.m-mitchell.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "MetaDocencia",
+        "slug": "metadocencia",
+        "url": "https://www.metadocencia.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Library Carpentry",
+        "slug": "library-carpentry",
+        "url": "https://librarycarpentry.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Kaggle",
+        "slug": "kaggle",
+        "url": "https://www.kaggle.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "HBR Handbooks",
+        "slug": "hbr-handbooks",
+        "url": "https://hbr.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Green Software Foundation",
+        "slug": "green-software-foundation",
+        "url": "https://greensoftware.foundation/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Erin Meyer",
+        "slug": "erin-meyer",
+        "url": "https://erinmeyer.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "ELIXIR Europe",
+        "slug": "elixir-europe",
+        "url": "https://elixir-europe.org/",
+        "ror": "https://ror.org/044rwnt51",
+        "description": ""
+    },
+    {
+        "name": "Digital Humanities Climate Coalition",
+        "slug": "digital-humanities-climate-coalition",
+        "url": "https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Di\u00e1taxis",
+        "slug": "ditaxis",
+        "url": "https://diataxis.fr/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "DCC",
+        "slug": "dcc",
+        "url": "https://www.dcc.ac.uk/",
+        "ror": "https://ror.org/01k9d6864",
+        "description": ""
+    },
+    {
+        "name": "Data Carpentry",
+        "slug": "data-carpentry",
+        "url": "https://datacarpentry.org/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "CSCCE: Center for Scientific Collaboration and Community Engagement",
+        "slug": "cscce-center-for-scientific-collaboration-and-community-engagement",
+        "url": "https://www.cscce.org/",
+        "ror": "https://ror.org/03xaryf14",
+        "description": ""
+    },
+    {
+        "name": "Code Review Anxiety Workbook",
+        "slug": "code-review-anxiety-workbook",
+        "url": "https://developer-success-lab.gitbook.io/code-review-anxiety-workbook-1",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Cloud Native",
+        "slug": "cloud-native",
+        "url": "https://www.cncf.io/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "Choose an open source license",
+        "slug": "choose-an-open-source-license",
+        "url": "https://choosealicense.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "AWS",
+        "slug": "aws",
+        "url": "https://aws.amazon.com/",
+        "ror": "",
+        "description": ""
+    },
+    {
+        "name": "ACM Digital Library",
+        "slug": "acm-digital-library",
+        "url": "https://dl.acm.org/",
+        "ror": "",
+        "description": ""
+    }
+]

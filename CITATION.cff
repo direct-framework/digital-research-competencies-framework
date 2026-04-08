@@ -1,0 +1,89 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DIRECT competencies framework for digital Research
+  Technical Professionals
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Aleksandra
+    family-names: Nenadic
+    email: a.nenadic@software.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-2269-3894'
+  - given-names: Phil
+    family-names: Reed
+    email: phil.reed@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-4479-715X'
+  - given-names: Dave
+    family-names: Horsfall
+    email: dave.horsfall@newcastle.ac.uk
+    affiliation: Newcastle University
+    orcid: 'https://orcid.org/0000-0002-8086-812X'    
+  - given-names: Aman
+    family-names: Goel
+    email: aman.goel@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0003-0520-8890'    
+  - given-names: Eli
+    family-names: Chadwick
+    email: eli.chadwick@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-0035-6475'    
+  - given-names: Emma
+    family-names: Hogan
+    email: emma.hogan@metoffice.gov.uk
+    affiliation: Met Office
+    orcid: ''    
+  - given-names: "Adrian"
+    family-names: "D'Alessandro"
+    email: a.dalessandro@imperial.ac.uk
+    affiliation: Imperial College London
+    orcid: "https://orcid.org/0009-0002-9503-5777"
+  - given-names: "Lieke"
+    family-names: "de Boer"
+    affiliation: "ZonMw"
+    orcid: "https://orcid.org/0000-0003-3381-2040"
+  - given-names: "Jonathan"
+    family-names: "Cooper"
+    email: "j.p.cooper@ucl.ac.uk"
+    affiliation: "University College London"
+    orcid: "https://orcid.org/0000-0001-6009-3542"
+  - given-names: "Daniel"
+    family-names: "Katz"
+    email: "j.p.cooper@ucl.ac.uk"
+    affiliation: "University of Illinois at Urbana-Champaign, US"
+    orcid: "https://orcid.org/0000-0001-5934-7525"
+repository-code: >-
+  https://github.com/direct-framework/digital-research-competencies-framework
+url: >-
+  https://github.com/direct-framework/digital-research-competencies-framework
+abstract: >-
+  The DIgital REsearch CompeTencies (DIRECT) framework helps
+  classify and describe the wide range of technical and
+  non-technical skills used across various digital research
+  roles. These include researchers, research software
+  engineers (RSEs), data specialists, group leads, principal
+  investigators (PIs), archivists, bioinformaticians, and
+  many more. It brings together skills (abilities to perform
+  tasks or behaviours we possess) together with technology
+  tools, methodologies and languages that demonstrate
+  knowledge and proficiency, alongside learning resources to
+  support skill development. The framework provides a shared
+  language for recognising expertise, planning training, and
+  mapping career pathways.
+keywords:
+  - skills
+  - digital skills
+  - professional skills
+  - technical skills
+  - competencies
+  - digital research technology professionals
+  - drtp
+license: CC-BY-4.0
+version: 2.0.0

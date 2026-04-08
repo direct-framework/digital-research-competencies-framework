@@ -1,0 +1,21 @@
+name,description,slug,competency_domain,rank
+Data engineering,"Understanding and implementation of practices for data management, quality, accessibility, stewardship and compliance across data lifecycle.",data-engineering,information-and-data-technologies,10
+Data science and analytics,"Application of analytical, statistical or machine learning techniques to extract insight and value from complex or large datasets (big data).",data-science-and-analytics,information-and-data-technologies,20
+Software engineering,"Application of structured approaches, theory and supporting tools to plan, develop, test and maintain high-quality and secure software applications and systems.",software-engineering,software-design-and-development,20
+User Interface / User Experience (UI/UX) design,"Creating intuitive, inclusive and engaging digital experiences through thoughtful design and user-centered practices.",user-interface-user-experience-uiux-design,software-design-and-development,50
+Web and mobile app development,"Design and development of responsive, secure and user-centric applications across web and mobile platforms.",web-and-mobile-app-development,software-design-and-development,40
+Cloud infrastructure,"Cloud platforms and computing for flexible, scalable and cost-effective computing, storage, and data services.",cloud-infrastructure,computing-infrastructures-and-systems,40
+General systems infrastructure,"Broad understanding of digital infrastructure - including hardware, networks and system integration that supports everyday operations and research.",general-systems-infrastructure,computing-infrastructures-and-systems,10
+HPC infrastructure,Knowledge of high-performance computing systems and practices that support data- or compute-intensive computational research and large-scale simulations.,hpc-infrastructure,computing-infrastructures-and-systems,30
+Web infrastructure,"Design, deployment, and maintenance of the technologies that support robust, scalable, and secure online platforms and services.",web-infrastructure,computing-infrastructures-and-systems,20
+Domain knowledge,"Deep understanding of the concepts, challenges, and methodologies specific to a particular scientific field",domain-knowledge,domain-expertise-and-research,10
+Research skills,"Conducting rigorous inquiry, including problem formulation, experimental design, critical analysis and dissemination of findings.",research-skills,domain-expertise-and-research,20
+Interpersonal skills,"Ability to build rapport, demonstrate empathy, navigate social dynamics and communicate effectively in diverse professional settings",interpersonal-skills,professional-and-people-skills,20
+Personal skills,"Self-management capabilities such as initiative, adaptability, resilience, time management and a commitment to continuous learning.",personal-skills,professional-and-people-skills,10
+Teamwork,"Working constructively and inclusively with others to achieve shared goals, contribute to group problem-solving and foster a positive team culture.",teamwork,professional-and-people-skills,30
+Community and outreach,"Engaging with wider communities through knowledge sharing, collaboration and public engagement to increase the visibility and impact of work.",community-and-outreach,communication,20
+Teaching and learning,"Designing and delivering effective learning experiences that build skills, transfer knowledge and support capacity and capability development across audiences.",teaching-and-learning,communication,30
+Verbal and written communication,Articulating complex ideas clearly and effectively through a range of formats and for varied audiences.,verbal-and-written-communication,communication,10
+Leadership,"Setting direction, inspiring others and making strategic decisions that align people and projects with broader institutional or organisational goals.",leadership,leadership-and-management,30
+People and team management,"Guiding and supporting individuals and teams to achieve their potential, with attention to wellbeing, performance and professional growth.",people-and-team-management,leadership-and-management,10
+Programme and project management,"Planning, coordinating and delivering projects effectively within defined scope, time and resource constraints, while managing risk and quality.",programme-and-project-management,leadership-and-management,20

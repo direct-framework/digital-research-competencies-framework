@@ -1,35 +1,59 @@
 # DIgital REsearch CompeTencies (DIRECT) Framework
 
-The work is part of the [DIRECT project](https://github.com/direct-framework).
+This work is part of the [DIRECT project](https://github.com/direct-framework). This repository contains the definition a competencies framework for digital Research Technology Professionals (dRPTs).
+
+The DIgital REsearch CompeTencies (DIRECT) framework helps classify and describe the wide range of technical and non-technical skills used across various digital research roles. These include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. It brings together skills (abilities to perform tasks or behaviours we possess) together with technology tools, methodologies and languages that demonstrate knowledge and proficiency, alongside learning resources to support skill development. The framework provides a shared language for recognising expertise, planning training, and mapping career pathways.
+
+A [sister repository](https://github.com/direct-framework/direct-webapp) contains the framework implementation as a **DIRECT Django webapp** to enable practical use of the DIRECT framework - to browse the skills and competencies, self-assess and create individual skill profiles as [“competency wheels”](https://directframework.com/), compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
 ## DIRECT competency framework
 
-This project  contains the definition a skills and competencies framework to help us classify and describe technical and non-technical skills we use in our different roles as researchers, RSEs, data specialists, RSE group leads, PIs, etc. (collectively known as the dRTPs - Digital Research Technology Professionals), along with lists of tools/methods/behaviours to demonstrate skills and training materials and resources that can help us gain a particular skill.
+Framework definition is located in the [framework folder](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework) of this repository.
+Data files are provided in JSON and CSV formats.
 
-A [sister project](https://github.com/direct-framework/direct-webapp) works on implementing the **DIRECT Django webapp** to enable practical use of the framework - to browse the skills and competencies, self-assess and create individual skill profiles as “competency wheels”, compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
+### Terminology definitions
 
-### Defining and classifying skills
+[Definitions of terms](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/terminology.md) we use in the framework provide a shared language for use across various user communities.
 
-Skills and competencies are described in the [framework file](./framework/skills-competencies-framework.json) and we have a [GitHub issue to track
-suggestions](https://github.com/RSEToolkit/rse-competencies-toolkit/issues/39).
+### Skills and competencies
 
-If you think skills are missing, needs clarification, or could be reorganised within the framework, please add your
-feedback to the [GitHub issue to track suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/39).
+**Skills** are classified in **competencies** which are in turn contained in bigger **competency domains**.
 
-### Defining the skill levels
+A [**competency domain**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/competency_domain.csv) is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
+Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
 
-We have a [document defining skill
-levels](https://github.com/direct-framework/digital-research-competencies-framework/blob/main/framework/skill-levels.md) and a [GitHub issue to track
-suggestions](https://github.com/direct-framework/digital-research-competencies-framework/issues/62).
+A [**competency**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/competency.csv) is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
+Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
 
-The skill levels describe a scale to help measure/describe ability to demonstrate a particular skill (i.e. an individual’s competency level for a particular skill).
+A [**skill**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/skill.csv) is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
+Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
 
-### Curating professional development resources
+### Skill levels
 
-We have a file with [resources for professional development](./framework/resources.csv) mapped to skills in the framework.
+A [**skill level**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/skill_level.csv) describes the degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
+Skill levels are used during creation of personal profiles ("skill wheels") when a user their skills either through self-assessment or together with a line manager as part of professional development review.
 
-If you would like to suggest resources to add to the collection, please add them to the [GitHub issue on
-curation](https://github.com/direct-framework/digital-research-competencies-framework/issues/44).
+### Professional development resources
+
+#### Tools, methodologies and languages
+
+[Tools, methodologies and languages](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/tool_methodology_language.csv) are demonstrators of skills.
+
+A **(computational) tool** is a software application, platform or system used to perform computational tasks or support research activities.
+Computational tools enable the execution of tasks associated with a skill but do not themselves constitute the skill.
+
+A **programming or data description/exchange language** is a formal language used to write instructions for computers to implement algorithms and develop software that supports research activities or to structure, describe and exchange data in a machine-readable form.
+
+A **methodology** is a structured approach, process or practice used within a skill to organise work, solve problems or guide development and collaboration.
+Methodologies provide conceptual technical or non-technical frameworks for applying skills but are not skills themselves.
+
+#### Learning resources
+
+A [**learning resource**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/learning_resource.csv) is a material or an activity that helps individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
+
+## Data model
+
+See the [framework data model](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework#data-model).
 
 ### Related skills & competencies frameworks
 

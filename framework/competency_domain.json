@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Information and data technologies",
+        "description": "Knowledge and application of methodologies, tools and systems to harness data and drive insight, innovation, and informed decision-making across digital research.",
+        "slug": "information-and-data-technologies",
+        "rank": "10"
+    },
+    {
+        "name": "Software design and development",
+        "description": "Expertise in design and development of software solutions that are robust, sustainable and fit for purpose, enabling scientific and technological progress.",
+        "slug": "software-design-and-development",
+        "rank": "20"
+    },
+    {
+        "name": "Computing infrastructures and systems",
+        "description": "Understanding and oversight of digital infrastructure - encompassing computing, storage and networks - that underpins research, collaboration and digital service delivery.",
+        "slug": "computing-infrastructures-and-systems",
+        "rank": "30"
+    },
+    {
+        "name": "Domain expertise and research",
+        "description": "Disciplinary insight and research acumen, enabling the generation of new knowledge, critical analysis and the application of theory to practice.",
+        "slug": "domain-expertise-and-research",
+        "rank": "40"
+    },
+    {
+        "name": "Professional and people skills",
+        "description": "Core capabilities that enable individuals to operate effectively and ethically within diverse, multidisciplinary and evolving professional environments.",
+        "slug": "professional-and-people-skills",
+        "rank": "50"
+    },
+    {
+        "name": "Communication",
+        "description": "Ability to convey ideas, knowledge and impact across diverse audiences, fostering understanding, knowledge transfer and engagement within and beyond the organisation.",
+        "slug": "communication",
+        "rank": "60"
+    },
+    {
+        "name": "Leadership and management",
+        "description": "The capacity to guide people, projects and organisations with vision and accountability, ensuring strategic alignment, innovation and the effective use of resources.",
+        "slug": "leadership-and-management",
+        "rank": "70"
+    }
+]

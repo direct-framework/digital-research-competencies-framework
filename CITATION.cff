@@ -87,3 +87,6 @@ keywords:
   - drtp
 license: CC-BY-4.0
 version: 2.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19485964

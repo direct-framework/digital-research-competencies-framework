@@ -1,0 +1,1150 @@
+{
+  "competency_domains": [
+    {
+      "title": "Information and data technologies",
+      "description": "Knowledge and application of methodologies, tools and systems to harness data and drive insight, innovation, and informed decision-making across digital research.",
+      "competencies": [
+        {
+          "title": "Data engineering",
+          "description": "Understanding and implementation of practices for data management, quality, accessibility, stewardship and compliance across data lifecycle.",
+          "skills": [
+            {
+              "title": "Data modelling and design",
+              "description": "Ability to plan, architect and implement data systems using appropriate data formats that satisfy research requirements and manage data assets.",
+              "tools_languages_methodologies": "uml|xml|yaml|json",
+              "training_resources": ""
+            },
+            {
+              "title": "Data and database management",
+              "description": "Ability to effectively select a data storage system and store, retrieve, manage and analyse information within it.",
+              "tools_languages_methodologies": "spreadsheets|google-sheets|excel|mysql|sqlite|postgresql|sql-server|oracle|mongodb|redis|db2|toad|dbeaver|azure-data-studio|nosql|rdf|triple-stores|xml-databases|globus|opendap",
+              "training_resources": ""
+            },
+            {
+              "title": "Data and database query languages",
+              "description": "Proficiency in data or database query languages for managing and manipulating data.",
+              "tools_languages_methodologies": "sql|graphql|xml|xquery|sparql",
+              "training_resources": "databases-and-sql-by-the-carpentries"
+            },
+            {
+              "title": "Data acquisition",
+              "description": "Ability to identify, collect and process data effectively using suitable methods, tools and protocols.",
+              "tools_languages_methodologies": "data-collection-techniques|data-collection-tools|google-forms|surveymonkey|qualtrics|querying-an-api|webscraping",
+              "training_resources": ""
+            },
+            {
+              "title": "Data cleaning",
+              "description": "Ability to identify, correct and remove errors, inconsistencies and missing values from datasets.",
+              "tools_languages_methodologies": "openrefine|janitor|data-validator",
+              "training_resources": "kaggle-data-cleaning|library-carpentry-data-cleaning|data-carpentry-data-cleaning"
+            },
+            {
+              "title": "Data wrangling ",
+              "description": "Ability to transform raw, messy data into clean, structured formats suitable for analysis, including cleaning, reshaping, enriching, transforming and integrating data from multiple sources.",
+              "tools_languages_methodologies": "openrefine",
+              "training_resources": "data-wranglers-overview-the-turing-way|finding-your-way-to-r-for-data-science"
+            },
+            {
+              "title": "Data curation",
+              "description": "Ability to steward and enrich data to ensure it is accurate, well-annotated, properly documented, accessible and preserved for long-term reuse.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Metadata standards",
+              "description": "Ability to understand and utilise metadata to ensure data quality, consistency and discoverability.",
+              "tools_languages_methodologies": "json|exif|dublin-core|isadg|edam|schema-org|bioschemas|codemeta",
+              "training_resources": "what-are-metadata-standards-dcc"
+            },
+            {
+              "title": "Data protection and ethics",
+              "description": "Understanding of data protection frameworks and measures to ensure secure and ethical data handling practices.",
+              "tools_languages_methodologies": "gdpr|care-principles-for-indigenous-data-governance",
+              "training_resources": "ethics-and-law-the-turing-way"
+            },
+            {
+              "title": "Data lifecycle management",
+              "description": "Ability to effectively manage data throughout its lifecycle, encompassing planning, collection, organisation, processing, storage, preservation and sharing, ensuring data quality, accessibility, compliance, protection and reuse. ",
+              "tools_languages_methodologies": "data-management-plans|dmponline|persistent-identifiers-pid|fair-data|open-formats|data-versioning|data-citation|care-principles-for-indigenous-data-governance",
+              "training_resources": "data-management-plans-dcc|data-management-plan-the-turing-way|rdmkit|the-fair-principles-the-turing-way|version-control-for-data-the-turing-way|rdmkit"
+            },
+            {
+              "title": "Digitisation of text and images",
+              "description": "Converting physical or analog materials (such as printed documents or photographs) into digital formats making them easier to store, process and share electronically.",
+              "tools_languages_methodologies": "optical-character-recognition-ocr|computer-vision|tesseract",
+              "training_resources": ""
+            },
+            {
+              "title": "Computational scientific workflows (data pipelines)",
+              "description": "Ability to design and implement automated sequences of data processing steps that move and transform data between systems - typically within Workflow Management Systems (WMS) using workflow definition languages.  ",
+              "tools_languages_methodologies": "wdl|cwl|snakefiles|apache-airflow|nextflow-dsl|snakemake|nextflow|galaxy|knime|parsl|snakefiles",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Data science and analytics",
+          "description": "Application of analytical, statistical or machine learning techniques to extract insight and value from complex or large datasets (big data).",
+          "skills": [
+            {
+              "title": "Data analysis",
+              "description": "Ability to process, analyse and interpret data using mathematical and statistical methods.",
+              "tools_languages_methodologies": "stata|sas|mathematica|matlab|nvivo|python|matplotlib|seaborn|r|ggplot2|spss|atlas-ti|spreadsheets|google-sheets|excel|data-analysis-process|normalisation|pandas|numpy",
+              "training_resources": "data-visualisation-the-turing-way|plotting-and-programming-in-python"
+            },
+            {
+              "title": "Data visualisation",
+              "description": "Ability to facilitate understanding of data and communicate data analysis findings effectively through visual representations.",
+              "tools_languages_methodologies": "data-and-information-visualisation-process",
+              "training_resources": ""
+            },
+            {
+              "title": "Data mining",
+              "description": "Ability to discover patterns and insights from large sets of data, using techniques from statistics, machine learning and database systems. ",
+              "tools_languages_methodologies": "scikit-learn|nvivo",
+              "training_resources": ""
+            },
+            {
+              "title": "Big data technologies",
+              "description": "Proficiency in using big data frameworks and methodologies for managing and processing large datasets.",
+              "tools_languages_methodologies": "hadoop|apache-spark|bigquery",
+              "training_resources": ""
+            },
+            {
+              "title": "AI/ML concepts and theory",
+              "description": "Ability to understand and apply fundamental concepts underlying AI/ML systems and applications.",
+              "tools_languages_methodologies": "regression|classification|clustering|decision-trees|model-evaluation-and-validation",
+              "training_resources": ""
+            },
+            {
+              "title": "AI/ML models and technologies",
+              "description": "Ability to design, build, test, and deploy machine learning models and systems as software applications",
+              "tools_languages_methodologies": "supervised-learning|unsupervised-learning|reinforcement-learning|semi-supervised-learning|self-supervised-learning|transfer-learning|generative-models|neural-networks-and-deep-learning|natural-language-processing-nlp|computer-vision|large-language-models-llm|embeddings|tensorflow|pytorch|pytorch-gan|generative-adversarial-network-gan|scikit-learn|xgboost|lightgbm|keras|fastai|mlflow||apache-spark-mllib",
+              "training_resources": "nvidia-deep-learning-institute|google-machine-learning-crash-course|introduction-to-deep-learning-by-the-carpentries|research-software-engineering-sheffield-deep-learning|gan-implementation-in-pytorch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Software design and development",
+      "description": "Expertise in design and development of software solutions that are robust, sustainable and fit for purpose, enabling scientific and technological progress.",
+      "competencies": [
+        {
+          "title": "Web and mobile app development",
+          "description": "Design and development of responsive, secure and user-centric applications across web and mobile platforms.",
+          "skills": [
+            {
+              "title": "General Web technologies and APIs",
+              "description": "Ability to understand, use and implement fundamental technologies for web development and communication.",
+              "tools_languages_methodologies": "https|ssltls|rest|html|soap",
+              "training_resources": ""
+            },
+            {
+              "title": "Web accessibility",
+              "description": "Ability to design and build websites and web applications that are usable by everyone, including individuals with disabilities.",
+              "tools_languages_methodologies": "wave",
+              "training_resources": "introduction-to-web-accessibility"
+            },
+            {
+              "title": "Web frameworks for front-end development",
+              "description": "Proficiency in using programming tools and libraries to build and maintain the interactive and visual aspects of websites and web applications.",
+              "tools_languages_methodologies": "javascript|typescript|react|node-js|css|sass|angular|vue|nuxt|svelte|bootstrap|jquery|tailwind|bulma|wordpress",
+              "training_resources": ""
+            },
+            {
+              "title": "Web frameworks for back-end development",
+              "description": "Ability to use web frameworks to build and maintain server-side applications, including implementing application logic, interacting with databases, and developing APIs for data and service access.",
+              "tools_languages_methodologies": "django|flask|dash|shiny|ruby-on-rails|fastapi|dart|flutter|react-native|node|express|next|nest|php|streamlit|jekyll",
+              "training_resources": ""
+            },
+            {
+              "title": "Website development",
+              "description": "Ability to create Web pages or websites to maintain a presence on the World Wide Web.",
+              "tools_languages_methodologies": "html|css|sass|markdown|github-pages|wordpress|json|javascript",
+              "training_resources": ""
+            },
+            {
+              "title": "Mobile app development",
+              "description": "Ability to design, implement and optimise the user interface and user experience of mobile applications, translating design concepts into functional, responsive, and visually engaging app interfaces.",
+              "tools_languages_methodologies": "react-native|xamarin|flutter|swift|dart",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Software engineering",
+          "description": "Application of structured approaches, theory and supporting tools to plan, develop, test and maintain high-quality and secure software applications and systems.",
+          "skills": [
+            {
+              "title": "Compiling code",
+              "description": "Understanding how compilers translate high-level languages into machine code, including concepts like lexical analysis, parsing and code optimisation.",
+              "tools_languages_methodologies": "yacc|bison|lex|compilers",
+              "training_resources": ""
+            },
+            {
+              "title": "Programming",
+              "description": "Writing code using the knowledge of programming languages - understanding syntax, algorithms, code and data structures.",
+              "tools_languages_methodologies": "algorithms|c|c-sharp|c-plus-plus|fortran|java|julia|matlab|python|r|ruby|shell-scripting|bash|makefiles|ide|javascript|pascal|rust|typescript|prolog|lisp|jupyter-notebooks|pandas|numpy|rstudio|scala",
+              "training_resources": "scientific-python-development-guide|introduction-to-good-practices-in-research-software-development-by-the-carpentries|building-better-research-software"
+            },
+            {
+              "title": "Generative AI",
+              "description": "Ability to leverage AI tools to augment and enhance traditional software development processes.",
+              "tools_languages_methodologies": "hugging-face-transformers|openai|chatgpt|google-gemini|diffusers|tensorflow-gan|pytorch|pytorch-gan|generative-adversarial-network-gan|langchain|gradio|streamlit|google-cloud-for-ai|aws-sagemaker|azure-ai|prompt-engineering|microsoft-copilot|github-copilot",
+              "training_resources": "gan-implementation-in-pytorch"
+            },
+            {
+              "title": "Reading and understanding code and documentation",
+              "description": "Comprehending technical documents to grasp software functionality, architecture and usage.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Text mining",
+              "description": "Ability to design expressions to match specific patterns within textual data.",
+              "tools_languages_methodologies": "regular-expressions",
+              "training_resources": "library-carpentry-introduction-to-regular-expressions"
+            },
+            {
+              "title": "Computer modelling and simulation",
+              "description": "Ability to develop and use computational models to represent real-world systems and simulate their behaviour under different conditions.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Numerical analysis",
+              "description": "Ability to develop, apply and improve numerical methods to approximate solutions to mathematical problems.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Coding conventions, code formatting and linting",
+              "description": "Understanding and applying coding standards, using code formatting tools and linters to ensure code quality consistency and readability.",
+              "tools_languages_methodologies": "linters|static-program-analysis|jslint|eslint|black|ruff|lintr|styler",
+              "training_resources": "code-styling-and-linting-the-turing-way|building-better-research-software"
+            },
+            {
+              "title": "Software testing",
+              "description": "Ability to design, execute and analyse various types of tests, covering both manual and automated techniques.",
+              "tools_languages_methodologies": "unit-testing|integration-testing|system-testing|acceptance-testing|postman|cypress|sonarqube|pytest|pyunit|jest|mocha|jasmine|karma|junit|mockito|test-driven-development|github-actions",
+              "training_resources": "code-testing-the-turing-way|building-better-research-software"
+            },
+            {
+              "title": "Software debugging",
+              "description": "Ability to use various techniques and tools to identify, isolate and fix errors in software code.",
+              "tools_languages_methodologies": "gdb",
+              "training_resources": ""
+            },
+            {
+              "title": "Code review",
+              "description": "Ability to effectively evaluate and improve the quality of code by understanding the code structure, logic as well as soft skills like clear communication and constructive feedback",
+              "tools_languages_methodologies": "pair-programming|pull-requests",
+              "training_resources": "mini-toolkit-code-review-anxiety-workbook|how-to-make-good-code-reviews-better"
+            },
+            {
+              "title": "Profiling and optimising code",
+              "description": "Ability to analyse code execution, identify performance bottlenecks and implement changes to improve efficiency and responsiveness.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Log analysis",
+              "description": "Ability to use log analysis tools, identify patterns and anomalies and interpret log data to diagnose issues and improve system performance.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Software version control",
+              "description": "Ability to use tools and techniques to track and manage changes to source code, ensuring efficient development and collaboration.",
+              "tools_languages_methodologies": "git|mercurial|svn|github|gitlab|bitbucket",
+              "training_resources": "carpentries-courses|github-documentation|version-control-the-turing-way|collaborative-version-control-with-git-and-github-by-the-carpentries"
+            },
+            {
+              "title": "Software validation and verification",
+              "description": "Ensuring that a software system meets specifications and fulfills its intended purpose.",
+              "tools_languages_methodologies": "sonarqube|checkmarx|jprofiler|system-testing|selenium|cypress",
+              "training_resources": ""
+            },
+            {
+              "title": "Good software practices",
+              "description": "Understanding of and expertise in developing and maintaining software that adheres to the \"good\" software practices and knowledge of tools that test for them.",
+              "tools_languages_methodologies": "fair-software|codecheck|fairsoft|citation-cff|codemeta|software-quality-practices",
+              "training_resources": "an-r-reproducibility-toolkit-for-the-practical-researcher|rsqkit"
+            },
+            {
+              "title": "Documenting software",
+              "description": "Ability to create clear, concise and comprehensive technical documentation that communicates the design, functionality and usage of a software product.",
+              "tools_languages_methodologies": "markdown|read-the-docs|mkdocs|sphynx|markdown|r-markdown|quarto|docstrings|javadoc|jsdoc|readme|citation-cff|cffinit|code-of-conduct|contribution-guidelines",
+              "training_resources": "ditaxis|datasheets-for-datasets|model-cards-for-model-reporting|project-documentation-the-turing-way|ols-lesson"
+            },
+            {
+              "title": "Intellectual Property (IP) and software licensing",
+              "description": "Understanding Intellectual Property (IP) -  who owns or controls creative work (including software) - and software licensing as the legal mechanism that grants others the right to use, modify or distribute software.",
+              "tools_languages_methodologies": "free-and-open-source-licences",
+              "training_resources": "ols-lesson|licensing-the-turing-way|choose-an-open-source-license|tldrlegal"
+            },
+            {
+              "title": "Packaging and releasing code",
+              "description": "Preparing software for distribution, including compiling, bundling dependencies, versioning, preparing release notes and creating installable or deployable artifacts.",
+              "tools_languages_methodologies": "pypi|conda-forge|docker-hub|github-container-registry-ghcr|github-releases|spack-io|cmake|docker|zip-files|executables|yaml|json|toml|binary-executables",
+              "training_resources": "pyopensci-packages|ropensci-packages"
+            },
+            {
+              "title": "Deploying code",
+              "description": "Ability to take packaged software and make it available in target environments, including provisioning infrastructure, configuring services, rolling out updates, managing rollbacks and ensuring minimal downtime.",
+              "tools_languages_methodologies": "ansible|jenkins|github-actions|gitlab-cicd|travis-ci|azure-devops|aws-codepipeline|bitbucket-pipelines",
+              "training_resources": "continuous-integration-the-turing-way"
+            },
+            {
+              "title": "Containerisation",
+              "description": "Ability to package, deploy and manage applications using containers, enabling consistent and reliable execution across diverse environments.",
+              "tools_languages_methodologies": "docker|singularity|apptainer|kubernetes|argo|argo-cd",
+              "training_resources": "reproducible-computational-environment-with-docker"
+            },
+            {
+              "title": "Task automation",
+              "description": "Expertise in creation and maintenance of automated scripts and workflows that build, test and deploy software.",
+              "tools_languages_methodologies": "makefiles|ansible|jenkins|github-actions|gitlab-cicd|travis-ci|azure-devops|aws-codepipeline|bitbucket-pipelines",
+              "training_resources": ""
+            },
+            {
+              "title": "Green computing",
+              "description": "Understanding of environmentally sustainable computing - environmental consequences of software development and deployment, including energy consumption, resource usage and the overall carbon footprint of the software lifecycle.",
+              "tools_languages_methodologies": "",
+              "training_resources": "green-software-foundation|digital-humanities-climate-coalition-toolkit|green500"
+            },
+            {
+              "title": "Parallel programming",
+              "description": "Applying core parallel software design concepts, methodologies and algorithms for writing parallel code.",
+              "tools_languages_methodologies": "parallel-data-and-task-decomposition|algorithm-scalability-design|load-balancing|memory-hierarchy-and-data-locality-optimisation|communication-optimisation|synchronisation-and-concurrency-control|message-passing-interface-mpi|shared-memory-programming|message-passing-parallelism-mpp|openmp|cuda|single-instruction-multiple-data-simd|openacc|hip|sycl|dpc-plus-plus|memory-hierarchies|multi-threading|multi-processing|posix-threads|concurrent-futures|message-passing-interface-mpi|dask|locks|semaphores|atomic-operations|signals",
+              "training_resources": "introduction-to-parallel-computing|the-art-of-multiprocessor-programming|parallel-and-high-performance-computing|parallel-scaling-guide|accelerator-and-gpu-programming|introduction-to-parallel-programming-by-the-carpentries"
+            },
+            {
+              "title": "Programming paradigms",
+              "description": "Ability to understand and apply different approaches to structuring and organising code.",
+              "tools_languages_methodologies": "functional-programming|lisp|object-oriented-programming-oop|java|python|smalltalk|procedural-programming|pascal|fortran|cobol|logic-programming|prolog",
+              "training_resources": ""
+            },
+            {
+              "title": "Software patterns ",
+              "description": "Ability to identify, understand and apply well-established, reusable solutions to common problems in software development.",
+              "tools_languages_methodologies": "algorithms|design-patterns",
+              "training_resources": ""
+            },
+            {
+              "title": "APIs",
+              "description": "Ability design and use Application Programming Interfaces (APIs) that effectively facilitate communication between different software systems.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Software requirements",
+              "description": "Ability to effectively elicit, analyse and document the needs and requirements of stakeholders, translating them into a clear and actionable set of software specifications.",
+              "tools_languages_methodologies": "",
+              "training_resources": "interviews-with-end-users-of-the-software"
+            },
+            {
+              "title": "Software architecture and design",
+              "description": "Ability to conceptualise and design the foundational structure of a software system aligned with stakeholder requirements.",
+              "tools_languages_methodologies": "entity-relationship-diagrams-erd|microservices|model-view-controller-mvc|uml|n-tier-architecture|design-patterns",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "User Interface / User Experience (UI/UX) design",
+          "description": "Creating intuitive, inclusive and engaging digital experiences through thoughtful design and user-centered practices.",
+          "skills": [
+            {
+              "title": "Designing user interfaces",
+              "description": "Proficiency in design principles, best practices, heuristic, tools and understanding of user behaviour for interface design.",
+              "tools_languages_methodologies": "wireframing|pyside|tkinter|pyqt|qt|graphical-user-interfaces",
+              "training_resources": ""
+            },
+            {
+              "title": "Designing user experience",
+              "description": "Understanding user needs through research, creating intuitive interfaces via wireframing and prototyping and ensuring usability through testing.",
+              "tools_languages_methodologies": "wireframing|graphical-user-interfaces",
+              "training_resources": ""
+            },
+            {
+              "title": "Accessible design",
+              "description": "Ability to design and develop user interfaces and experiences that are usable by people with a wide range of abilities and disabilities.",
+              "tools_languages_methodologies": "wcag|colour-contrast-checking",
+              "training_resources": "webaim-accesibility-resources"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Computing infrastructures and systems",
+      "description": "Understanding and oversight of digital infrastructure - encompassing computing, storage and networks - that underpins research, collaboration and digital service delivery.",
+      "competencies": [
+        {
+          "title": "General systems infrastructure",
+          "description": "Broad understanding of digital infrastructure - including hardware, networks and system integration that supports everyday operations and research.",
+          "skills": [
+            {
+              "title": "Hardware systems",
+              "description": "Knowledge of the physical components (including CPUs, GPUs, memory and accelerators) that support small and large-scale computational tasks.",
+              "tools_languages_methodologies": "nfs|server-message-block-smb|memory-hierarchies|cpus|gpus",
+              "training_resources": ""
+            },
+            {
+              "title": "Storage systems",
+              "description": "Ability to design, configure, manage and optimise systems used to store, organise, protect, and retrieve digital data, including storage hardware, storage architectures, data management strategies and reliability mechanisms.",
+              "tools_languages_methodologies": "nfs|storage-hardware|storage-architecture|data-redundancy-and-reliability|data-availability-and-capacity-planning|opendap",
+              "training_resources": ""
+            },
+            {
+              "title": "Network architecture design",
+              "description": "Ability to design and optimise network structures and topologies to ensure reliable, secure and high-performance communication between systems, considering factors such as scalability, latency, bandwidth and fault tolerance.",
+              "tools_languages_methodologies": "network-topology-design|routing-and-traffic-engineering|network-performance-analysis|network-resilience-and-fault-tolerance|infiniband|network-architecture",
+              "training_resources": ""
+            },
+            {
+              "title": "Network communication protocols",
+              "description": "Understanding how information is transmitted, routed and received across networks.",
+              "tools_languages_methodologies": "internet-protocol-ip|ipsec|tcp|udp|https|dns|ftpsftp|websocket|routing-algorithms|border-gateway-protocol-bgp|smtp|imap|pop3|infiniband",
+              "training_resources": ""
+            },
+            {
+              "title": "Network and application security",
+              "description": "Proficiency in protecting networks, systems and applications from security threats.",
+              "tools_languages_methodologies": "ipsec|ssh|ssltls|https|encryption|authentication|authorisation-and-access-control|vulnerability-management|firewalls|microsoft-defender|iptables|nftables|pf|aws-web-application-firewall|azure-firewall|google-cloud-armor|cloudflare",
+              "training_resources": "what-is-authorization-and-access-control"
+            },
+            {
+              "title": "Systems architecture and infrastructure design",
+              "description": "Ability to design integrated computing systems by selecting and organising compute, storage, and networking components to meet performance, scalability and reliability requirements.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "System configuration and administration",
+              "description": "Ability to configure, manage and maintain systems to support live applications and services.",
+              "tools_languages_methodologies": "operating-systems|linux|unix|microsoft-windows|macos|posix-file-permissions|unix-domain-sockets|immutable-operating-systems|ansible|singularity|sylc|terraform|helm|packer|argo|argo-cd",
+              "training_resources": ""
+            },
+            {
+              "title": "Environment and package management",
+              "description": "Technical proficiency in sourcing, compiling, building and adminstrating software environments (software packages and dependencies).",
+              "tools_languages_methodologies": "cmake|spack-io|eessi-io|lmod|building-systems-from-source|binary-executables",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Cloud infrastructure",
+          "description": "Cloud platforms and computing for flexible, scalable and cost-effective computing, storage, and data services.",
+          "skills": [
+            {
+              "title": "Cost modelling",
+              "description": "Ability to estimate, monitor and optimise the cost of cloud resources and services.",
+              "tools_languages_methodologies": "cloud-cost-calculators|aws-pricing-calculator|azure-calculator|simgrid|slurm-accounting-tools|remora",
+              "training_resources": "green500"
+            },
+            {
+              "title": "Serverless computing",
+              "description": "Proficiency in serverless technologies, understanding of event-driven architectures and a cloud computing execution model that allows one to build and run application code without provisioning or managing servers or back-end infrastructure and allocates machine resources on an as-used basis. ",
+              "tools_languages_methodologies": "netlify|aws-lambda|azure-functions|google-cloud-functions",
+              "training_resources": ""
+            },
+            {
+              "title": "Cloud computing",
+              "description": "Ability to work with cloud services, platforms, and technologies in a cost-efficient and optimised manner.",
+              "tools_languages_methodologies": "terraform|aws|azure",
+              "training_resources": "optimize-athena-performance"
+            },
+            {
+              "title": "Virtualisation and container infrastructure",
+              "description": "Ability to create, manage, orchestrate and troubleshoot virtualisation technologies, including the ability to deploy, scale, and monitor applications running within them.",
+              "tools_languages_methodologies": "docker|vmware|virtualbox|oracle-virtualbox|microsoft-hyper-v|singularity|apptainer|awx|ansible|netbox|kro|pulumi|podman",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "HPC infrastructure",
+          "description": "Knowledge of high-performance computing systems and practices that support data- or compute-intensive computational research and large-scale simulations.",
+          "skills": [
+            {
+              "title": "Supercomputer architecture",
+              "description": "Understanding of supercomputer architectures (e.g., node types, interconnects, storage systems).",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "High-performance storage systems",
+              "description": "Ability to design, configure and use storage systems that allow multiple processes or compute nodes to read and write data simultaneously, enabling high-throughput data access in parallel and distributed computing environments.",
+              "tools_languages_methodologies": "gpfs|lustre|aws-s3|beegfs|parallel-file-systems|fast-storage|storage-performance-management",
+              "training_resources": ""
+            },
+            {
+              "title": "Cluster infrastructure",
+              "description": "Familiarity with cluster infrastructure's physical components including compute nodes, head nodes, login nodes, interconnects, networking, lock management.",
+              "tools_languages_methodologies": "redhat-cluster-suite",
+              "training_resources": "cloud-native-glossary|redhat-cluster-suite"
+            },
+            {
+              "title": "HPC software stack",
+              "description": "Understanding of the layered software environment that enables high-performance computing, including operating systems, compilers, libraries, middleware, runtimes, and scientific applications. This includes configuring, deploying, and maintaining software to support efficient and reproducible computation on HPC systems.",
+              "tools_languages_methodologies": "operating-systems|linux|unix|compilers|gcc|nvidia-hpc-sdk|libraries|message-passing-interface-mpi|openmp|blas|lapack|cuda||gdb|valgrind|intel-vtune|nvidia-nsight|binary-executables",
+              "training_resources": ""
+            },
+            {
+              "title": "Cluster management",
+              "description": "Managing and maintaining HPC clusters to ensure reliability, performance, and availability. This includes system configuration, resource allocation, user and quota management, security, monitoring, upgrades, and troubleshooting hardware and software issues in multi-user, large-scale computing environments.",
+              "tools_languages_methodologies": "xcat|ansible|nagios|prometheus|grafana|warewulf|ganglia",
+              "training_resources": ""
+            },
+            {
+              "title": "Job scheduling and resource management",
+              "description": "Understanding of job schedulers and resource management to allocate compute resources effectively. This includes writing job submission scripts, understanding queue policies, optimising resource requests, and supporting fair and efficient use of shared HPC infrastructure.",
+              "tools_languages_methodologies": "job-scheduling|load-balancing|simple-linux-utility-for-resource-management-slurm|portable-batch-system-pbs|load-sharing-facility-lsf|htcondor|oracle-grid-engine|cgroups",
+              "training_resources": ""
+            },
+            {
+              "title": "Performance analysis and optimisation",
+              "description": "Ability to profile and benchmark applications to identify bottlenecks and optimise applications and systems on HPC systems for high performance.",
+              "tools_languages_methodologies": "hpctoolkit|extrae|paraver|scalasca|vampir|arm-performance-reports|arm-map|intel-advisor|tau|reframe|excalibur-tests",
+              "training_resources": ""
+            },
+            {
+              "title": "Parallel computing and usage of HPC systems",
+              "description": "Understaning of cluster operation and proficiency in using HPC infrastructures and running, scaling and optimising parallel applications on high-performance computing systems.",
+              "tools_languages_methodologies": "scalability-analysis|post-processing|load-balancing|hpc-tiers|memory-hierarchies|cuda|distributed-computing|apache-spark|ray",
+              "training_resources": "introduction-to-parallel-computing|the-art-of-multiprocessor-programming|parallel-and-high-performance-computing"
+            }
+          ]
+        },
+        {
+          "title": "Web infrastructure",
+          "description": "Design, deployment, and maintenance of the technologies that support robust, scalable, and secure online platforms and services.",
+          "skills": [
+            {
+              "title": "Web protocols",
+              "description": "Ability to understand, implement, and manage the various communication standards that govern data exchange on the Web.",
+              "tools_languages_methodologies": "https|ssltls|dns",
+              "training_resources": ""
+            },
+            {
+              "title": "Web security",
+              "description": "Ability to protect websites, Web applications and web infrastructure from various online threats and vulnerabilities.",
+              "tools_languages_methodologies": "ssltls|ipsec|ssh|public-key-certificates|https",
+              "training_resources": ""
+            },
+            {
+              "title": "Web and application servers",
+              "description": "Ability to manage and maintain the infrastructure that hosts websites and Web applications and services.",
+              "tools_languages_methodologies": "apache-web-server|nginx|apache-tomcat|node-js|wildfly",
+              "training_resources": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional and people skills",
+      "description": "Core capabilities that enable individuals to operate effectively and ethically within diverse, multidisciplinary and evolving professional environments.",
+      "competencies": [
+        {
+          "title": "Personal skills",
+          "description": "Self-management capabilities such as initiative, adaptability, resilience, time management and a commitment to continuous learning.",
+          "skills": [
+            {
+              "title": "Analytical skills and problem solving",
+              "description": "Ability to break down complex problems, evaluate information and available options critically, and select the most effective solution based on logical reasoning.",
+              "tools_languages_methodologies": "",
+              "training_resources": "introducing-computational-thinking"
+            },
+            {
+              "title": "Curiosity",
+              "description": "Being inquisitive and willing to ask questions, explore new ideas and seek deeper understanding.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Positive engagement",
+              "description": "Demonstrating a genuine interest, energy, enthusiasm and positive attitude toward tasks, learning and collaboration.",
+              "tools_languages_methodologies": "",
+              "training_resources": "improv-yes-and-exercise"
+            },
+            {
+              "title": "Adaptability",
+              "description": "Ability to adjust to new conditions, changes in the environment or unexpected challenges.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Resilience",
+              "description": "Ability to recover from setbacks, cope with stress and maintain motivation and focus in face of difficulties.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Business acumen",
+              "description": "Understanding and application of fundamental business principles to make informed decisions that drive success.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Integrity and ethics",
+              "description": "Being ethical, acting with honesty, fairness and respect and upholding strong moral principles even when it is difficult or inconvenient.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Goal-setting",
+              "description": "Ability to identify, plan and work toward achievable objectives, both short- and long-term, with focus and discipline.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Innovation and creativity",
+              "description": "Ability to think outside the box, generate new ideas and find novel solutions to problems or opportunities.",
+              "tools_languages_methodologies": "design-thinking",
+              "training_resources": ""
+            },
+            {
+              "title": "Time management and context switching",
+              "description": "Ability to effectively prioritise and shift focus between competing demands, manage deadlines and allocate time across multiple responsibilities without sacrificing quality.",
+              "tools_languages_methodologies": "workspace-management|time-management",
+              "training_resources": ""
+            },
+            {
+              "title": "Maintaining focus",
+              "description": "Ability to concentrate on a specific task despite distractions.",
+              "tools_languages_methodologies": "pomodoro",
+              "training_resources": ""
+            },
+            {
+              "title": "Decision making",
+              "description": "Ability to assess information, weigh options, consider potential outcomes and choose the best course of action in a given situation.",
+              "tools_languages_methodologies": "decision-making-processes",
+              "training_resources": ""
+            },
+            {
+              "title": "Understanding of mental health, stress and burnout",
+              "description": "Awareness of emotional well-being, recognising signs of stress or burnout in yourself and others, and applying strategies for maintaining mental health.",
+              "tools_languages_methodologies": "",
+              "training_resources": "task-management-for-humans-as-self-care-summary-and-setup|mental-health-free-courses-open-university"
+            },
+            {
+              "title": "Self-reflection",
+              "description": "Ability to conduct reflective practice and identify opportunities for growth and improvement.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Interpersonal skills",
+          "description": "Ability to build rapport, demonstrate empathy, navigate social dynamics and communicate effectively in diverse professional settings",
+          "skills": [
+            {
+              "title": "Cultural awareness and sensitivity",
+              "description": "Ability to recognise, respect, and appropriately respond to cultural differences in beliefs, behaviors, and communication styles",
+              "tools_languages_methodologies": "",
+              "training_resources": "the-culture-map-by-erin-meyer"
+            },
+            {
+              "title": "Emotional intelligence, empathy and respect for others",
+              "description": "Ability to understand, manage and respond to your own emotions and those of others, fostering trust, respect and effective communication.",
+              "tools_languages_methodologies": "",
+              "training_resources": "the-benefits-of-mindfulness-and-five-common-myths-surrounding-it|10-ways-to-be-respectful"
+            },
+            {
+              "title": "Patience",
+              "description": "Ability to remaining calm, tolerant and professional during complex or slow processes.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "EDIA awareness",
+              "description": "Understanding principles of Equity, Diversity, Inclusion, and Accessibility (EDIA), and actively applying inclusive practices in your work and environment.",
+              "tools_languages_methodologies": "recognising-stereotypes",
+              "training_resources": "ally-skills-training|understanding-neurodiversity"
+            },
+            {
+              "title": "Recognising stereotypes and unconscious bias",
+              "description": "Identifying automatic, often unconscious, biases - in oneself, collegues or community - and consciously challenging them to avoid discrimination.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Conflict prevention and resolution",
+              "description": "Ability to identify potential sources of conflict and address them constructively through communication, compromise and mediation.",
+              "tools_languages_methodologies": "",
+              "training_resources": "difficult-conversations-how-to-discuss-what-matters-most|bringing-up-problems-at-work-without-making-things-worse|how-to-say-no-at-work-without-guilt-or-conflict|handling-conflict"
+            },
+            {
+              "title": "Influencing, persuasion and negotiation",
+              "description": "Communicating effectively to shape opinions, reach agreements, and achieve mutually beneficial outcomes while respecting others' viewpoints",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Teamwork",
+          "description": "Working constructively and inclusively with others to achieve shared goals, contribute to group problem-solving and foster a positive team culture.",
+          "skills": [
+            {
+              "title": "Asking for help or asking to understand",
+              "description": "Willingness to seek clarification, request support or ask thoughtful questions to enhance understanding and avoid mistakes.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Collaboration",
+              "description": "Working effectively with others, sharing resources and coordinating efforts to achieve shared objectives.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Using collaborative tools",
+              "description": "Ability to effectively use collaborative platforms and tools for sharing ideas, content and real-time collaboration across distances.",
+              "tools_languages_methodologies": "slack|mattermost|microsoft-teams|google-docs|github|codimd|hedgedoc|dropbox",
+              "training_resources": "a-guide-to-using-virtual-events-to-facilitate-community-building-selecting-and-testing-online-tools"
+            },
+            {
+              "title": "Understanding, extracting and documenting other people's ideas or knowledge",
+              "description": "Ability to actively listen, ask clarifying questions and accurately capture and organise another person’s insights or expertise for shared use.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Leadership and management",
+      "description": "The capacity to guide people, projects and organisations with vision and accountability, ensuring strategic alignment, innovation and the effective use of resources.",
+      "competencies": [
+        {
+          "title": "People and team management",
+          "description": "Guiding and supporting individuals and teams to achieve their potential, with attention to wellbeing, performance and professional growth.",
+          "skills": [
+            {
+              "title": "Team management",
+              "description": "Ability to lead, coordinate and motivate a group of individuals to achieve common goals.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Team performance management",
+              "description": "Ability to set goals, monitor progress, provide feedback and evaluate performance of team members to improve efficiency and effectiveness.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Recruiting people",
+              "description": "Ability to recruite suitable candidates for a position, including the creation of clear and effective job descriptions that outline roles, responsibilities, qualifications and expectations.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Team building and development",
+              "description": "Ability to bring new people, improve skills, knowledge, and overall capabilities in a team, and foster a positive and collaborative environment that enhances teamwork.",
+              "tools_languages_methodologies": "",
+              "training_resources": "exploring-career-mentoring-and-coaching"
+            },
+            {
+              "title": "Acknowledgement of contributions",
+              "description": "Acknowledging and appreciating contributions and achievements of team members, reinforcing positive behavior and boosting morale.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Shielding colleagues from destructive criticism",
+              "description": "Protecting team members from unconstructive or harmful feedback by offering support and ensuring criticism is delivered in a constructive, respectful manner.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Understanding other people's goals and motivations",
+              "description": "Ability to empathise with and gain insight into the personal and professional goals of others, allowing for better collaboration, conflict resolution and alignment within teams.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Leadership",
+          "description": "Setting direction, inspiring others and making strategic decisions that align people and projects with broader institutional or organisational goals.",
+          "skills": [
+            {
+              "title": "Long-term strategic planning",
+              "description": "Ability to do horizon scanning (identify emerging trends, technologies, risks and opportunities and anticipate their impact on research) in order to develop a roadmap for an organisation or initiative's future direction over an extended period of time.",
+              "tools_languages_methodologies": "",
+              "training_resources": "futures-foresight-and-horizon-scanning"
+            },
+            {
+              "title": "Mentoring and coaching",
+              "description": "Providing guidance, support and advice to a less experienced individual to help them grow personally and professionally.",
+              "tools_languages_methodologies": "",
+              "training_resources": "exploring-career-mentoring-and-coaching"
+            },
+            {
+              "title": "Motivation and inspiration",
+              "description": "Ability to encourage, energise, and empower others to take action, pursue goals, or strive for continuous improvement",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Business development and grant proposal writing ",
+              "description": "Understanding the needs and interests of potential funders or decision-makers, articulating the goals and benefits of the proposed project or business case in a clear and persuasive way and providing strong justification for why it should be supported.  ",
+              "tools_languages_methodologies": "software-management-plans|data-management-plans",
+              "training_resources": "everything-you-wanted-to-know-about-applying-for-grants-but-didnt-ask|how-to-write-a-good-application|funding-higher-education-in-england|funding-higher-education-in-wales|funding-higher-education-in-scotland|funding-higher-education-in-northern-ireland|uk-research-funding-model|budget-allocations-for-uk-research-and-innovation|ukris-guide-to-appling-for-funding"
+            },
+            {
+              "title": "Setting policies and guidelines",
+              "description": "Ability to analyse processes, identify areas for improvement and design clear policies and practical guidelines that establish standards, expectations or good practices within a project, organisation or across institutions.",
+              "tools_languages_methodologies": "",
+              "training_resources": "10-simple-rules-for-writing-10-simple-rules-papers"
+            },
+            {
+              "title": "Leading change",
+              "description": "Ability to create a shift in mindset and behavior, empowering individuals and ensuring that the change is sustainable in the long run - drawing on emotional intelligence, strategic thinking, communication and organisational management.",
+              "tools_languages_methodologies": "",
+              "training_resources": "leadership-and-followership"
+            },
+            {
+              "title": "Setting a mission",
+              "description": "Ability to define and articulate a clear mission that expresses the purpose, goals, and intended impact of a project, initiative, team or organisation, providing direction and alignment for decision-making and activities.",
+              "tools_languages_methodologies": "",
+              "training_resources": "missions-a-beginners-guide"
+            },
+            {
+              "title": "Starting an organisation",
+              "description": "Conceive, establish and formally structure a new entity, including defining its mission and scope, setting up governance and operational processes, securing resources, and ensuring legal, financial, and technical foundations are in place",
+              "tools_languages_methodologies": "",
+              "training_resources": "open-source-project-culture-and-practices|how-to-build-a-skills-based-organisation-in-5-steps|how-to-start-a-nonprofit-organisation-in-the-uk"
+            }
+          ]
+        },
+        {
+          "title": "Programme and project management",
+          "description": "Planning, coordinating and delivering projects effectively within defined scope, time and resource constraints, while managing risk and quality.",
+          "skills": [
+            {
+              "title": "Project scoping and setting realistic goals",
+              "description": "Ability to define and clarify the boundaries, objectives and expected outcomes of a project, ensuring that they are achievable, measurable and aligned with the available resources.",
+              "tools_languages_methodologies": "software-management-plans|data-management-plans",
+              "training_resources": ""
+            },
+            {
+              "title": "Project management",
+              "description": "Knowledge of the frameworks, processes and best practices that guide how a project is planned, executed, monitored and evaluated.",
+              "tools_languages_methodologies": "agile|scrum|waterfall|prince2|delegation",
+              "training_resources": "university-of-manchester-internal-agilescrum-course-work-in-progress|cscces-project-management-for-stem-professionals|harvard-business-review-project-management-handbook-how-to-launch-lead-and-sponsor-successful-projects"
+            },
+            {
+              "title": "Budget management",
+              "description": "Ability to plan, allocate, monitor and control financial resources to ensure that activities are delivered within budget while meeting objectives.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Task management",
+              "description": "Ability to effectively identify, break down, organise, assign, prioritise and track tasks and the use of resources (time, money and human resources) to ensure goals are achieved efficiently, within scope, and on schedule.",
+              "tools_languages_methodologies": "github-issues|github-projects|asana|trello|gantt-charts",
+              "training_resources": "task-management-wikipedia"
+            },
+            {
+              "title": "Portfolio management",
+              "description": "Ability to oversee and manage a programme of work or a collection of projects within an organisation to ensure that they align with the strategic goals, priorities and resource availability.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Risk management",
+              "description": "Ability to identify, assess, mitigate and monitor risks that could negatively affect a project, organisation or process.",
+              "tools_languages_methodologies": "risk-matrix",
+              "training_resources": ""
+            },
+            {
+              "title": "Crisis and change management",
+              "description": "Ability to effectively navigate and manage sudden, unexpected situations (crisis) and significant transformations (change) within an organisation or project.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Event management",
+              "description": "Ability to plan, organise and execute events efficiently, ensuring that all aspects are well-coordinated and meet the goals of the event.",
+              "tools_languages_methodologies": "",
+              "training_resources": "event-organisation-guide"
+            },
+            {
+              "title": "Stakeholder management",
+              "description": "Ability to manage expectations of different stakeholders (e.g. partners and PIs), negotiation between partner needs and RSE practicalities.",
+              "tools_languages_methodologies": "stakeholder-analysis",
+              "training_resources": ""
+            },
+            {
+              "title": "Content and knowledge management",
+              "description": "Ability to organise, store, share and leverage information and resources within an organisation or community effectively making it easily accessible, well-documented and utilised in decision-making, problem-solving and innovation.",
+              "tools_languages_methodologies": "content-management-systems|microsoft-sharepoint|google-docs|google-sheets|atlassian-confluence|wordpress|drupal",
+              "training_resources": ""
+            },
+            {
+              "title": "Meeting chairing and management",
+              "description": "Ability to lead and facilitate meetings effectively, ensuring they are well-organised, productive, achieve their objectives and encourage respectful and active participant engagement.",
+              "tools_languages_methodologies": "setting-agenda|guiding-discussions|meeting-rules|code-of-conduct",
+              "training_resources": ""
+            },
+            {
+              "title": "Understanding institutional bureaucracy or politics",
+              "description": "Ability to navigate and make sense of the complex structures, rules, power dynamics and interpersonal relationships within academic institutions.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Gathering and understanding stakeholder requirements",
+              "description": "Ability to actively listen to and engage with users, funders and other stakeholders to identify their needs, expectations and constraints - including asking the right questions, clarifying assumptions and documenting requirements in a way that can guide project planning and delivery.",
+              "tools_languages_methodologies": "stakeholder-analysis",
+              "training_resources": ""
+            },
+            {
+              "title": "Stakeholder and user engagement",
+              "description": "Building and maintaining positive relationships with stakeholders or users by communicating clearly, understanding their needs, involving them in the process, gathering feedback and providing value and ensuring satisfaction with the final product or service.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Domain expertise and research",
+      "description": "Disciplinary insight and research acumen, enabling the generation of new knowledge, critical analysis and the application of theory to practice.",
+      "competencies": [
+        {
+          "title": "Domain knowledge",
+          "description": "Deep understanding of the concepts, challenges, and methodologies specific to a particular scientific field",
+          "skills": [
+            {
+              "title": "Domain-specific background knowledge",
+              "description": "An understanding of concepts, theories, and best practices within a particular field or discipline.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Translating technical language for all stakeholders",
+              "description": "Translating between technical software engineering concepts and the language of non-software-engineer stakeholders, such as researchers, scientists or other business or academic teams.",
+              "tools_languages_methodologies": "simplifying-technical-jargon",
+              "training_resources": ""
+            },
+            {
+              "title": "Adaptability of technical skills across domains",
+              "description": "Ability to apply scientific, technical or engineering methodologies to different domains and problems.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Specialist technical or hardware knowledge",
+              "description": "Knowledge of specialised computer or hardware systems designed to control specific functions within a larger device or machine",
+              "tools_languages_methodologies": "embedded-systems|medical-devices|radars|satellite-hardware|raspberry-pi|arduino|sensors|controlling-actuators|system-on-a-chip-soc|internet-of-things-iot",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Research skills",
+          "description": "Conducting rigorous inquiry, including problem formulation, experimental design, critical analysis and dissemination of findings.",
+          "skills": [
+            {
+              "title": "Research methodologies",
+              "description": "Expertise in research methodology - formulating testable predictions based on observations, theories or existing knowledge and systematically evaluating them through empirical methods.",
+              "tools_languages_methodologies": "qualitative-methods|quantitative-methods|experimental-design|systematic-literature-review|simulations|matlab|labview|reference-management|zotero|endnote|mendeley|rayyan|covidence|paper-digest|connected-papers|preregistration",
+              "training_resources": "reference-management-a-practical-guide"
+            },
+            {
+              "title": "Finding, understanding and synthesising relevant information",
+              "description": "Ability to do literature review - find, read and digest relevant research and synthesise information from multiple sources (such as academic literature, reports, books and research papers) and critically assess its relevance, credibility, and quality.",
+              "tools_languages_methodologies": "systematic-literature-review|google-scholar|arxiv|rayyan",
+              "training_resources": "often-offered-by-university-libraries"
+            },
+            {
+              "title": "Writing research papers",
+              "description": "Ability to present research ideas and work in research and scientific publications, including presenting evidence, evaluation and argumentation in academic paper structure.",
+              "tools_languages_methodologies": "formatting-text|latex|overleaf|reference-management|zotero|bibtex|mendeley|endnote",
+              "training_resources": "academic-writing-workshopscourses|reference-management-a-practical-guide"
+            },
+            {
+              "title": "Peer review of research papers",
+              "description": "Ability to provide constructive, evidence-based feedback on other people’s work to improve quality, foster learning and advance research.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Ethical responsibility",
+              "description": "Ability to identify potential ethical concerns related to research subjects' welfare, data collection, storage and security methods, informed consent and privacy.",
+              "tools_languages_methodologies": "gdpr|ethics-approvals|care-principles-for-indigenous-data-governance",
+              "training_resources": "five-things-you-need-to-know-about-research-data-management-and-the-law"
+            },
+            {
+              "title": "Legal and regulatory responsibility",
+              "description": "Understanding of legislation and legal responsibilities when conducting work in specific research areas.",
+              "tools_languages_methodologies": "export-control|intellectual-property-ip|licensing|gdpr|clinical-trials-regulations|medical-devices",
+              "training_resources": "know-your-legal-and-ethical-responsibilities|ethical-and-legal-issues-university-of-liverpool|ethical-and-legal-issues-university-of-oxford"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Communication",
+      "description": "Ability to convey ideas, knowledge and impact across diverse audiences, fostering understanding, knowledge transfer and engagement within and beyond the organisation.",
+      "competencies": [
+        {
+          "title": "Verbal and written communication",
+          "description": "Articulating complex ideas clearly and effectively through a range of formats and for varied audiences.",
+          "skills": [
+            {
+              "title": "Public speaking and presentation",
+              "description": "Public speaking, presentation and communication with a diverse audience (general public, non-technical, technical or cross-disciplinary audiences).",
+              "tools_languages_methodologies": "designing-presentations|google-slides|microsoft-powerpoint|communication-with-general-public|communication-with-non-technical-audiences|communication-with-technical-audiences",
+              "training_resources": "presenting-posters-and-conference-talks-the-turing-way|ptp-public-speaking-courses|effective-communication-in-the-workplace"
+            },
+            {
+              "title": "Information synthesis and concise written communication",
+              "description": "Ability to structure and condense information in a written form for engaging with a diverse audience.",
+              "tools_languages_methodologies": "writing-blog-posts|communication-with-general-public|communication-with-non-technical-audiences|communication-with-technical-audiences",
+              "training_resources": ""
+            },
+            {
+              "title": "Technical writing",
+              "description": "Ability to create clear, concise, and structured technical documentation.",
+              "tools_languages_methodologies": "technical-or-scientific-reports|technical-documentation|latex|overleaf||read-the-docs|mkdocs|sphynx|markdown|r-markdown|quarto|communication-with-technical-audiences",
+              "training_resources": ""
+            },
+            {
+              "title": "Multimedia and social content production",
+              "description": "Ability to create, edit, and manage various forms of digital content across multiple media platforms, e.g. graphic design, audio/video/animation production, social media, etc.",
+              "tools_languages_methodologies": "adobe-photoshop|adobe-illustrator|canva|adobe-premiere|obs|youtube|mastodon|x|linkedin|bluesky|podcasts",
+              "training_resources": "social-media-for-research-communications-the-turing-way"
+            },
+            {
+              "title": "Note taking",
+              "description": "Ability to document and organise meeting information and capture clear actions.",
+              "tools_languages_methodologies": "recording-clear-actions",
+              "training_resources": ""
+            },
+            {
+              "title": "Active listening",
+              "description": "Ability to be an attentive and engaged listener.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Providing positive and constructive feedback",
+              "description": "Ability to offer supportive and insightful feedback and review comments on other's work to improve quality, foster learning, and uphold standards.",
+              "tools_languages_methodologies": "",
+              "training_resources": "cscce-mini-workshop-on-the-topic-of-giving-and-receiving-feedback|thanks-for-the-feedback|shared-documents-and-constructive-collaboration"
+            },
+            {
+              "title": "Assertive communication",
+              "description": "Ability to be assertive in communication, including setting boundaries and declining requests firmly and politely when needed.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            }
+          ]
+        },
+        {
+          "title": "Community and outreach",
+          "description": "Engaging with wider communities through knowledge sharing, collaboration and public engagement to increase the visibility and impact of work.",
+          "skills": [
+            {
+              "title": "Peer support and creating safe spaces",
+              "description": "Providing emotional, social and practical support to other members of a community, fostering mutual understanding, encouragement and personal growth.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Networking and relationship building",
+              "description": "Establishing connections at professional gatherings to exchange knowledge, support and opportunities for growth.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Raising awareness of or advocating for issues",
+              "description": "Identifying, communicating and educating others about a specific problem to generate action, support or change.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Community building and leadership",
+              "description": "Ability to inspire, guide and mobilise people toward a shared vision or a goal.",
+              "tools_languages_methodologies": "",
+              "training_resources": "community-participation-model-cscce|a-guide-to-using-virtual-events-to-facilitate-community-building-selecting-and-testing-online-tools|cscces-guide-on-how-to-steward-large-scale-collaborations|githubs-building-community"
+            },
+            {
+              "title": "Community governance and management",
+              "description": "Setting norms, structures and processes to guide decision-making, coordination, communication and participation within a community.",
+              "tools_languages_methodologies": "decision-making-processes|marthas-rules|githubs-minimum-viable-governance|onboarding-new-members|slack|mattermost|code-of-conduct|meeting-rules|understanding-and-defining-community-roles|assessing-community-health",
+              "training_resources": "governance-in-the-turing-way|metadocencia-builds-its-governance-collaboratively|community-governance-resources|ukris-guide-to-appling-for-funding|3-metrics-to-measure-your-open-source-community-health|chaoss-community-metrics|githubs-building-community|redhat-open-source-project-health-checklist"
+            },
+            {
+              "title": "Open project culture, structure and practices ",
+              "description": "Understanding of different open science or open source communities of practice and how they work - structures, norms, governance, incentives and sustainability.",
+              "tools_languages_methodologies": "open-source-principles",
+              "training_resources": "open-source-software-oss-foundations|linux-foundation|apache-software-foundation|python-software-foundation|r-foundation|jupyter-project|research-software-alliance-resa|galaxy-project| what-is-open-source-software-oss"
+            },
+            {
+              "title": "Community engagement",
+              "description": "Ability to actively and constructively participate in professional, research and open communities in ways that build relationships, enable collaboration, support others and strengthen shared goals.",
+              "tools_languages_methodologies": "",
+              "training_resources": "outlining-the-structure-of-your-open-source-software-project"
+            }
+          ]
+        },
+        {
+          "title": "Teaching and learning",
+          "description": "Designing and delivering effective learning experiences that build skills, transfer knowledge and support capacity and capability development across audiences.",
+          "skills": [
+            {
+              "title": "Pedagogical skills and theory of learning",
+              "description": "Ability to design, deliver and evaluate teaching based on an understanding of the theory of how people learn and how best to teach them.",
+              "tools_languages_methodologies": "",
+              "training_resources": "carpentries-instructor-training|teaching-tech-together|enseando-tecnologa-en-comunidadspanish"
+            },
+            {
+              "title": "Self-learning",
+              "description": "Ability to learn independently and teach oneself new technical and non-technical skills.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Lifelong learning",
+              "description": "Ongoing, voluntary and self-motivated pursuit of learning for either personal or professional reasons.",
+              "tools_languages_methodologies": "",
+              "training_resources": ""
+            },
+            {
+              "title": "Knowledge exchange",
+              "description": "Ability to share information, expertise and good practices within a team, organisation or community.",
+              "tools_languages_methodologies": "onboarding-new-members|presentations|pair-programming|google-slides|microsoft-powerpoint|canva",
+              "training_resources": ""
+            },
+            {
+              "title": "Teaching and training others",
+              "description": "Ability to convey theoretical and practical knowledge to others, address misconceptions, etc. in training events, while applying good practice from pedagogical theory.",
+              "tools_languages_methodologies": "",
+              "training_resources": "carpentries-instructor-training|teaching-tech-together|enseando-tecnologa-en-comunidadspanish"
+            },
+            {
+              "title": "Training material development",
+              "description": "Ability to design and develop various short-format training materials (tutorials, courses, etc.), while applying good practice from pedagogical theory.",
+              "tools_languages_methodologies": "",
+              "training_resources": "carpentries-collaborative-lesson-development-training"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

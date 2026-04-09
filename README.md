@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19485965.svg)](https://doi.org/10.5281/zenodo.19485965)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19485964.svg)](https://doi.org/10.5281/zenodo.19485964)
 
 # DIgital REsearch CompeTencies (DIRECT) Framework
 

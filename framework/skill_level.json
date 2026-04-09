@@ -28,10 +28,10 @@
     "focus": "learning and remembering"
   },
   {
-    "name": "None or N/A",
+    "name": "None or not applicable",
     "description": "No ability demonstrated, or the skill is not required or applicable to the role.",
     "level": "0",
     "short_description": "No ability or not applicable",
-    "focus": ""
+    "focus": "Not applicable"
   }
 ]

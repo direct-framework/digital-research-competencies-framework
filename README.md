@@ -107,13 +107,8 @@ See [LICENSE.md](./LICENSE.md) for details.
 
 Please cite this work as follows:
 
-```{bibtex}
-@article{RSECompetenciesToolkit2023,
-  title={RSE Competencies Toolkit},
-  author={RSE Competencies Toolkit team},
-  journal={GitHub},
-  year={2023}
-}
+```
+Nenadic, A., Reed, P., Horsfall, D., Goel, A., Chadwick, E., Hogan, E., D'Alessandro, A., de Boer, L., Cooper, J., & Katz, D. (2026). DIRECT competencies framework for digital Research Technical Professionals (v2.0.0-pre-release). Zenodo. https://doi.org/10.5281/zenodo.19485965
 ```
 
 ## Acknowledgements

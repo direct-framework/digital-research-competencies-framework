@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19485965.svg)](https://doi.org/10.5281/zenodo.19485965)
+
 # DIgital REsearch CompeTencies (DIRECT) Framework
 
 This work is part of the [DIRECT project](https://github.com/direct-framework). This repository contains the definition a competencies framework for digital Research Technology Professionals (dRPTs).

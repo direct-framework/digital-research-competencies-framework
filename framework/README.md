@@ -7,7 +7,7 @@ Files contained in this folder represent the DIRECT framework dataset.
 - [Competencies](./competency.csv) - integrated set of skills - knowledge, behaviours and professional practices - required to perform effectively in a defined context.
 - [Skills](./skill.csv) - specific, learnable and demonstrable behaviours or ability to perform tasks to an expected standard and guided by certain community values or practices.
 - [Skill levels](./skill_level.csv) - degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
-- [Tools, methodologies and languages](./tool_methodology_language.csv) - demonstrators of skills.
+- [Demonstrator resources (tools, methodologies and languages)](./learning_resource.csv) - demonstrators of skills.
 - [Learning resources](./learning_resource.csv) - materials or activities that help individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ## Data model

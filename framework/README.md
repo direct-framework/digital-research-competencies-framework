@@ -7,7 +7,7 @@ Files contained in this folder represent the DIRECT framework dataset.
 - [Competencies](./competency.csv) - integrated set of skills - knowledge, behaviours and professional practices - required to perform effectively in a defined context.
 - [Skills](./skill.csv) - specific, learnable and demonstrable behaviours or ability to perform tasks to an expected standard and guided by certain community values or practices.
 - [Skill levels](./skill_level.csv) - degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
-- [Tools, methodologies and languages](./tool_methodology_language.csv) - demonstrators of skills.
+- [Demonstrator resources (tools, methodologies and languages)](./demonstrator_resource.csv) - demonstrators of skills.
 - [Learning resources](./learning_resource.csv) - materials or activities that help individuals develop skills or learn to use tools, languages, and methodologies relevant to their role or specialty.
 
 ## Data model
@@ -19,9 +19,9 @@ erDiagram
     direction LR
     competency ||--|{competency_domain : belongs
     skill ||--|{ competency : belongs
-    skill }o--o{ tool_methodology_language : "demonstrated by"
+    skill }o--o{ demonstrator_resource : "demonstrated by"
     skill }o--o{ learning_resource: "learning and development"
-    tool_methodology_language }o--o{ learning_resource : "learning and development"
+    demonstrator_resource }o--o{ learning_resource : "learning and development"
     learning_resource ||--|{ provider : "provided by"
 
     competency_domain {
@@ -47,12 +47,12 @@ erDiagram
             string[] learning_resources
     }
 
-    tool_methodology_language {
+    demonstrator_resource {
         string slug PK
         string name
         string description
         string url
-        enum kind "tool, methodology, language"
+        enum kind "computational_tool, programming_data_language, methodology"
         string[] learning_resources
     }
 

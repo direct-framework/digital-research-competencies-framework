@@ -52,7 +52,7 @@ erDiagram
         string name
         string description
         string url
-        enum kind "computational_tool, methodology, programming_data_language"
+        enum kind "computational_tool, programming_data_language, methodology"
         string[] learning_resources
     }
 

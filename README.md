@@ -37,7 +37,7 @@ Skill levels are used during creation of personal profiles ("skill wheels") when
 
 ### Professional development resources
 
-#### Tools, methodologies and languages
+#### Demonstrator resources
 
 [Tools, methodologies and languages](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/tool_methodology_language.csv) are demonstrators of skills.
 

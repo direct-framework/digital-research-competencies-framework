@@ -19,9 +19,9 @@ erDiagram
     direction LR
     competency ||--|{competency_domain : belongs
     skill ||--|{ competency : belongs
-    skill }o--o{ tool_methodology_language : "demonstrated by"
+    skill }o--o{ demonstrator_resource : "demonstrated by"
     skill }o--o{ learning_resource: "learning and development"
-    tool_methodology_language }o--o{ learning_resource : "learning and development"
+    demonstrator_resource }o--o{ learning_resource : "learning and development"
     learning_resource ||--|{ provider : "provided by"
 
     competency_domain {
@@ -47,7 +47,7 @@ erDiagram
             string[] learning_resources
     }
 
-    tool_methodology_language {
+    demonstrator_resource {
         string slug PK
         string name
         string description

@@ -4,13 +4,16 @@
 
 This work is part of the [DIRECT project](https://github.com/direct-framework). This repository contains the definition a competencies framework for digital Research Technology Professionals (dRPTs).
 
-The DIgital REsearch CompeTencies (DIRECT) framework helps classify and describe the wide range of technical and non-technical skills used across various digital research roles. These include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. It brings together skills (abilities to perform tasks or behaviours we possess) together with technology tools, methodologies and languages that demonstrate knowledge and proficiency, alongside learning resources to support skill development. The framework provides a shared language for recognising expertise, planning training, and mapping career pathways.
+The DIgital REsearch CompeTencies (DIRECT) Framework helps classify and describe the wide range of technical and non-technical skills used across various digital research roles. These include digital Research Technical Professionals (dRTPs) across domains (such as Research Software 
+Engineers (RSEs), data managers, stewards, specialists and archivists, community managers, research software group leads, lab techicians), researchers, principal investigators (PIs), and many more. 
+
+The DIRECT Framework brings together **skills** (abilities to perform tasks or behaviours we possess) together with **technology tools, methodologies and programming or data description languages** that demonstrate knowledge and proficiency, alongside **learning resources** to support skill development. The framework also provides a [shared language](./#terminology-definitions) for recognising expertise, planning training, and mapping career pathways.
 
 A [sister repository](https://github.com/direct-framework/direct-webapp) contains the framework implementation as a **DIRECT Django webapp** to enable practical use of the DIRECT framework - to browse the skills and competencies, self-assess and create individual skill profiles as [“competency wheels”](https://directframework.com/), compare profiles across a team, define template skills for different digital roles (e.g. a data archivist, a data scientists or an RSE with HPC specialism) and other use cases.
 
 ## DIRECT competency framework
 
-Framework definition is located in the [framework folder](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework) of this repository.
+The framework definition is located in the [framework folder](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework) of this repository.
 Data files are provided in JSON and CSV formats.
 
 ### Terminology definitions

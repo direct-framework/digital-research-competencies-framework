@@ -3,8 +3,8 @@
 Files contained in this folder represent the DIRECT framework dataset.
 
 - [Definitions of terms](./terminology.md) - shared language for use across various user communities
-- [Competency domains](#competency_domains) - high-level thematic grouping of related competencies that together represent a broad area of professional capability.
-- [Competencies](#competencies) - integrated set of skills - knowledge, behaviours and professional practices - required to perform effectively in a defined context.
+- [Competency domains](./#competencies-domains--competencies) - high-level thematic grouping of related competencies that together represent a broad area of professional capability.
+- [Competencies](./#competencies-domains--competencies) - integrated set of skills - knowledge, behaviours and professional practices - required to perform effectively in a defined context.
 - [Skills](#skills) - specific, learnable and demonstrable behaviours or ability to perform tasks to an expected standard and guided by certain community values or practices.
 - [Skill levels](skill_levels) - degree of proficiency, autonomy or awareness demonstrated in applying a skill (performing a task or a behaviour).
 - [Tools, languages and methodologies](./tool_language_methodology.csv) - demonstrators of skills.
@@ -138,7 +138,8 @@ Skills data is also available in [CSV format](./skills.csv) and [JSON format](./
 
 ### Skill levels
 
-We define the following 4-level skill scale:
+We define the following 4-level skill scale.
+Skill levels data is available in [CSV format](./skill_levels.csv) and [JSON format](./skill_levels.json).
 
 #### Level 0 - None or N/A
 

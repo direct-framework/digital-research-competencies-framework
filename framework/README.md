@@ -131,9 +131,9 @@ The DIRECT framework includes both technical and non-technical skills:
 - **technical skills** cover discipline-related expertise such as programming, data analysis, software engineering, use of digital infrastructures (e.g. HPC and cloud), reproducible research practices
 - **non-technical** skills encompass broader professional competencies and behaviours that enable effective practice and collaboration, including cognitive and reflective abilities (analysis, problem-solving, creativity, self-reflection), emotional and interpersonal skills (empathy, conflict resolution, cultural awareness), professional and personal maturity (time management, adaptability, resilience, ethical integrity), and social awareness and systems thinking (EDIA, mental health awareness, business acumen).
 
-There is over 180 skills in the framework - they are best explored through the [DIRECT webapp](directframework.org).
+There is over 180 skills in the framework - they are best explored through the [DIRECT webapp][direct-webapp].
 
-Skills data is also available in [CSV format](./skills.csv) and [JSON format](./skills.json).
+Skills data is available in [CSV format](./skills.csv) and [JSON format](./skills.json).
 
 
 ### Skill levels
@@ -198,11 +198,11 @@ Focus: designing new solutions, setting strategy, and shaping organisational or 
 
 ##### Competency wheels
 
-We use the skills scale for (self-)assessment and to create competency wheels (personalised skill profiles) as part of the [practical implementation of the DIRECT framework][direct-webapp].
+We use the skills scale for (self-)assessment and to create competency wheels (personalised skill profiles) within the [DIRECT webapp][direct-webapp] - a practical implementation of the DIRECT framework.
 
 ##### Professional development & curriculum design 
 
-The skills scale can also support curriculum design and planning for professional and personal development within the DIRECT framework.
+The skills scale can also support curriculum design and planning for professional and personal development.
 To strengthen the connection with development pathways, the scale is mapped to [Bloom’s Taxonomy][blooms-taxonomy], which defines hierarchical learning objectives for both [cognitive][blooms-taxonomy-cognitive-image] (knowledge-based, typically applied to technical skills) and [affective][blooms-taxonomy-affective-image] (emotion-based, typically applied to non-technical skills) domains.
 
 Like our scale, Bloom’s Taxonomy progresses from lower-order processes such as *remembering* and *understanding* to higher-order processes such as *evaluating* and *creating* (e.g. in the context of cognitive skills).

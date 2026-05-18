@@ -213,7 +213,7 @@ The correspondence between our skill levels and Bloom’s hierarchical levels is
 *Four skill levels mapped to the revised Bloom's taxonomy of cognitive and emotional skills (adapted from the [revised Bloom's taxomony diagram][revised-blooms-taxonomy-image] and [Bloom's taxonomy without text image][blooms-taxonomy-without-text], both from Wikimedia Commons)*
 
 
-## References & Inspiration
+## References & inspiration
 
 * [UK Government Science and Engineering: Career Framework][gse-framework]
 * [UK Government Digital and Data Profession Capability Framework][ddat-framework]

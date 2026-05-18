@@ -83,69 +83,58 @@ erDiagram
     }
 ```
 
-### Competency domains
+### Competencies domains & competencies
 
-Competency domains are high-level thematic grouping of related competencies that together represent a broad area of professional capability.
-There are 7 competency domains in the framework:
+**Competency domains** are high-level thematic grouping of related competencies that together represent a broad area of professional capability.
 
-- Information and data technologies
-- Software design and development
-- Computing infrastructures and systems
-- Domain expertise and research
-- Professional and people skills
-- Communication
-- Leadership and management
+**Competencies are** integrated set of skills - knowledge, behaviours and professional practices - required to perform effectively in a defined context.
 
-Competency domains data is available in [CSV format](./competency_domain.csv) and [JSON format](./competency_domain.json).
+There are 20 competencies in the framework organised in 7 competency domains.
 
-### Competencies
-
-Competencies are integrated set of skills - knowledge, behaviours and professional practices - required to perform effectively in a defined context.
-There are 20 competencies organised in the above competency domains.
-
-- Information and data technologies
+- **Information and data technologies**
 	- Data engineering
  	- Data science and analytics	 	
-- Software design and development
+- **Software design and development**
 	- Software engineering
 	- Web and mobile app development
  	- User Interface / User Experience (UI/UX) design 
-- Computing infrastructures and systems
+- **Computing infrastructures and systems**
 	- General systems infrastructure
  	- Web infrastructure
   	- HPC infrastructure
   	- Cloud infrastructure
-- Domain expertise and research
+- **Domain expertise and research**
 	- Domain knowledge
  	- Research skills
-- Professional and people skills
+- **Professional and people skills**
 	- Personal skills
  	- Interpersonal skills
   	- Teamwork
-- Communication
+- **Communication**
 	- Verbal and written communication
  	- Community and outreach
   	- Teaching and learning 
-- Leadership and management
+- **Leadership and management**
 	- People and team management
  	- Programme and project management
   	- Leadership
-	
+
+Competency domains data is available in [CSV format](./competency_domain.csv) and [JSON format](./competency_domain.json).
 Competencies data is available in [CSV format](./competencies.csv) and [JSON format](./competencies.json).
 
 ### Skills
 
-This document defines a skill scale as part of the [DIRECT Competency Framework][direct-framework]. 
-It provides a structured way for digital research technical professionals (dRTPs) to describe their ability in a given skill. 
-The scale sets out the expected proficiency at each level, from basic awareness to advanced expertise. 
-It helps individuals compare their current proficiency with higher levels, identify development goals, and understand what top performers typically demonstrate at each stage.
+**Skills** are specific, learnable and demonstrable behaviours or ability to perform tasks to an expected standard and guided by certain community values or practices.
 
-The DIRECT framework skills that dRTPs draw on can be broadly divided into technical and non-technical: 
+The DIRECT framework includes both technical and non-technical skills: 
 
 - **technical skills** cover discipline-related expertise such as programming, data analysis, software engineering, use of digital infrastructures (e.g. HPC and cloud), reproducible research practices
-- **non-technical** skills encompass broader professional competencies that enable effective practice and collaboration, including cognitive and reflective abilities (analysis, problem-solving, creativity, self-reflection), emotional and interpersonal skills (empathy, conflict resolution, cultural awareness), professional and personal maturity (time management, adaptability, resilience, ethical integrity), and social awareness and systems thinking (EDIA, mental health awareness, business acumen).
+- **non-technical** skills encompass broader professional competencies and behaviours that enable effective practice and collaboration, including cognitive and reflective abilities (analysis, problem-solving, creativity, self-reflection), emotional and interpersonal skills (empathy, conflict resolution, cultural awareness), professional and personal maturity (time management, adaptability, resilience, ethical integrity), and social awareness and systems thinking (EDIA, mental health awareness, business acumen).
 
-Our skills scale is designed to apply equally well to both technical and non-technical skills. 
+There is over 180 skills in the framework - they are best explored through the [DIRECT webapp](directframework.org).
+
+Skills data is also available in [CSV format](./skills.csv) and [JSON format](./skills.json).
+
 
 ### Skill levels
 

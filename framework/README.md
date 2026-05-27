@@ -92,7 +92,7 @@ erDiagram
 There are 20 competencies in the framework organised in 7 competency domains.
 
 - **Information and data technologies**
-	- Data engineering
+	- Data management and engineering
  	- Data science and analytics	 	
 - **Software design and development**
 	- Software engineering

@@ -122,3 +122,5 @@ Nenadic, A., Reed, P., Horsfall, D., Goel, A., Chadwick, E., Hogan, E., D'Alessa
 The initial version of this repository was created during the Software Sustainability Institute Collaborations Workshop
 2023 (CW23) Hack Day. Subsequent development was guided by a number of unconference sessions and contributions by RSE community members during RSECon23, RSECon24 and CW25.
 
+_This work was supported by the [DisCouRSE Network+](https://discourse-network.github.io/), which received funding through the UKRI.
+Digital Research Infrastructure Programme_

@@ -1,15 +1,31 @@
 name,slug,language,url,provider,description
+Exploring the Experiences of Marginalised Groups in Research Software Careers: Preliminary Findings,exploring-the-experiences-of-marginalised-groups-in-research-software-careers-preliminary-findings,en,https://doi.org/10.71535/fb0b1101-0202-4250-8309-6f57cb82b99e,institute-for-research-software,"Report on how experiences of discrimination influence career decisions; how precarity in UK academia shapes career and
+professional identity; and how confidence in RSE skills is a protective factor in the workplace"
+"Equity, Diversity, Inclusivity and Accessibility in Research Software Engineering: Guidelines for Making a Difference",equity-diversity-inclusivity-and-accessibility-in-research-software-engineering-guidelines-for-making-a-difference,en,https://doi.org/10.71535/1be8e290-4f1c-48d4-b58c-edf4db1047b3,institute-for-research-software,"Report sharing background on the author's research with members of the UK RSE community with marginalised identities, outlining components and criticisms of EDIA initiatives, and offering approaches they believe most likely to lead to improved equity in RSE specifically and in Science, Technology, Engineering and Mathematics (STEM) more broadly."
+Research Community Management 101 - Part Two - Video Recording,research-community-management-101-part-two-video-recording,en,https://youtu.be/Nz2A_O_XSPQ,rcm-cooperative,"Public recording of Research Community Management 101 - Part Two, covering community maturation and engagement strategies, from planning participation levels to mapping your community and prioritising next steps for sustainable growth"
+Research Community Management 101 - Part One - Video Recording,research-community-management-101-part-one-video-recording,en,https://youtu.be/2DOujzudzB4,rcm-cooperative,"Public recording of Research Community Management 101 - Part One, covering the foundations of research community management, including key roles, skills frameworks, and a reflective activity to map your own competencies and those of your community"
+Research Community Management 101 - Part One & Part Two - Presentation,research-community-management-101-part-one-part-two-presentation,en,https://zenodo.org/records/20128621,rcm-cooperative,Slides for RCM 101 Part One and Part Two sessions
+Open Leadership in Practice: building open initiatives - Presentation,open-leadership-in-practice-building-open-initiatives-presentation,en,https://doi.org/10.5281/zenodo.20642495,ols,"Slides from Open Leadership in Practice session, including reflections by Seun Olufemi on building Bioinformatics Outreach Nigeria"
+Open Leadership in Practice - Video Recording,open-leadership-in-practice-video-recording,en,https://youtu.be/ZkLhWx4W-nY,ols,"Public recording of Leadership in Practice session, including reflections by Sarah Gibson and Seun Olufemi"
+Tools for Open Collaboration: Contribution Guidelines and CoC - Video Recording,tools-for-open-collaboration-contribution-guidelines-and-coc-video-recording,en,https://youtu.be/ufE9XyDoQDs,ols,"Public recording, covering ways to develop Contribution Guidelines for an open project and how to define and use a Code of Conduct for Open Collaboration"
+Tools for Open Collaboration: Contribution Guidelines and CoC - Presentation,tools-for-open-collaboration-contribution-guidelines-and-coc-presentation,en,https://doi.org/10.5281/zenodo.20146883,ols,"Tools for Open Collaboration slides, covering ways to develop Contribution Guidelines for an open project and how to define and use a Code of Conduct for Open Collaboration"
+Tools for Open Collaboration: Licences & READMEs - Video Recording,tools-for-open-collaboration-licences-readmes-video-recording,en,https://youtu.be/OkK2TDnFwc8,ols,"Public recording of Tools for Open Collaboration, covering different licences types and how to prepare a READme for your own project"
+Tools for Open Collaboration: Licences & READMEs - Presentation,tools-for-open-collaboration-licences-readmes-presentation,en,https://doi.org/10.5281/zenodo.20155912,ols,"Tools for Open Collaboration slides, covering different licences types and how to prepare a READme for your own project"
+Tooling for Project Design - Video Recording,tooling-for-project-design-video-recording,en,https://youtu.be/Fvltq5zwByo,ols,"Public recording for Tooling for Project Design session, covering Open Canvas and roadmapping techniques for project management"
+Tooling for Project Design - Presentation,tooling-for-project-design-presentation,en,https://doi.org/10.5281/zenodo.20921729,ols,"Presentation slides for Tooling for Project Design session, covering Open Canvas and roadmapping techniques for project management"
+Open Science Essentials - Presentation,open-science-essentials-presentation,en,https://doi.org/10.5281/zenodo.20920869,ols,"Presentation slides for Open Science session, covering an introduction to Open Science definitions and frameworks, Open Data work and introduction to FAIR Data"
+Open Science Essentials - Video Recording,open-science-essentials-video-recording,en,https://youtu.be/8lZCuOMOGHw,ols,"Public recording for Open Science session, covering an introduction to Open Science definitions and frameworks, Open Data work and introduction to FAIR Data"
 What is Open Source Software (OSS)?,what-is-open-source-software-oss,en,https://github.com/resources/articles/what-is-open-source-software,github,
 What is Authorization and Access Control?,what-is-authorization-and-access-control,en,https://www.icann.org/en/blogs/details/what-is-authorization-and-access-control-2-12-2015-en,,
 What are Metadata Standards - DCC,what-are-metadata-standards-dcc,en,https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards,dcc,
-WebAIM Accesibility Resources,webaim-accesibility-resources,en,https://webaim.org/articles/,webaim,
+WebAIM Accessibility Resources,webaim-accessibility-resources,en,https://webaim.org/articles/,webaim,
 Version Control with Git,version-control-with-git,en,https://swcarpentry.github.io/git-novice,software-carpentry,
 Version Control for Data - The Turing Way,version-control-for-data-the-turing-way,en,https://book.the-turing-way.org/reproducible-research/vcs/vcs-data/,the-turing-way,
 Version Control - The Turing Way,version-control-the-turing-way,en,https://book.the-turing-way.org/reproducible-research/vcs/,the-turing-way,
 Using Databases and SQL,using-databases-and-sql,en,https://swcarpentry.github.io/sql-novice-survey,software-carpentry,
 University of Manchester internal Agile/Scrum course (work in progress),university-of-manchester-internal-agilescrum-course-work-in-progress,en,https://research-it.manchester.ac.uk/news/2024/02/16/agile-methods-for-rses/,the-university-of-manchester,
 Understanding neurodiversity,understanding-neurodiversity,en,https://www.acas.org.uk/neurodiversity-at-work,acas,
-UKRI's guide to appling for funding,ukris-guide-to-appling-for-funding,en,https://www.ukri.org/apply-for-funding/,uk-research-and-innovation-ukri,
+UKRI's guide to applying for funding,ukris-guide-to-applying-for-funding,en,https://www.ukri.org/apply-for-funding/,uk-research-and-innovation-ukri,
 UK research funding model,uk-research-funding-model,en,https://www.universitiesuk.ac.uk/what-we-do/policy-and-research/publications/features/research-and-innovation-facts-and/funding,,
 Tuesday Tools & Techniques for High Performance Computing,tuesday-tools-techniques-for-high-performance-computing,en,https://scicomp.aalto.fi/training/scip/ttt4hpc-2024/,coderefinery,
 TLDRLegal,tldrlegal,en,https://www.tldrlegal.com/,tldrlegal,
@@ -25,7 +41,6 @@ Thanks for the Feedback,thanks-for-the-feedback,en,https://www.stoneandheen.com/
 Teaching tech together,teaching-tech-together,en|es,https://teachtogether.tech/,greg-wilson,
 Task Management for Humans as Self Care: Summary and Setup,task-management-for-humans-as-self-care-summary-and-setup,en,https://carpentries-incubator.github.io/task-management/,the-carpentries,
 Task management (Wikipedia),task-management-wikipedia,en,https://en.wikipedia.org/wiki/Task_management,wikipedia,
-SSI Fellowship,ssi-fellowship,en,https://www.software.ac.uk/programmes/fellowship-programme,software-sustainability-institute,
 SQL,sql,en,https://librarycarpentry.github.io/lc-sql/,library-carpentry,
 Social Media for Research Communications — The Turing Way,social-media-for-research-communications-the-turing-way,en,https://book.the-turing-way.org/communication/social-media,the-turing-way,
 Social coding and open software,social-coding-and-open-software,en,https://coderefinery.github.io/social-coding/,coderefinery,
@@ -137,7 +152,7 @@ Five things you need to know about research data management and the law,five-thi
 Finding Your Way To R For Data Science,finding-your-way-to-r-for-data-science,en,https://education.rstudio.com/learn/,rstudio,
 Exploring career mentoring and coaching,exploring-career-mentoring-and-coaching,en,https://www.open.edu/openlearn/money-business/exploring-career-mentoring-and-coaching/content-section-overview?active-tab=description-tab,open-university,
 Everything you wanted to know about applying for grants but didn't ask,everything-you-wanted-to-know-about-applying-for-grants-but-didnt-ask,en|es,https://github.com/MetaDocencia/AccesoFinanciacion/blob/main/hidden-curriculum.md,metadocencia,
-Event Organisation Guide,event-organisation-guide,en,https://event-organisation-guide.readthedocs.io/en/latest/index.html,software-sustainability-institute,
+Event Organisation Guide,event-organisation-guide,en,https://event-organisation-guide.readthedocs.io/en/latest/index.html,institute-for-research-software,
 Ethics and law - The Turing Way,ethics-and-law-the-turing-way,en,https://book.the-turing-way.org/ethical-research/law-policy/law-policy-ethics,the-turing-way,
 Ethical and legal issues (University of Oxford),ethical-and-legal-issues-university-of-oxford,en,https://researchdata.ox.ac.uk/ethical-and-legal-issues,research-data-oxford,
 Ethical and Legal Issues (University of Liverpool),ethical-and-legal-issues-university-of-liverpool,en,https://www.liverpool.ac.uk/library/research-data-management/essentials/ethical-and-legal/,university-of-liverpool,
@@ -146,7 +161,7 @@ El Control de Versiones con Git,el-control-de-versiones-con-git,es,https://swcar
 Effective communication in the workplace,effective-communication-in-the-workplace,en,https://www.open.edu/openlearn/money-business/effective-communication-the-workplace/content-section-overview?active-tab=description-tab,open-university,
 Digital Humanities Climate Coalition Toolkit,digital-humanities-climate-coalition-toolkit,en,https://sas-dhrh.github.io/dhcc-toolkit/,digital-humanities-climate-coalition,
 Difficult Conversations: How to discuss what matters most,difficult-conversations-how-to-discuss-what-matters-most,en,https://www.stoneandheen.com/difficult-conversations,stone-and-heen,
-Diátaxis,ditaxis,en,https://diataxis.fr/,ditaxis,
+Diataxis Framework,diataxis-framework,en,https://diataxis.fr/,diataxis,
 Day-to-day working on clusters,day-to-day-working-on-clusters,en,https://coderefinery.github.io/TTT4HPC_Interactive/,coderefinery,
 Datasheets for Datasets,datasheets-for-datasets,en,http://dx.doi.org/10.1145/3458723,acm-digital-library,
 Databases and SQL by The Carpentries,databases-and-sql-by-the-carpentries,en,https://swcarpentry.github.io/sql-novice-survey/,the-carpentries,

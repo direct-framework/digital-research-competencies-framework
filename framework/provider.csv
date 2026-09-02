@@ -1,4 +1,7 @@
-name,slug,url,ror,description
+﻿name,slug,url,ror,description
+NetDRIVE,netdrive,https://uknetdrive.org,,
+RCM Cooperative,rcm-cooperative,https://www.rcmcooperative.com/,,"RCM Cooperative works with and for communities to develop and refine their capacity for equitable, resilient and collaborative research."
+Institute for Research Software,institute-for-research-software,https://www.software.ac.uk/,https://ror.org/0455awd29,
 HPC Capentry,hpc-carpentry,https://www.hpc-carpentry.org,,
 CodeRefinery,coderefinery,https://coderefinery.org,,
 UK Government,uk-government,https://gov.uk,,
@@ -51,7 +54,7 @@ Green Software Foundation,green-software-foundation,https://greensoftware.founda
 Erin Meyer,erin-meyer,https://erinmeyer.com/,,
 ELIXIR Europe,elixir-europe,https://elixir-europe.org/,https://ror.org/044rwnt51,
 Digital Humanities Climate Coalition,digital-humanities-climate-coalition,https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/,,
-Diátaxis,ditaxis,https://diataxis.fr/,,
+Diataxis,diataxis,https://diataxis.fr/,,
 DCC,dcc,https://www.dcc.ac.uk/,https://ror.org/01k9d6864,
 Data Carpentry,data-carpentry,https://datacarpentry.org/,,
 CSCCE: Center for Scientific Collaboration and Community Engagement,cscce-center-for-scientific-collaboration-and-community-engagement,https://www.cscce.org/,https://ror.org/03xaryf14,

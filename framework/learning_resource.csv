@@ -1,4 +1,18 @@
 name,slug,language,url,provider,description
+Green Digital Certificate,green-digital-certificate,en,https://greendigitalcertificate.inco-group.co,inco-academy,
+IFGICT Green IT Certification,ifgict-green-it-certification,en,https://ifgict.org/green-it-certification,ifgict,
+Postgraduate Certificate in Green Software Engineering,postgraduate-certificate-in-green-software-engineering,en,https://www.lsib.co.uk/courses/course/postgraduate-certificate-in-green-software-engineering-2752329,london-school-of-international-business,
+Green Coding Training Courses,green-coding-training-courses,en,https://www.green-coding.io/services/workshops-and-trainings,green-coding-solutions-gmbh,
+Driving Digital Sustainability,driving-digital-sustainability,en,https://www.jisc.ac.uk/training/driving-digital-sustainability,jisc,
+Carbon Literacy,carbon-literacy,en,https://carbonliteracy.com/become-carbon-literate,the-carbon-literacy-trust,
+Responsible AI Risk Register,responsible-ai-risk-register,en,https://github.com/jshng-glasgow/Responsible-AI-Risk-Register,institute-for-research-software,"A community-maintained register of risks associated with the use of AI in Research Software Engineering, maintained by the Institute for Research Software's Responsible AI Study Group."
+SPARKHub Training and Guidance,sparkhub-training-and-guidance,en,https://sparkhub.eu/training-and-guidance/,sparkhub,
+Principles of Sustainable Software Engineering,principles-of-sustainable-software-engineering,en,https://learn.microsoft.com/en-us/training/modules/sustainable-software-engineering-overview/,microsoft-learn,
+Green Software use on HPC,green-software-use-on-hpc,en,https://carpentries-incubator.github.io/green-software-hpc/,the-carpentries,
+The Software Organisational Framework for Technology,the-software-organisational-framework-for-technology,en,http://grnsft.org/mov-plat-soft-essentials,green-software-foundation,
+Green Software Practitioner,green-software-practitioner,en,https://learn.greensoftware.foundation/,green-software-foundation,
+Sustainable Computing in Science,sustainable-computing-in-science,en,https://www.ebi.ac.uk/training/online/courses/sustainable-computing-in-science/,embl-ebi,
+Advocacy for Sustainable Research,advocacy-for-sustainable-research,en,https://kirstypringle.github.io/advocacy-for-sustainable-research/,institute-for-research-software,
 Exploring the Experiences of Marginalised Groups in Research Software Careers: Preliminary Findings,exploring-the-experiences-of-marginalised-groups-in-research-software-careers-preliminary-findings,en,https://doi.org/10.71535/fb0b1101-0202-4250-8309-6f57cb82b99e,institute-for-research-software,"Report on how experiences of discrimination influence career decisions; how precarity in UK academia shapes career and
 professional identity; and how confidence in RSE skills is a protective factor in the workplace"
 "Equity, Diversity, Inclusivity and Accessibility in Research Software Engineering: Guidelines for Making a Difference",equity-diversity-inclusivity-and-accessibility-in-research-software-engineering-guidelines-for-making-a-difference,en,https://doi.org/10.71535/1be8e290-4f1c-48d4-b58c-edf4db1047b3,institute-for-research-software,"Report sharing background on the author's research with members of the UK RSE community with marginalised identities, outlining components and criticisms of EDIA initiatives, and offering approaches they believe most likely to lead to improved equity in RSE specifically and in Science, Technology, Engineering and Mathematics (STEM) more broadly."
@@ -133,8 +147,6 @@ How to document your research software,how-to-document-your-research-software,en
 How to build a skills-based organisation in 5 steps,how-to-build-a-skills-based-organisation-in-5-steps,en,https://www.muchskills.com/blog/mastering-the-skill-revolution-a-guide-to-becoming-a-skills-based-organisation-in-5-steps,,
 "Harvard Business Review Project Management Handbook: How to Launch, Lead, and Sponsor Successful Projects",harvard-business-review-project-management-handbook-how-to-launch-lead-and-sponsor-successful-projects,en,https://www.amazon.co.uk/Harvard-Business-Project-Management-Handbook/dp/1647821266,hbr-handbooks,
 Handling conflict,handling-conflict,en,https://third-bit.com/py-rse/teams.html#teams-conflict,research-software-engineering-with-python-irving-et-al,
-Green500,green500,en,https://www.top500.org/lists/green500/,top500,
-Green Software Foundation,green-software-foundation,en,https://greensoftware.foundation/,green-software-foundation,
 Governance in The Turing Way,governance-in-the-turing-way,en,https://book.the-turing-way.org/foreword/governance,the-turing-way,
 Google Machine Learning Crash Course,google-machine-learning-crash-course,en,https://developers.google.com/machine-learning/crash-course,,
 GitHub's Building Community,githubs-building-community,en,https://opensource.guide/building-community/,open-source-guides,

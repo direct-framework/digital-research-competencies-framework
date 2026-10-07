@@ -1,4 +1,6 @@
 name,slug,language,url,provider,description
+GitHub Tooling for Agile - University of Manchester,github-tooling-for-agile-university-of-manchester,en,https://uomresearchit.github.io/Course2-GitHub-Tooling-For-Agile,the-university-of-manchester,
+SHAREing Training Catalogue,shareing-training-catalogue,en,https://shareing-dri.github.io/training/external-training-menu,shareing,"Training opportunities in HPC, AI, research software engineering, programming, performance optimisation, and related topics."
 Green Digital Certificate,green-digital-certificate,en,https://greendigitalcertificate.inco-group.co,inco-academy,
 IFGICT Green IT Certification,ifgict-green-it-certification,en,https://ifgict.org/green-it-certification,ifgict,
 Postgraduate Certificate in Green Software Engineering,postgraduate-certificate-in-green-software-engineering,en,https://www.lsib.co.uk/courses/course/postgraduate-certificate-in-green-software-engineering-2752329,london-school-of-international-business,
@@ -37,7 +39,7 @@ Version Control with Git,version-control-with-git,en,https://swcarpentry.github.
 Version Control for Data - The Turing Way,version-control-for-data-the-turing-way,en,https://book.the-turing-way.org/reproducible-research/vcs/vcs-data/,the-turing-way,
 Version Control - The Turing Way,version-control-the-turing-way,en,https://book.the-turing-way.org/reproducible-research/vcs/,the-turing-way,
 Using Databases and SQL,using-databases-and-sql,en,https://swcarpentry.github.io/sql-novice-survey,software-carpentry,
-University of Manchester internal Agile/Scrum course (work in progress),university-of-manchester-internal-agilescrum-course-work-in-progress,en,https://research-it.manchester.ac.uk/news/2024/02/16/agile-methods-for-rses/,the-university-of-manchester,
+Agile Fundamentals - University of Manchester,agile-fundamentals-university-of-manchester,en,https://uomresearchit.github.io/Agile-Fundamentals-Training,the-university-of-manchester,
 Understanding neurodiversity,understanding-neurodiversity,en,https://www.acas.org.uk/neurodiversity-at-work,acas,
 UKRI's guide to applying for funding,ukris-guide-to-applying-for-funding,en,https://www.ukri.org/apply-for-funding/,uk-research-and-innovation-ukri,
 UK research funding model,uk-research-funding-model,en,https://www.universitiesuk.ac.uk/what-we-do/policy-and-research/publications/features/research-and-innovation-facts-and/funding,,

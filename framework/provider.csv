@@ -1,4 +1,7 @@
 name,slug,url,ror,description
+SHAREing,shareing,https://shareing-dri.github.io/training,,"Discover external training opportunities in HPC, AI, research software engineering, programming, performance optimisation, and related topics.
+
+This is a signposting resource created by the SHAREing project. SHAREing support has been used to curate, organise, and present publicly available training opportunities in a searchable format. The courses listed here are provided by third-party organisations and are not funded, delivered, or maintained by SHAREing unless explicitly stated. Course content, availability, schedules, and registration are the responsibility of the individual providers."
 INCO Academy,inco-academy,https://www.academy.inco-group.co/,,
 IFGICT,ifgict,https://ifgict.org,,
 London School of International Business,london-school-of-international-business,https://www.lsib.co.uk,,

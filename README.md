@@ -24,14 +24,14 @@ Data files are provided in JSON and CSV formats.
 
 **Skills** are classified in **competencies** which are in turn contained in bigger **competency domains**.
 
-A [**competency domain**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/competency_domain.csv) is a high-level thematic grouping of related competencies that together represent a broad area of professional capability.
-Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
+A [**skill**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/skill.csv) is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
+Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
 
 A [**competency**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/competency.csv) is an integrated set of skills - knowledge, behaviours and professional practices required to perform effectively in a defined context.
 Competencies describe what effective performance looks like, combining technical capability with application, responsibility and professional conduct.
 
-A [**skill**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/skill.csv) is a specific, learnable and demonstrable behaviour or ability to perform a task to an expected standard and guided by certain community values or practices.
-Skills are observable, trainable and assessable. Multiple skills may contribute to the development of a broader competency.
+A [**competency domain**](https://github.com/direct-framework/digital-research-competencies-framework/tree/main/framework/competency_domain.csv) is a high-level thematic grouping of related competencies that together represent a broad area of technical or professional capability.
+Competency domains provide the structural framework for organising the competencies and skills within the framework and help users navigate related capability areas.
 
 ### Skill levels
 

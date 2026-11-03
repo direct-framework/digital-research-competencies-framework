@@ -14,13 +14,13 @@ flowchart TD
 CD[Competency Domains]
 C[Competencies]
 Sk[Skills]
-SL[Skill Level]
+SL[Skill Levels]
 TLM[Tools / Languages / Methodologies]
 LR[Learning Resources]
 R[Roles]
 Spec[Specialities]
 CP[Career Profiles]
-SP[Skill Profile]
+SP[Skill Profiles]
 
 
 CD -- group --> C

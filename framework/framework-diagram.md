@@ -24,7 +24,7 @@ SP[Skill Profile]
 
 
 CD -- group --> C
-C -- contain --> S
+C -- contain --> Sk
 Sk -- build --> C
 Sk -- proficiency --> SL
 TLM -- demonstrate --> Sk

@@ -29,7 +29,7 @@ Sk -- build --> C
 Sk -- proficiency --> SL
 TLM -- demonstrate --> Sk
 LR -- help development/learning of --> Sk
-LR -- support demonstration of --> TLM
+LR -- support learning of --> TLM
 CP -- contains --> R
 CP -- contains --> Spec
 R -- refers to --> CD

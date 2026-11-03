@@ -30,10 +30,10 @@ Sk -- proficiency --> SL
 TLM -- demonstrate knowledge of --> Sk
 LR -- help development of --> Sk
 LR -- support learning --> TLM
-CP -- contains --> R
-CP -- contains --> Spec
-R -- refers to --> CD
-Spec -- refers to --> Sk
+CP -- contain --> R
+CP -- contain --> Spec
+R -- refer to --> CD
+Spec -- refer to --> Sk
 SP -- contains --> Sk
 SP -- contains --> SL
 ```

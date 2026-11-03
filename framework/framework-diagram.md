@@ -26,7 +26,6 @@ SP[Skill Profiles]
 CD -- group --> C
 C -- contain --> Sk
 Sk -- build --> C
-Sk -- proficiency --> SL
 TLM -- demonstrate knowledge of --> Sk
 LR -- help development of --> Sk
 LR -- support learning --> TLM

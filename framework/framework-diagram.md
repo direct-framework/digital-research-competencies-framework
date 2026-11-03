@@ -33,5 +33,7 @@ LR -- support learning of --> TLM
 CP -- contains --> R
 CP -- contains --> Spec
 R -- refers to --> CD
-SP -- refers to --> Sk
+Spec -- refers to --> Sk
+SP -- contains --> Sk
+SP -- contains SL
 ```

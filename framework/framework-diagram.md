@@ -1,9 +1,11 @@
+---
 config:
   theme: base
   themeVariables:
     background: "#edf1f5"
     primaryColor: "#CEE398"
     secondaryColor: "#F6F9FC"
+---
 
 ## DIRECT competency framework diagram
 

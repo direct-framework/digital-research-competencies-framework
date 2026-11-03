@@ -13,16 +13,25 @@ config:
 flowchart TD
 CD[Competency Domains]
 C[Competencies]
-S[Skills]
+Sk[Skills]
 SL[Skill Level]
 TLM[Tools / Languages / Methodologies]
 LR[Learning Resources]
+R[Roles]
+Spec[Specialities]
+CP[Career Profiles]
+SP[Skill Profile]
+
 
 CD -- group --> C
 C -- contain --> S
-S -- build --> C
-S -- proficiency --> SL
-TLM -- demonstrate --> S
-LR -- help develop --> S
+Sk -- build --> C
+Sk -- proficiency --> SL
+TLM -- demonstrate --> Sk
+LR -- help develop --> Sk
 LR -- support learning of --> TLM
+CP -- contains --> R
+CP -- contains --> Spec
+R -- refers to --> CD
+SP -- refers to --> Sk
 ```

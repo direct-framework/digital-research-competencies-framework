@@ -27,7 +27,7 @@ CD -- group --> C
 C -- contain --> Sk
 Sk -- build --> C
 Sk -- proficiency --> SL
-TLM -- demonstrate --> Sk
+TLM -- demonstrate knowledge of --> Sk
 LR -- help development of --> Sk
 LR -- support learning --> TLM
 CP -- contains --> R

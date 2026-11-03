@@ -33,6 +33,6 @@ CP -- contain --> R
 CP -- contain --> Spec
 R -- refer to --> CD
 Spec -- refer to --> Sk
-SP -- contains --> Sk
-SP -- contains --> SL
+Sk -- build --> SP
+SL -- skill proficiency --> SP
 ```

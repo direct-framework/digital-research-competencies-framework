@@ -35,5 +35,5 @@ CP -- contains --> Spec
 R -- refers to --> CD
 Spec -- refers to --> Sk
 SP -- contains --> Sk
-SP -- contains SL
+SP -- contains --> SL
 ```

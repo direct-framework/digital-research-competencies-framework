@@ -35,9 +35,9 @@ Spec -- refer to --> Sk
 Sk -- build --> SP
 SL -- skill proficiency --> SP
 
-A[Box 1] ---> D:::invisible
-B[Box 2] ---> D
-D --> C[Box 3]
-
 classDef invisible display:none;
+A ---> D:::invisible
+B ---> D
+D --> C
+
 ```

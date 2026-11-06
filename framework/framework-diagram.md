@@ -33,8 +33,8 @@ CP -- contain --> Spec
 R -- refer to --> CD
 Spec -- refer to --> Sk
 
-SL --> SKILL-WITH-LEVEL-CONNECTOR()
-Sk --> SKILL-WITH-LEVEL-CONNECTOR
-SKILL-WITH-LEVEL-CONNECTOR -- skills' proficiencies --> SP
+SL --> SKILLWITHLEVELCONNECTOR()
+Sk --> SKILLWITHLEVELCONNECTOR
+SKILLWITHLEVELCONNECTOR -- skills' proficiencies --> SP
 
 ```

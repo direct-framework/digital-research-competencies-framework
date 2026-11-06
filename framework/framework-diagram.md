@@ -32,12 +32,9 @@ CP -- contain --> R
 CP -- contain --> Spec
 R -- refer to --> CD
 Spec -- refer to --> Sk
-Sk -- build --> SP
-SL -- skill proficiency --> SP
 
-classDef invisible display:none;
-A ---> D:::invisible
-B ---> D
-D --> C
+SL --> J{ }
+Sk --> J
+J --> SP
 
 ```

@@ -35,6 +35,6 @@ Spec -- refer to --> Sk
 
 SL --> J{ }
 Sk --> J
-J -- build --> SP
+J -- skills' proficiencies --> SP
 
 ```

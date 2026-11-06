@@ -35,6 +35,6 @@ Spec -- refer to --> Sk
 
 SL --> SKILLWITHLEVELCONNECTOR(( ))
 Sk --> SKILLWITHLEVELCONNECTOR
-SKILLWITHLEVELCONNECTOR -- skills' proficiencies --> SP
+SKILLWITHLEVELCONNECTOR -- record skills' proficiencies --> SP
 
 ```

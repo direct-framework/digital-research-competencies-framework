@@ -22,7 +22,6 @@ Spec[Specialities]
 CP[Career Profiles]
 SP[Skill Profiles]
 
-
 CD -- group --> C
 C -- contain --> Sk
 Sk -- build --> C
@@ -35,4 +34,10 @@ R -- refer to --> CD
 Spec -- refer to --> Sk
 Sk -- build --> SP
 SL -- skill proficiency --> SP
+
+A[Box 1] ---> J:::invisible
+B[Box 2] ---> J
+J --> C[Box 3]
+
+classDef invisible display:none;
 ```

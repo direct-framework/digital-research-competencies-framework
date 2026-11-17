@@ -59,6 +59,11 @@ authors:
     email: "dskatz@illinois.edu"
     affiliation: "University of Illinois at Urbana-Champaign, US"
     orcid: "https://orcid.org/0000-0001-5934-7525"
+  - given-names: "Saskia"
+    family-names: "Lawson-Tovey"
+    email: "saskia.lawson-tovey@manchester.ac.uk"
+    affiliation: "University of Manchester"
+    orcid: "https://orcid.org/0000-0002-8611-162X"
 repository-code: >-
   https://github.com/direct-framework/digital-research-competencies-framework
 url: >-
